@@ -22,7 +22,7 @@
 [11:38:19], <Michel-Soutien-Victime>, ta geul toi meme majorie la *****,victim_support,bully,yes,name_calling,no
 [11:38:25], <Natacha-Soutien-Harceleur>, je ne vbais pas me calme vous etes des viperes,bully_support,victim/victim_support,yes,denigration,no
 [11:38:26], <Marjorie-Harceleur>, lucie on va leur montrez comment perdre du poids ca va etre marrant,bully,bully,no,none,no
-[11:38:43], <Lucie-Harceleur>, perdre du poid quelle ironie,bully,none,no,none,no
+[11:38:43], <Lucie-Harceleur>, perdre du poid quelle ironie,bully,none,no,none,yes
 [11:38:46], <Natacha-Soutien-Harceleur>, haha cest pas drole du touyt,bully_support,none,no,none,no
 [11:38:52], <Michel-Soutien-Victime>, hahaha ce qui est marrant c'est de te voir nous envier,victim_support,bully,no,none,no
 [11:38:57], <Lucie-Harceleur>, a peine marcher elle a du mal,bully,victim,yes,denigration,no
@@ -66,7 +66,7 @@
 [11:42:53], <Lucie-Harceleur>, moi aussi tkt pas on ne fait que dire ce qu'on voit,bully,none,yes,denigration,no
 [11:43:16], <Natacha-Soutien-Harceleur>, non ne serai jamais jaloux d’elle elle est grosse,bully_support,victim,yes,denigration,no
 [11:43:18], <Lucie-Harceleur>, c'est à dire une buche qui roule sur le sol,bully,victim,yes,denigration,no
-[11:43:21], <Marjorie-Harceleur>, on dénigrent personne on donne juste notre AVIS,bully,none,no,none,no
+[11:43:21], <Marjorie-Harceleur>, on dénigrent personne on donne juste notre AVIS,bully,none,no,none,yes
 [11:43:22], <Michel-Soutien-Victime>, bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense,victim_support,bully,yes,name_calling,no
 [11:43:40], <Marjorie-Harceleur>, allez casse vous un peu,bully,victim/victim_support,yes,name_calling,no
 [11:43:48], <Natacha-Soutien-Harceleur>, non on arrete pas:') :') :') :') il est grosse,bully_support,victim,yes,denigration,no
@@ -164,7 +164,7 @@
 [11:53:45], <Lucie-Harceleur>, bah mais elle faut qu'elle s'entraine,bully,victim,no,none,no
 [11:54:00], <Marjorie-Harceleur>, mdrr natacha elle me soutient,bully,bully_support,no,none,no
 [11:54:02], <Lucie-Harceleur>, sinon c'est ces notes qui vont maigrir,bully,victim,yes,none,yes
-[11:54:06], <Michel-Soutien-Victime>, bh lucie vue que tu est pros dans le domene montre lui comment faire,victim_support,bully,yes,denigration,no
+[11:54:06], <Michel-Soutien-Victime>, bh lucie vue que tu est pros dans le domene montre lui comment faire,victim_support,bully,yes,denigration,yes
 [11:54:07], <Marjorie-Harceleur>, ahhhh de fou,bully,none,no,none,no
 [11:54:09], <Lucie-Harceleur>, elle toujours pas evidemment,bully,none,no,none,no
 [11:54:11], <Natacha-Soutien-Harceleur>, non je soutien harceleur,bully_support,none,no,none,no
