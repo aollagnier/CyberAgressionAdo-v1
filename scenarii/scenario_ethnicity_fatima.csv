@@ -1,99 +1,99 @@
 ,,,role,target,hate_speech,verbal_abuse,humor
 [11:34:40], <Pierre-Soutien-Harceleur>, ça lui fera de l'argent pour une fois qu'elle en aura,bully_support,none,no,none,no
-[11:34:47], <Fatima-Victime>, bande de jaloux,victim,bully/bully_support,no,none,no
-[11:34:52], <Nicolas-Soutien-Harceleur>, tu montre ton cu tassume,bully_support,victim,no,none,no
+[11:34:47], <Fatima-Victime>, bande de jaloux,victim,none,no,none,no
+[11:34:52], <Nicolas-Soutien-Harceleur>, tu montre ton cu tassume,bully_support,victim,no,blaming,no
 [11:34:54], <Teresa-Soutien-Victime>, bh elle va aller porter plaintet vous,victim_support,none,no,none,no
 [11:34:55], <Fatima-Victime>, tkt jai pas besoin de ton argent,victim,none,no,none,no
 [11:34:58], <Pierre-Soutien-Harceleur>, c'est pas dans son pays qu'elle en aura :') :'),bully_support,victim,yes,denigration,yes
 [11:34:59], <Pauline-Harceleur>, c dieu qui donne mon bebew,bully,none,no,none,no
-[11:35:09], <Pierre-Soutien-Harceleur>, elle ira pas porter plainte,bully_support,victim,no,none,no
-[11:35:16], <Fatima-Victime>, cmt tu sais ?,victim,bully,no,none,no
-[11:35:17], <Nicolas-Soutien-Harceleur>, ben va porter plaint,bully_support,victim,no,none,no
+[11:35:09], <Pierre-Soutien-Harceleur>, elle ira pas porter plainte,bully_support,none,no,none,no
+[11:35:16], <Fatima-Victime>, cmt tu sais ?,victim,none,no,none,no
+[11:35:17], <Nicolas-Soutien-Harceleur>, ben va porter plaint,bully_support,none,no,none,no
 [11:35:17], <Teresa-Soutien-Victime>, exactement,victim_support,none,no,none,no
 [11:35:22], <Nicolas-Soutien-Harceleur>, on verra a la sorti,bully_support,none,no,threat,no
 [11:35:26], <Teresa-Soutien-Victime>, mdr,victim_support,none,no,none,no
 [11:35:27], <Nicolas-Soutien-Harceleur>, kestu crois,bully_support,none,no,none,no
 [11:35:28], <Teresa-Soutien-Victime>, lol,victim_support,none,no,none,no
-[11:35:30], <Pierre-Soutien-Harceleur>, tkt je l'attendrais devant chez elle,bully_support,none,no,threat,no
-[11:35:34], <Teresa-Soutien-Victime>, tu vas faire quoi,victim_support,bully_support,no,none,no
+[11:35:30], <Pierre-Soutien-Harceleur>, tkt je l'attendrais devant chez elle,bully_support,victim,no,threat,no
+[11:35:34], <Teresa-Soutien-Victime>, tu vas faire quoi,victim_support,none,no,none,no
 [11:35:37], <Théo-Conciliateur>, y aura rien a la sorti,conciliator,none,no,none,no
-[11:35:46], <Pierre-Soutien-Harceleur>, je vais bien continuier avce pauline pour diffuser,bully_support,bully,no,none,no
+[11:35:46], <Pierre-Soutien-Harceleur>, je vais bien continuier avce pauline pour diffuser,bully_support,none,no,none,no
 [11:35:46], <Nicolas-Soutien-Harceleur>, interogatoir 2 heures et glaces a la plages apres,bully_support,none,no,none,no
-[11:35:47], <Fatima-Victime>, ils saven que parlé,victim,bully/bully_support,no,none,no
-[11:35:47], <Pauline-Harceleur>, theo on va te meler aussi,bully,conciliator,no,none,no
+[11:35:47], <Fatima-Victime>, ils saven que parlé,victim,none,no,none,no
+[11:35:47], <Pauline-Harceleur>, theo on va te meler aussi,bully,none,no,none,no
 [11:35:53], <Pierre-Soutien-Harceleur>, on va venir à plusieurs,bully_support,none,no,threat,no
-[11:35:54], <Fatima-Victime>, derrière leur ecran la,victim,bully/bully_support,no,none,no
+[11:35:54], <Fatima-Victime>, derrière leur ecran la,victim,none,no,none,no
 [11:35:57], <Nicolas-Soutien-Harceleur>, et ta guele part terre ensuite,bully_support,victim,no,threat,no
 [11:35:57], <Teresa-Soutien-Victime>, tkktt on t'attendra a 2 on te ntm,victim_support,bully_support,no,threat,no
-[11:36:13], <Pierre-Soutien-Harceleur>, tkt pas en face je vais te montrer mon petit bijoux,bully_support,victim_support,no,none,no
-[11:36:16], <Pauline-Harceleur>, tu nique personne,bully,victim_support,no,none,no
+[11:36:13], <Pierre-Soutien-Harceleur>, tkt pas en face je vais te montrer mon petit bijoux,bully_support,victim_support,no,threat,no
+[11:36:16], <Pauline-Harceleur>, tu nique personne,bully,none,no,none,no
 [11:36:20], <Teresa-Soutien-Victime>, tu crois on a peur de toi t degun redesend,victim_support,bully_support,no,denigration,no
-[11:36:28], <Pauline-Harceleur>, mere teresa tg,bully,victim_support,yes,name_calling,no
+[11:36:28], <Pauline-Harceleur>, mere teresa tg,bully,victim_support,no,aggression-other,no
 [11:36:28], <Pierre-Soutien-Harceleur>, avec d'autres qui n'aiment pas les arabes comme toi,bully_support,victim,yes,denigration,no
-[11:36:34], <Nicolas-Soutien-Harceleur>, tu nike ta mere plutot et encore,bully_support,victim_support,yes,denigration,no
-[11:36:35], <Fatima-Victime>, il est tlmt ptit qu on verra rien tkt terasa,victim,victim_support,yes,denigration,no
-[11:36:42], <Nicolas-Soutien-Harceleur>, si quelqu un te veux,bully_support,victim,no,none,no
-[11:36:46], <Théo-Conciliateur>, bon euh vs avez fini de parler pour rien ?,conciliator,victim/victim_support/bully/bully_support,no,none,no
+[11:36:34], <Nicolas-Soutien-Harceleur>, tu nike ta mere plutot et encore,bully_support,victim_support,no,aggression-other,no
+[11:36:35], <Fatima-Victime>, il est tlmt ptit qu on verra rien tkt terasa,victim,victim_support,no,denigration,no
+[11:36:42], <Nicolas-Soutien-Harceleur>, si quelqu un te veux,bully_support,none,no,none,no
+[11:36:46], <Théo-Conciliateur>, bon euh vs avez fini de parler pour rien ?,conciliator,none,no,none,no
 [11:36:49], <Pierre-Soutien-Harceleur>, ooooh theresa tu me chauffes tu veux le meme sort?,bully_support,victim_support,no,threat,no
 [11:37:06], <Nicolas-Soutien-Harceleur>, ta 12 ans tu fait la grande ta pote et a pooile sur la plage et se plaint apres,bully_support,victim_support,no,blaming,no
-[11:37:13], <Pierre-Soutien-Harceleur>, theo arrete de defendre vrm on dirait que t'es pas francais,bully_support,conciliator,no,denigration,no
+[11:37:13], <Pierre-Soutien-Harceleur>, theo arrete de defendre vrm on dirait que t'es pas francais,bully_support,conciliator,yes,denigration,no
 [11:37:13], <Pauline-Harceleur>, appelez carla elle va faire la sorcellerie jai des contacts,bully,none,no,none,no
 [11:37:17], <Fatima-Victime>, mai a poil de koi,victim,none,no,none,no
-[11:37:19], <Teresa-Soutien-Victime>, mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien,victim_support,none,no,none,no
-[11:37:34], <Pauline-Harceleur>, tg toi,bully,victim_support,yes,name_calling,no
-[11:37:36], <Fatima-Victime>, la pauline on voyait son cul et elle vient m harceler apres la,victim,bully,no,none,no
-[11:37:40], <Nicolas-Soutien-Harceleur>, apel plutot anaé,bully_support,bully,no,none,no
-[11:37:51], <Pauline-Harceleur>, j'en ai un moi au moins,bully,none,yes,denigration,no
-[11:37:54], <Pierre-Soutien-Harceleur>, en attendant elle elle avait le droit,bully_support,bully,no,none,no
-[11:37:55], <Nicolas-Soutien-Harceleur>, ily aura que elle qui va te repondre mdr,bully_support,victim,no,none,no
-[11:38:00], <Teresa-Soutien-Victime>, oe ta raison c la plus grosse des pute,victim_support,bully,yes,name_calling,no
+[11:37:19], <Teresa-Soutien-Victime>, mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien,victim_support,conciliator,no,denigration,no
+[11:37:34], <Pauline-Harceleur>, tg toi,bully,victim_support,no,aggression-other,no
+[11:37:36], <Fatima-Victime>, la pauline on voyait son cul et elle vient m harceler apres la,victim,none,no,none,no
+[11:37:40], <Nicolas-Soutien-Harceleur>, apel plutot anaé,bully_support,none,no,none,no
+[11:37:51], <Pauline-Harceleur>, j'en ai un moi au moins,bully,none,no,denigration,no
+[11:37:54], <Pierre-Soutien-Harceleur>, en attendant elle elle avait le droit,bully_support,none,no,none,no
+[11:37:55], <Nicolas-Soutien-Harceleur>, ily aura que elle qui va te repondre mdr,bully_support,none,no,none,yes
+[11:38:00], <Teresa-Soutien-Victime>, oe ta raison c la plus grosse des pute,victim_support,bully,no,name_calling,no
 [11:38:02], <Pierre-Soutien-Harceleur>, parce qu'elle elle est dans son pays,bully_support,bully,yes,denigration,no
 [11:38:07], <Teresa-Soutien-Victime>, hein pauline,victim_support,bully,no,none,no
-[11:38:18], <Pauline-Harceleur>, teresa ftg va a l'eglise,bully,victim_support,yes,name_calling,no
+[11:38:18], <Pauline-Harceleur>, teresa ftg va a l'eglise,bully,victim_support,no,aggression-other,no
 [11:38:27], <Fatima-Victime>, ba va y on y va ensemble,victim,none,no,none,no
-[11:38:30], <Pierre-Soutien-Harceleur>, ça t'éduqueras un peu,bully_support,victim_support,no,none,no
-[11:38:34], <Teresa-Soutien-Victime>, tu devrais faire pareil,victim_support,bully,no,none,no
-[11:38:34], <Fatima-Victime>, j sui sur t es jamais allé a leglise hypocrite,victim,bully,no,none,no
-[11:38:44], <Nicolas-Soutien-Harceleur>, on te brule toi a leglise,bully_support,victim,no,threat,no
-[11:38:46], <Théo-Conciliateur>," mais vs en avez pas marre, vs voulez pas vs re parler et mettre les choses a plat ?",conciliator,victim/victim_support/bully/bully_support,no,none,no
+[11:38:30], <Pierre-Soutien-Harceleur>, ça t'éduqueras un peu,bully_support,none,no,none,no
+[11:38:34], <Teresa-Soutien-Victime>, tu devrais faire pareil,victim_support,none,no,none,no
+[11:38:34], <Fatima-Victime>, j sui sur t es jamais allé a leglise hypocrite,victim,none,no,none,no
+[11:38:44], <Nicolas-Soutien-Harceleur>, on te brule toi a leglise,bully_support,victim,no,aggression-other,no
+[11:38:46], <Théo-Conciliateur>," mais vs en avez pas marre, vs voulez pas vs re parler et mettre les choses a plat ?",conciliator,none,no,none,no
 [11:38:47], <Teresa-Soutien-Victime>, oe grave tu parles,victim_support,none,no,none,no
-[11:38:54], <Pauline-Harceleur>, theo tu sers a rien,bully,conciliator,yes,denigration,no
-[11:38:58], <Pierre-Soutien-Harceleur>, fatima arrete la mascarade on sait que toi t'es un autre delire toi tu fais la manche devant frr,bully_support,victim,yes,denigration,no
-[11:39:19], <Fatima-Victime>, j prefere faire la manche que la pute comme ta mere,victim,bully_support,yes,denigration,no
-[11:39:21], <Teresa-Soutien-Victime>, c a eux d'arreter d'harceler les gens,victim_support,bully/bully_support,no,none,no
+[11:38:54], <Pauline-Harceleur>, theo tu sers a rien,bully,conciliator,no,denigration,no
+[11:38:58], <Pierre-Soutien-Harceleur>, fatima arrete la mascarade on sait que toi t'es un autre delire toi tu fais la manche devant frr,bully_support,victim,no,denigration,no
+[11:39:19], <Fatima-Victime>, j prefere faire la manche que la pute comme ta mere,victim,bully_support,no,aggression-other,no
+[11:39:21], <Teresa-Soutien-Victime>, c a eux d'arreter d'harceler les gens,victim_support,none,no,none,no
 [11:39:26], <Théo-Conciliateur>, si je sert a regler vos problemes de merde,conciliator,none,no,none,no
-[11:39:29], <Nicolas-Soutien-Harceleur>, la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier,bully_support,victim,yes,denigration,no
+[11:39:29], <Nicolas-Soutien-Harceleur>, la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier,bully_support,victim,yes,aggression-other,no
 [11:39:47], <Pierre-Soutien-Harceleur>, fatima arrete de faire la folle tu vas vrm le payer,bully_support,victim,no,threat,no
-[11:39:54], <Nicolas-Soutien-Harceleur>, sa sort des cour sa mes le voile mais a la plage sa montre son cu ptdrrrrrr,bully_support,victim,no,none,yes
-[11:40:08], <Pauline-Harceleur>, mddddddr,bully,none,no,none,no
+[11:39:54], <Nicolas-Soutien-Harceleur>, sa sort des cour sa mes le voile mais a la plage sa montre son cu ptdrrrrrr,bully_support,none,no,none,yes
+[11:40:08], <Pauline-Harceleur>, mddddddr,bully,none,no,none,yes
 [11:40:09], <Pierre-Soutien-Harceleur>, on va faire desmontages tu as te retrouver à poil sur internet ptddrrrr,bully_support,victim,no,threat,yes
-[11:40:20], <Théo-Conciliateur>, nicolas tu vas trop loin la,conciliator,bully_support,no,none,no
-[11:40:27], <Fatima-Victime>, tkt tu vas retrouver en prison,victim,bully_support,no,none,no
-[11:40:28], <Pauline-Harceleur>, theo ftg,bully,conciliator,yes,name_calling,no
-[11:40:35], <Teresa-Soutien-Victime>, faites de toute facon on n'a toute les preuves,victim_support,bully/bully_support,no,none,no
-[11:40:35], <Pierre-Soutien-Harceleur>, rooohh theo c'est toi la,bully_support,conciliator,no,none,no
-[11:40:42], <Teresa-Soutien-Victime>, elle va porter plainte,victim_support,victim,no,none,no
+[11:40:20], <Théo-Conciliateur>, nicolas tu vas trop loin la,conciliator,none,no,none,no
+[11:40:27], <Fatima-Victime>, tkt tu vas retrouver en prison,victim,none,no,none,no
+[11:40:28], <Pauline-Harceleur>, theo ftg,bully,conciliator,no,aggression-other,no
+[11:40:35], <Teresa-Soutien-Victime>, faites de toute facon on n'a toute les preuves,victim_support,none,no,none,no
+[11:40:35], <Pierre-Soutien-Harceleur>, rooohh theo c'est toi la,bully_support,none,no,none,no
+[11:40:42], <Teresa-Soutien-Victime>, elle va porter plainte,victim_support,none,no,none,no
 [11:40:47], <Théo-Conciliateur>, quelle preuves ?,conciliator,none,no,none,no
-[11:40:48], <Teresa-Soutien-Victime>, tampis pour vous,victim_support,bully/bully_support,no,none,no
-[11:40:52], <Nicolas-Soutien-Harceleur>, tg theo la veriter blaisse tu te sens mal,bully_support,conciliator,yes,name_calling,no
-[11:40:52], <Pauline-Harceleur>, tg toi,bully,victim_support,yes,name_calling,no
+[11:40:48], <Teresa-Soutien-Victime>, tampis pour vous,victim_support,none,no,none,no
+[11:40:52], <Nicolas-Soutien-Harceleur>, tg theo la veriter blaisse tu te sens mal,bully_support,conciliator,no,aggression-other,no
+[11:40:52], <Pauline-Harceleur>, tg toi,bully,victim_support,no,aggression-other,no
 [11:40:55], <Fatima-Victime>, on a les screen,victim,none,no,none,no
 [11:40:57], <Pierre-Soutien-Harceleur>, teresa les preuves disparaissent comme fatima va disparaitre,bully_support,victim_support,no,threat,no
-[11:41:05], <Teresa-Soutien-Victime>, t'es entrain de parler cave,victim_support,bully_support,no,none,no
-[11:41:07], <Pauline-Harceleur>, nous aussi les screen quan tu montre ton cu,bully,victim,no,none,no
-[11:41:17], <Teresa-Soutien-Victime>, depuis talleur tu l'insulte tu parle de montage,victim_support,bully,no,none,no
+[11:41:05], <Teresa-Soutien-Victime>, t'es entrain de parler cave,victim_support,none,no,none,no
+[11:41:07], <Pauline-Harceleur>, nous aussi les screen quan tu montre ton cu,bully,none,no,none,no
+[11:41:17], <Teresa-Soutien-Victime>, depuis talleur tu l'insulte tu parle de montage,victim_support,none,no,none,no
 [11:41:25], <Nicolas-Soutien-Harceleur>, mes les toi ou je pense tes screen,bully_support,victim,yes,name_calling,no
 [11:41:31], <Pierre-Soutien-Harceleur>, et alors? je peux tjrs nier,bully_support,none,no,none,no
 [11:41:46], <Teresa-Soutien-Victime>, oui tktt chez la police,victim_support,none,no,none,no
 [11:41:50], <Pierre-Soutien-Harceleur>, rien prouve que c'est moi;D,bully_support,none,no,none,no
-[11:41:57], <Fatima-Victime>, tu crois ils vont te croire,victim,bully_support,no,none,no
-[11:41:59], <Teresa-Soutien-Victime>, continuer de faire les malins,victim_support,bully/bully_support,no,none,no
-[11:42:02], <Fatima-Victime>, y a ton nom,victim,bully_support,no,none,no
+[11:41:57], <Fatima-Victime>, tu crois ils vont te croire,victim,none,no,none,no
+[11:41:59], <Teresa-Soutien-Victime>, continuer de faire les malins,victim_support,none,no,none,no
+[11:42:02], <Fatima-Victime>, y a ton nom,victim,none,no,none,no
 [11:42:05], <Teresa-Soutien-Victime>, si si,victim_support,none,no,none,no
-[11:42:06], <Nicolas-Soutien-Harceleur>, va chez la police on tenmene meme si tu veux,bully_support,victim_support,no,none,no
-[11:42:09], <Pierre-Soutien-Harceleur>, teresa je vais pas le répeter tu n'y iras pas chez la police,bully_support,victim_support,no,none,no
-[11:42:11], <Pauline-Harceleur>, on t'accompagne porter plainte stuveu,bully,victim_support,no,none,no
-[11:42:14], <Teresa-Soutien-Victime>, pas de soucis viens,victim_support,bully,no,none,no
+[11:42:06], <Nicolas-Soutien-Harceleur>, va chez la police on tenmene meme si tu veux,bully_support,none,no,none,no
+[11:42:09], <Pierre-Soutien-Harceleur>, teresa je vais pas le répeter tu n'y iras pas chez la police,bully_support,none,no,none,no
+[11:42:11], <Pauline-Harceleur>, on t'accompagne porter plainte stuveu,bully,none,no,none,no
+[11:42:14], <Teresa-Soutien-Victime>, pas de soucis viens,victim_support,none,no,none,no
 [11:42:20], <Nicolas-Soutien-Harceleur>, pour 3 messages qui represente la veriter,bully_support,none,no,none,no
 [11:42:25], <Teresa-Soutien-Victime>, sa sera plus rapide,victim_support,none,no,none,no
 [11:42:27], <Nicolas-Soutien-Harceleur>, a notre age une amande *et cest regles,bully_support,none,no,none,no
@@ -102,103 +102,103 @@
 [11:42:41], <Nicolas-Soutien-Harceleur>, donc chute merci,bully_support,none,no,none,no
 [11:42:44], <Teresa-Soutien-Victime>, sa a bcp evolué depuis,victim_support,none,no,none,no
 [11:42:55], <Nicolas-Soutien-Harceleur>, ah et tu croit quoi,bully_support,victim_support,no,none,no
-[11:42:55], <Pierre-Soutien-Harceleur>, on va s'en sortir triomphant on va expulser tous les arabes comme toi,bully_support,victim,yes,denigration,no
-[11:43:01], <Théo-Conciliateur>, regler vos problemes comme des adultes au lieu de parler pour rien la,conciliator,victim/victim_support/bully/bully_support,no,none,no
+[11:42:55], <Pierre-Soutien-Harceleur>, on va s'en sortir triomphant on va expulser tous les arabes comme toi,bully_support,victim,yes,aggression-other,no
+[11:43:01], <Théo-Conciliateur>, regler vos problemes comme des adultes au lieu de parler pour rien la,conciliator,none,no,none,no
 [11:43:05], <Nicolas-Soutien-Harceleur>, c la prison pour 4 message,bully_support,none,no,none,no
-[11:43:06], <Pauline-Harceleur>, bon fatima retournes chez tamr pleurer,bully,victim,no,none,no
-[11:43:10], <Pierre-Soutien-Harceleur>, theo ftg vrm tu sers à r,bully_support,conciliator,yes,name_calling,no
+[11:43:06], <Pauline-Harceleur>, bon fatima retournes chez tamr pleurer,bully,victim,no,aggression-other,no
+[11:43:10], <Pierre-Soutien-Harceleur>, theo ftg vrm tu sers à r,bully_support,conciliator,no,aggression-other,no
 [11:43:12], <Teresa-Soutien-Victime>, t tellement peu cultiver que t meme pas au courant des consequences de sque tu fais,victim_support,bully_support,no,denigration,no
 [11:43:13], <Nicolas-Soutien-Harceleur>, quand t es meme pas majeurs*,bully_support,none,no,none,no
 [11:43:22], <Pauline-Harceleur>, avec ton accent la,bully,victim,yes,denigration,no
-[11:43:31], <Pierre-Soutien-Harceleur>, la vie t'es explosé la tu peux gérer degun,bully_support,conciliator,no,none,no
-[11:43:36], <Fatima-Victime>, jvais me suicider tu vas voir si vous allez rien avoir,victim,bully/bully_support,no,none,no
+[11:43:31], <Pierre-Soutien-Harceleur>, la vie t'es explosé la tu peux gérer degun,bully_support,conciliator,no,denigration,no
+[11:43:36], <Fatima-Victime>, jvais me suicider tu vas voir si vous allez rien avoir,victim,none,no,none,no
 [11:43:40], <Pauline-Harceleur>, enfin,bully,none,no,none,no
-[11:43:51], <Nicolas-Soutien-Harceleur>, ecrit francais et tu viendra me parler culture' mdrr,bully_support,victim_support,yes,denigration,yes
+[11:43:51], <Nicolas-Soutien-Harceleur>, ecrit francais et tu viendra me parler culture' mdrr,bully_support,victim_support,no,denigration,yes
 [11:43:53], <Pierre-Soutien-Harceleur>, teresa tu parles de culture mais chez toi y'a même pas accès à l'eau alors à l'ecole........ et ça se fait ressentir,bully_support,victim_support,yes,denigration,no
-[11:44:03], <Nicolas-Soutien-Harceleur>, voila sucide toi donc teresa ta bien ouvert ta guele pour rien,bully_support,victim/victim_support,no,denigration,no
-[11:44:18], <Pierre-Soutien-Harceleur>, crève,bully_support,victim,no,denigration,no
-[11:44:37], <Fatima-Victime>, vous irez en efer enfer*,victim,bully/bully_support,no,threat,no
-[11:44:49], <Pierre-Soutien-Harceleur>, les blancs vont pas en enfer,bully_support,none,no,none,no
-[11:44:49], <Théo-Conciliateur>, vs etes serieux ? vs aimerais quon vs dises sa ?,conciliator,victim/victim_support/bully/bully_support,no,none,no
+[11:44:03], <Nicolas-Soutien-Harceleur>, voila sucide toi donc teresa ta bien ouvert ta guele pour rien,bully_support,victim/victim_support,no,aggression-other,no
+[11:44:18], <Pierre-Soutien-Harceleur>, crève,bully_support,victim,no,aggression-other,no
+[11:44:37], <Fatima-Victime>, vous irez en efer enfer*,victim,bully/bully_support,no,aggression-other,no
+[11:44:49], <Pierre-Soutien-Harceleur>, les blancs vont pas en enfer,bully_support,none,yes,aggression-other,no
+[11:44:49], <Théo-Conciliateur>, vs etes serieux ? vs aimerais quon vs dises sa ?,conciliator,none,no,none,no
 [11:44:54], <Pierre-Soutien-Harceleur>, on est purs nous,bully_support,none,yes,denigration,no
-[11:45:12], <Teresa-Soutien-Victime>, oe pure merde,victim_support,none,yes,name_calling,no
+[11:45:12], <Teresa-Soutien-Victime>, oe pure merde,victim_support,none,no,denigration,no
 [11:45:28], <Pierre-Soutien-Harceleur>, de la même couleur ça vous fait un point commun,bully_support,none,yes,denigration,no
 [11:45:39], <Nicolas-Soutien-Harceleur>, wouah le niveauxxxxxxx,bully_support,none,no,none,no
 [11:45:43], <Pierre-Soutien-Harceleur>, y'a l'odeur aussi,bully_support,none,yes,denigration,no
 [11:45:54], <Pauline-Harceleur>, avec vos habits du bled la cassez vous,bully,none,yes,denigration,no
-[11:45:59], <Nicolas-Soutien-Harceleur>, mdrr c clair l odeur infecte,bully_support,none,yes,denigration,no
-[11:46:04], <Teresa-Soutien-Victime>, oo tg pierre me fais pas chier jmen blc de ta vie franchement,victim_support,bully_support,yes,name_calling,no
-[11:46:21], <Pauline-Harceleur>, teresa parle bien ftg,bully,victim_support,yes,name_calling,no
-[11:46:27], <Pierre-Soutien-Harceleur>, teresa fais comme fatima ferme la,bully_support,victim_support,yes,name_calling,no
-[11:46:39], <Nicolas-Soutien-Harceleur>, alors pk tu lui envoy un message si tu ten fou bien dit,bully_support,victim_support,no,none,no
-[11:46:55], <Teresa-Soutien-Victime>, pauline et pierre 2 grosses merdes qui parlent,victim_support,bully/bully_support,yes,name_calling,no
+[11:45:59], <Nicolas-Soutien-Harceleur>, mdrr c clair l odeur infecte,bully_support,none,yes,denigration,yes
+[11:46:04], <Teresa-Soutien-Victime>, oo tg pierre me fais pas chier jmen blc de ta vie franchement,victim_support,bully_support,no,aggression-other,no
+[11:46:21], <Pauline-Harceleur>, teresa parle bien ftg,bully,victim_support,no,aggression-other,no
+[11:46:27], <Pierre-Soutien-Harceleur>, teresa fais comme fatima ferme la,bully_support,victim_support,no,aggression-other,no
+[11:46:39], <Nicolas-Soutien-Harceleur>, alors pk tu lui envoy un message si tu ten fou bien dit,bully_support,none,no,none,no
+[11:46:55], <Teresa-Soutien-Victime>, pauline et pierre 2 grosses merdes qui parlent,victim_support,bully/bully_support,no,name_calling,no
 [11:46:59], <Nicolas-Soutien-Harceleur>, bon la phto va etres poster,bully_support,none,no,none,no
-[11:47:00], <Pauline-Harceleur>, grv teresa t autant inutile que Mbendib,bully,victim_support,yes,denigration,no
+[11:47:00], <Pauline-Harceleur>, grv teresa t autant inutile que Mbendib,bully,victim_support,no,denigration,no
 [11:47:01], <Nicolas-Soutien-Harceleur>, quand,bully_support,none,no,none,no
-[11:47:13], <Fatima-Victime>, quand tu fermeras ta gueule,victim,bully_support,yes,name_calling,no
-[11:47:15], <Teresa-Soutien-Victime>, poste la,victim_support,bully_support,no,none,no
-[11:47:16], <Nicolas-Soutien-Harceleur>, plus une troisieme teresa,bully_support,victim_support,no,none,no
-[11:47:22], <Pierre-Soutien-Harceleur>, oyé tous repostez en story les photos de la negre,bully_support,victim_support,yes,name_calling,no
-[11:47:22], <Nicolas-Soutien-Harceleur>, +famtima 4,bully_support,victim,no,none,no
-[11:47:24], <Teresa-Soutien-Victime>, et tu venira en prison,victim_support,bully_support,no,none,no
+[11:47:13], <Fatima-Victime>, quand tu fermeras ta gueule,victim,bully_support,no,aggression-other,no
+[11:47:15], <Teresa-Soutien-Victime>, poste la,victim_support,none,no,none,no
+[11:47:16], <Nicolas-Soutien-Harceleur>, plus une troisieme teresa,bully_support,none,no,none,no
+[11:47:22], <Pierre-Soutien-Harceleur>, oyé tous repostez en story les photos de la negre,bully_support,victim_support,yes,aggression-other,no
+[11:47:22], <Nicolas-Soutien-Harceleur>, +famtima 4,bully_support,none,no,none,no
+[11:47:24], <Teresa-Soutien-Victime>, et tu venira en prison,victim_support,none,no,none,no
 [11:47:32], <Pierre-Soutien-Harceleur>, on va bien se marrer,bully_support,none,no,none,no
-[11:47:32], <Teresa-Soutien-Victime>, tu vas rien comprendre,victim_support,bully_support,no,none,no
-[11:47:56], <Nicolas-Soutien-Harceleur>, parle pas de prison quand tu coco pas mdrrr,bully_support,victim_support,no,none,no
-[11:48:03], <Pierre-Soutien-Harceleur>, demain on imprime on affiche?,bully_support,bully/bully_support,no,none,no
-[11:48:06], <Pauline-Harceleur>, fatima t une grosse pute a part envoyez des nudes tu f rien,bully,victim,yes,name_calling,no
+[11:47:32], <Teresa-Soutien-Victime>, tu vas rien comprendre,victim_support,none,no,none,no
+[11:47:56], <Nicolas-Soutien-Harceleur>, parle pas de prison quand tu coco pas mdrrr,bully_support,none,no,none,yes
+[11:48:03], <Pierre-Soutien-Harceleur>, demain on imprime on affiche?,bully_support,none,no,none,no
+[11:48:06], <Pauline-Harceleur>, fatima t une grosse pute a part envoyez des nudes tu f rien,bully,victim,no,name_calling,no
 [11:48:06], <Nicolas-Soutien-Harceleur>, si on a compris tkt,bully_support,none,no,none,no
-[11:48:17], <Teresa-Soutien-Victime>, mais mdrr pauline elle a tourné dans toute la france,victim_support,bully,yes,denigration,yes
-[11:48:31], <Nicolas-Soutien-Harceleur>, mdrrr,bully_support,none,no,none,no
-[11:48:42], <Pauline-Harceleur>, normal j'suis une star,bully,none,no,none,no
-[11:48:42], <Pierre-Soutien-Harceleur>, sa chatte aussi,bully_support,bully,no,none,no
-[11:48:45], <Théo-Conciliateur>, bon cest bon vs tourner en rond la depuis taleur,conciliator,victim/victim_support/bully/bully_support,no,none,no
+[11:48:17], <Teresa-Soutien-Victime>, mais mdrr pauline elle a tourné dans toute la france,victim_support,bully,no,denigration,yes
+[11:48:31], <Nicolas-Soutien-Harceleur>, mdrrr,bully_support,none,no,none,yes
+[11:48:42], <Pauline-Harceleur>, normal j'suis une star,bully,none,no,none,yes
+[11:48:42], <Pierre-Soutien-Harceleur>, sa chatte aussi,bully_support,none,no,none,no
+[11:48:45], <Théo-Conciliateur>, bon cest bon vs tourner en rond la depuis taleur,conciliator,none,no,none,no
 [11:48:46], <Pierre-Soutien-Harceleur>, pour avoir les papiers,bully_support,none,no,none,no
-[11:48:47], <Teresa-Soutien-Victime>, et elle ose ouvrir sa bouche de suceuse,victim,bully,yes,name_calling,no
-[11:48:50], <Pierre-Soutien-Harceleur>, sa mère aussi,bully_support,none,no,none,no
-[11:48:51], <Fatima-Victime>, t trop jalouse qu aucun mec te trouves belle,victim,bully,no,none,no
-[11:48:59], <Théo-Conciliateur>, a part insulter vs faites rien d'autres,conciliator,victim/victim_support/bully/bully_support,no,none,no
-[11:49:04], <Nicolas-Soutien-Harceleur>," c, mdrr elle t belle $*",bully_support,bully,no,none,yes
+[11:48:47], <Teresa-Soutien-Victime>, et elle ose ouvrir sa bouche de suceuse,victim,bully,no,aggression-other,no
+[11:48:50], <Pierre-Soutien-Harceleur>, sa mère aussi,bully_support,victim,no,aggression-other,no
+[11:48:51], <Fatima-Victime>, t trop jalouse qu aucun mec te trouves belle,victim,bully,no,denigration,no
+[11:48:59], <Théo-Conciliateur>, a part insulter vs faites rien d'autres,conciliator,none,no,none,no
+[11:49:04], <Nicolas-Soutien-Harceleur>," c, mdrr elle t belle $*",bully_support,none,no,none,yes
 [11:49:05], <Teresa-Soutien-Victime>, oe grave il l'utilise c tout,victim_support,none,no,none,no
 [11:49:12], <Nicolas-Soutien-Harceleur>, toi eclater apr contre,bully_support,none,no,none,no
-[11:49:13], <Fatima-Victime>, tu sais parler nicolas ? mdr,victim,bully_support,no,none,yes
-[11:49:24], <Nicolas-Soutien-Harceleur>, nan pas le time bb,bully_support,victim,no,none,no
+[11:49:13], <Fatima-Victime>, tu sais parler nicolas ? mdr,victim,none,no,none,yes
+[11:49:24], <Nicolas-Soutien-Harceleur>, nan pas le time bb,bully_support,none,no,none,no
 [11:49:27], <Fatima-Victime>, apres cest moi qu est pas française,victim,none,no,none,no
-[11:49:27], <Teresa-Soutien-Victime>, comme une prostitué qu'elle fait bien mdrr,victim_support,bully,yes,name_calling,yes
-[11:49:32], <Nicolas-Soutien-Harceleur>, pour toi c sa et pas plus,bully_support,victim,no,none,no
-[11:49:33], <Théo-Conciliateur>, vos geule,conciliator,victim/victim_support/bully/bully_support,yes,name_calling,no
-[11:49:36], <Fatima-Victime>, vas apprendre la langue de ton pays déjà,victim,bully_support,no,none,no
-[11:49:39], <Pierre-Soutien-Harceleur>, ptdr maiis fatima t'as vu ton orthographe,bully_support,victim,no,none,yes
+[11:49:27], <Teresa-Soutien-Victime>, comme une prostitué qu'elle fait bien mdrr,victim_support,bully,no,denigration,yes
+[11:49:32], <Nicolas-Soutien-Harceleur>, pour toi c sa et pas plus,bully_support,none,no,none,no
+[11:49:33], <Théo-Conciliateur>, vos geule,conciliator,bully/bully_support,no,aggression-other,no
+[11:49:36], <Fatima-Victime>, vas apprendre la langue de ton pays déjà,victim,bully_support,yes,denigration,no
+[11:49:39], <Pierre-Soutien-Harceleur>, ptdr maiis fatima t'as vu ton orthographe,bully_support,none,no,denigration,yes
 [11:49:45], <Pauline-Harceleur>, t dans notre pays et tu parle,bully,victim,yes,denigration,no
-[11:49:46], <Pierre-Soutien-Harceleur>, parle pas,bully_support,victim,no,none,no
-[11:49:56], <Nicolas-Soutien-Harceleur>, elle insulte sa pote mtn,bully_support,victim,no,none,no
-[11:50:01], <Théo-Conciliateur>, vous etes des gros gamins,conciliator,bully/bully_support,no,none,no
-[11:50:14], <Pierre-Soutien-Harceleur>, non patriotes,bully_support,none,yes,denigration,no
-[11:50:18], <Nicolas-Soutien-Harceleur>, moi c mon pays o moinh,bully_support,none,no,none,no
+[11:49:46], <Pierre-Soutien-Harceleur>, parle pas,bully_support,none,no,none,no
+[11:49:56], <Nicolas-Soutien-Harceleur>, elle insulte sa pote mtn,bully_support,none,no,none,no
+[11:50:01], <Théo-Conciliateur>, vous etes des gros gamins,conciliator,bully/bully_support,no,denigration,no
+[11:50:14], <Pierre-Soutien-Harceleur>, non patriotes,bully_support,none,no,none,no
+[11:50:18], <Nicolas-Soutien-Harceleur>, moi c mon pays o moinh,bully_support,victim,yes,denigration,no
 [11:50:23], <Pierre-Soutien-Harceleur>, et tout le monde devrait etre comme ça,bully_support,none,no,none,no
-[11:50:32], <Nicolas-Soutien-Harceleur>, donc je me premer cque je veux par apport atoi,bully_support,victim,no,none,no
-[11:50:36], <Teresa-Soutien-Victime>, ooo nicolas tg,victim_support,bully_support,yes,name_calling,no
+[11:50:32], <Nicolas-Soutien-Harceleur>, donc je me premer cque je veux par apport atoi,bully_support,none,no,none,no
+[11:50:36], <Teresa-Soutien-Victime>, ooo nicolas tg,victim_support,bully_support,no,aggression-other,no
 [11:50:43], <Nicolas-Soutien-Harceleur>, bisoussssssssssssssssssssssssssss,bully_support,none,no,none,no
-[11:50:44], <Pauline-Harceleur>, bon fatima on va te ntm tkt,bully,victim,yes,threat,no
-[11:50:58], <Fatima-Victime>, ca veut rien dire ta phrase,victim,bully,no,none,no
-[11:51:13], <Pierre-Soutien-Harceleur>, tu peux pas savoir fat fat,bully_support,victim,no,none,no
-[11:51:20], <Teresa-Soutien-Victime>, bref bisous de nous les jaloux,victim_support,bully/bully_support,no,none,no
-[11:51:22], <Pierre-Soutien-Harceleur>, meme ton soutien se casse t'es seule,bully_support,victim,no,none,no
+[11:50:44], <Pauline-Harceleur>, bon fatima on va te ntm tkt,bully,victim,no,threat,no
+[11:50:58], <Fatima-Victime>, ca veut rien dire ta phrase,victim,none,no,none,no
+[11:51:13], <Pierre-Soutien-Harceleur>, tu peux pas savoir fat fat,bully_support,none,no,none,no
+[11:51:20], <Teresa-Soutien-Victime>, bref bisous de nous les jaloux,victim_support,none,no,none,no
+[11:51:22], <Pierre-Soutien-Harceleur>, meme ton soutien se casse t'es seule,bully_support,none,no,none,no
 [11:51:30], <Pauline-Harceleur>, javoue tu sais pas tu parle meme pas francais,bully,victim,yes,denigration,no
-[11:51:32], <Théo-Conciliateur>, bon vs voulez pas vs reconcilier jy peut rien,conciliator,victim/victim_support/bully/bully_support,no,none,no
-[11:51:37], <Pierre-Soutien-Harceleur>, et nous on te démarre,bully_support,victim,no,none,no
+[11:51:32], <Théo-Conciliateur>, bon vs voulez pas vs reconcilier jy peut rien,conciliator,none,no,none,no
+[11:51:37], <Pierre-Soutien-Harceleur>, et nous on te démarre,bully_support,none,no,none,no
 [11:51:40], <Théo-Conciliateur>, ciao ciao,conciliator,none,no,none,no
-[11:51:44], <Pierre-Soutien-Harceleur>, mdrrrrr theo qui abandonne,bully_support,conciliator,no,none,no
-[11:51:57], <Fatima-Victime>, vas y ciao les ploucs,victim,bully/bully_support,yes,name_calling,no
-[11:51:57], <Pierre-Soutien-Harceleur>," tkt t'auras son cul quand meme vu comment elle l'expose ""les ploucs"" mdrrrrrrrrrrrrrrrr",bully_support,none,no,none,no
-[11:52:19], <Fatima-Victime>, retournez dans votre ferme traire vos meres,victim,bully/bully_support,no,denigration,no
-[11:52:21], <Pauline-Harceleur>, si l'unitilité etait une personne,bully,victim,no,none,no
-[11:52:30], <Teresa-Soutien-Victime>, moi et fatima on n'a pas votre time dsl,victim_support,bully/bully_support,no,none,no
-[11:52:31], <Pierre-Soutien-Harceleur>, t'as cru t'as dead ça?,bully_support,victim_support,no,none,no
+[11:51:44], <Pierre-Soutien-Harceleur>, mdrrrrr theo qui abandonne,bully_support,none,no,none,yes
+[11:51:57], <Fatima-Victime>, vas y ciao les ploucs,victim,bully/bully_support,no,name_calling,no
+[11:51:57], <Pierre-Soutien-Harceleur>," tkt t'auras son cul quand meme vu comment elle l'expose ""les ploucs"" mdrrrrrrrrrrrrrrrr",bully_support,none,no,aggression-other,yes
+[11:52:19], <Fatima-Victime>, retournez dans votre ferme traire vos meres,victim,bully/bully_support,no,aggression-other,no
+[11:52:21], <Pauline-Harceleur>, si l'unitilité etait une personne,bully,victim,no,denigration,no
+[11:52:30], <Teresa-Soutien-Victime>, moi et fatima on n'a pas votre time dsl,victim_support,none,no,none,no
+[11:52:31], <Pierre-Soutien-Harceleur>, t'as cru t'as dead ça?,bully_support,none,no,none,no
 [11:52:43], <Teresa-Soutien-Victime>, oe exactement,victim_support,none,no,none,no
-[11:52:45], <Pierre-Soutien-Harceleur>, ptdrrrr punshline éclatées cousine oula non pas cousine esclave,bully_support,victim_support,yes,name_calling,no
+[11:52:45], <Pierre-Soutien-Harceleur>, ptdrrrr punshline éclatées cousine oula non pas cousine esclave,bully_support,victim_support,yes,denigration,yes
 [11:52:54], <Teresa-Soutien-Victime>, <3,victim_support,none,no,none,no
 [11:52:58], <Pierre-Soutien-Harceleur>, comme au bon vieux temps,bully_support,none,no,none,no
-[11:52:59], <Pauline-Harceleur>, elle c cru sur skyrock la :b,bully,victim_support,no,none,no
+[11:52:59], <Pauline-Harceleur>, elle c cru sur skyrock la :b,bully,none,no,none,no
 [11:53:15], <Théo-Conciliateur>, bite,conciliator,none,no,none,no
 [11:53:27], <Pierre-Soutien-Harceleur>, ok,bully_support,none,no,none,no
-[11:53:29], <Teresa-Soutien-Victime>, tete qu'elle a parle ps avk moi grosse pute,victim_support,bully,yes,name_calling,no
+[11:53:29], <Teresa-Soutien-Victime>, tete qu'elle a parle ps avk moi grosse pute,victim_support,bully,no,name_calling,no
