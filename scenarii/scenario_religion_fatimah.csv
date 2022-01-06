@@ -1,17 +1,17 @@
 ,,,role,target,hate_speech,verbal_abuse,humor
 [11:30:03 AM], <Coralie-Soutien-Victime>, bon julie t'arrete avec fatimah la cest toi la cochonne,victim_support,bully,no,name_calling,no
-[11:30:28 AM], <Léo-Soutien-Harceleur>, Il se passe quoi ici ?,bully_support,none,no,aggression_other,no
-[11:30:55 AM], <Julie-Harceleur>, alors jvous bz tous,bully,none,no,name_calling,no
+[11:30:28 AM], <Léo-Soutien-Harceleur>, Il se passe quoi ici ?,bully_support,none,no,none,no
+[11:30:55 AM], <Julie-Harceleur>, alors jvous bz tous,bully,none,no,aggression_other,no
 [11:31:12 AM], <Léo-Soutien-Harceleur>, Oh ça insulte mdrrrrr,bully_support,none,no,none,yes
 [11:31:13 AM], <Pierre-Soutien-Victime>, tu bz qui toi,victim_support,none,no,none,no
 [11:31:14 AM], <Julie-Harceleur>, vous êtes tous mes putes,bully,none,no,name_calling,no
 [11:31:21 AM], <Fatimah-Victime>, c'est qui tous julie? jcomprends pas,victim,none,no,none,no
-[11:31:34 AM], <Coralie-Soutien-Victime>, mais gros lol cquoi ton pb va te pendre sal pute,victim_support,bully,no,name_calling,no
+[11:31:34 AM], <Coralie-Soutien-Victime>, mais gros lol cquoi ton pb va te pendre sal pute,victim_support,bully,no,name_calling,yes
 [11:31:37 AM], <Julie-Harceleur>, toi en particulier,bully,none,no,none,no
 [11:31:45 AM], <Fatimah-Victime>," aaaaaaaaaah ouais,  moi et pourquoi ?",victim,none,no,none,no
 [11:31:50 AM], <Léo-Soutien-Harceleur>, Ayouuuuu,bully_support,none,no,none,no
 [11:31:56 AM], <Coralie-Soutien-Victime>, julie ftg,victim_support,bully,no,aggression_other,no
-[11:31:58 AM], <Julie-Harceleur>, prcq tu chauffes tous les mecs,bully,none,no,blaming,no
+[11:31:58 AM], <Julie-Harceleur>, prcq tu chauffes tous les mecs,bully,victim,no,blaming,no
 [11:32:02 AM], <Fatimah-Victime>, vasi Leocalme toi laisse julie parler,bully,none,no,none,no
 [11:32:13 AM], <Pierre-Soutien-Victime>, tu va te detendre julie,victim_support,none,no,none,no
 [11:32:13 AM], <Fatimah-Victime>, quelle sexplique,victim,none,no,none,no
@@ -26,8 +26,8 @@
 [11:33:35 AM], <Léo-Soutien-Harceleur>, Oof,bully_support,none,no,none,no
 [11:33:41 AM], <Julie-Harceleur>, ça te menera peut être a la mort,bully,victim,no,aggression_other,no
 [11:34:00 AM], <Coralie-Soutien-Victime>, julie nva sucer tes grans mort,victim_support,bully,no,name_calling,no
-[11:34:00 AM], <Fatimah-Victime>," aaaaaaaaaaaaaaaaaaaa ok,  c'est ça ton problème mais ptete que si toi aussi tu arreter de manger du porc tu serais moi aggressive!",victim,bully,yes,denigration,no
-[11:34:44 AM], <Julie-Harceleur>, coralie je commence par les tiens,bully,none,no,aggression_other,no
+[11:34:00 AM], <Fatimah-Victime>," aaaaaaaaaaaaaaaaaaaa ok,  c'est ça ton problème mais ptete que si toi aussi tu arreter de manger du porc tu serais moi aggressive!",victim,bully,no,denigration,no
+[11:34:44 AM], <Julie-Harceleur>, coralie je commence par les tiens,bully,bully_support,no,aggression_other,no
 [11:34:45 AM], <Coralie-Soutien-Victime>, krkrkr bien dit,victim_support,none,no,none,no
 [11:34:57 AM], <Pauline-Conciliateur>, Julie pourquoi tu lui fait ca ? c'est juste une question de jalousie ? tu as quel age sérieusement ?,conciliator,none,no,none,no
 [11:34:58 AM], <Léo-Soutien-Harceleur>, Allez du fight là mdrrrr,bully_support,none,no,none,yes
@@ -37,7 +37,7 @@
 [11:35:41 AM], <Coralie-Soutien-Victime>, clairment,victim_support,none,no,none,no
 [11:36:04 AM], <Fatimah-Victime>, et clairement LeoSoutienduharc vaut pas mieux,victim,none,no,none,no
 [11:36:16 AM], <Pierre-Soutien-Victime>, oui grave,victim_support,none,no,none,no
-[11:36:17 AM], <Coralie-Soutien-Victime>, j'espere un jour c'est les porcs qui te chieront dessus,victim_support,none,no,aggression_other,no
+[11:36:17 AM], <Coralie-Soutien-Victime>, j'espere un jour c'est les porcs qui te chieront dessus,victim_support,bully,no,aggression_other,no
 [11:36:22 AM], <Julie-Harceleur>, bon fatima retourne dans ton pays et casse pas les couilles,bully,victim,yes,aggression_other,no
 [11:36:23 AM], <Coralie-Soutien-Victime>, julie,victim_support,none,no,none,no
 [11:36:31 AM], <Fatimah-Victime>, quel pays,victim,none,no,none,no
@@ -46,10 +46,10 @@
 [11:36:45 AM], <Pierre-Soutien-Victime>, elle est en france frr,victim_support,none,no,none,no
 [11:36:46 AM], <Julie-Harceleur>, paul t'es ou frrr,bully,none,no,none,no
 [11:37:03 AM], <Léo-Soutien-Harceleur>, J'vous regarde vous fight c'est si drôle bahahah,bully_support,none,no,none,yes
-[11:37:17 AM], <Pauline-Conciliateur>, vas dormir tu sers a rien ,conciliator,none,no,denigration,no
+[11:37:17 AM], <Pauline-Conciliateur>, vas dormir tu sers a rien ,conciliator,none,no,none,no
 [11:37:19 AM], <Julie-Harceleur>, retourne en algerie,bully,victim,yes,aggression_other,no
 [11:37:24 AM], <Fatimah-Victime>, tumfais vomir LeoSoutienduharc,victim,bully_support,no,aggression_other,no
-[11:37:26 AM], <Pierre-Soutien-Victime>, c'est super drole dit donc,victim_support,none,no,none,no
+[11:37:26 AM], <Pierre-Soutien-Victime>, c'est super drole dit donc,victim_support,none,no,none,yes
 [11:37:36 AM], <Coralie-Soutien-Victime>, et toi retourne en enfer sal epute de julie ,victim_support,bully,no,aggression_other,no
 [11:37:41 AM], <Julie-Harceleur>, frere tas vu ta main tu t'es tatoué avec de la lmerde,bully,victim,no,denigration,no
 [11:37:48 AM], <Fatimah-Victime>, julie mais retourne dans ta campagne a baiser les chèvre bouzeuse,victim,bully,no,name_calling,no
@@ -60,9 +60,9 @@
 [11:38:49 AM], <Coralie-Soutien-Victime>," c'est magnifique,  dommage que tu nois jalouse de fatimah ",victim_support,none,no,none,no
 [11:38:50 AM], <Fatimah-Victime>, de rien de rien retourne bouffé ton popcorn mec,victim,none,no,none,no
 [11:39:00 AM], <Julie-Harceleur>, jalouse de tya peau mi jaune mi marron,bully,victim,yes,denigration,no
-[11:39:01 AM], <Pierre-Soutien-Victime>, mais cest une sale jalouse elle a rien a faire de sa vie et ta peau blanche a toi,victim_support,none,yes,denigration,no
+[11:39:01 AM], <Pierre-Soutien-Victime>, mais cest une sale jalouse elle a rien a faire de sa vie et ta peau blanche a toi,victim_support,bully,yes,denigration,no
 [11:39:23 AM], <Fatimah-Victime>," ben ouais,  jcrois qu't'es jalouse de ma peau",victim,none,no,none,no
-[11:39:27 AM], <Julie-Harceleur>, jalouse de quoi mon pote tu me dégoute,bully,victim,no,aggression_other,no
+[11:39:27 AM], <Julie-Harceleur>, jalouse de quoi mon pote tu me dégoute,bully,victim,no,denigration,no
 [11:39:27 AM], <Pauline-Conciliateur>, elle manque peut etre juste d'amour non ? tu veux un calin ?,conciliator,none,no,none,no
 [11:39:29 AM], <Léo-Soutien-Harceleur>, julie m'fait marrer toi t'es là t'es juste chiante wsh,bully_support,none,no,none,no
 [11:39:34 AM], <Coralie-Soutien-Victime>, t'es blanche comme un cul tyu crois t'es mieux julie ?,victim_support,bully,yes,denigration,no
@@ -81,21 +81,21 @@
 [11:41:06 AM], <Léo-Soutien-Harceleur>, Ca fait dégueulasse,bully_support,none,no,denigration,no
 [11:41:23 AM], <Fatimah-Victime>, Leo parle pas de ceque tu connais pas puceau,victim,bully_support,no,name_calling,no
 [11:41:43 AM], <Pauline-Conciliateur>, dégueu :'),conciliator,none,no,none,no
-[11:41:43 AM], <Julie-Harceleur>, le traite pas de puceau y ta bz dans les chiotte,bully,none,no,none,no
+[11:41:43 AM], <Julie-Harceleur>, le traite pas de puceau y ta bz dans les chiotte,bully,victim,no,denigration,no
 [11:41:47 AM], <Coralie-Soutien-Victime>, va doigter ta mere toi ,victim_support,bully_support,no,aggression_other,no
-[11:41:59 AM], <Julie-Harceleur>, comme la moitié des mecs,bully,none,no,aggression_other,no
+[11:41:59 AM], <Julie-Harceleur>, comme la moitié des mecs,bully,victim,no,denigration,no
 [11:42:02 AM], <Pauline-Conciliateur>, laissez les daronnes tranquilles svp,conciliator,none,no,none,no
 [11:42:11 AM], <Coralie-Soutien-Victime>, va doigter ta mere toi ,victim_support,conciliator,no,aggression_other,no
 [11:42:16 AM], <Julie-Harceleur>, tu respect même pas ta relion t'es une szlope,bully,victim,yes,denigration,no
 [11:42:32 AM], <Pauline-Conciliateur>, bah va fist ton pere alors,conciliator,victim_support,no,aggression_other,no
-[11:42:35 AM], <Coralie-Soutien-Victime>, tu la connais meme pas sale pute,conciliator,victim_support,no,name_calling,no
+[11:42:35 AM], <Coralie-Soutien-Victime>, tu la connais meme pas sale pute,victim_support,bully,no,name_calling,no
 [11:42:40 AM], <Léo-Soutien-Harceleur>," Tkt même pas que j'm'y connais et les meufs comme toi ça dégage, j'touche pas aux choses sales",bully_support,victim_support,no,denigration,no
 [11:42:46 AM], <Julie-Harceleur>, MON PERE IL EST MORT,bully,none,no,none,no
 [11:42:47 AM], <Pierre-Soutien-Victime>, tu connais rien et tu parle de religion,victim_support,none,no,none,no
 [11:42:55 AM], <Coralie-Soutien-Victime>, bien fait xD c'est toi tes sale jsuis sure qtu suces  la chatte de ta mere ,victim_support,bully_support,no,aggression_other,no
 [11:43:55 AM], <Julie-Harceleur>," écoute moi bien billi boy la dernière fois qu'un mec m'a dit ça il habitait en face d'un cimetière, maintenant il habit(e en face de chez lui",bully,none,no,threat,no
 [11:43:55 AM], <Fatimah-Victime>, devant ton père,victim,none,no,none,no
-[11:44:06 AM], <Pauline-Conciliateur>, XD,conciliator,none,no,aggression_other,no
+[11:44:06 AM], <Pauline-Conciliateur>, XD,conciliator,none,no,none,no
 [11:44:09 AM], <Léo-Soutien-Harceleur>," En vrai j'dis pas mais julie elle a grv raison,  en fait tu caches bien ton jeu Fatimah",bully_support,none,no,none,no
 [11:44:11 AM], <Pauline-Conciliateur>, EXCELLENT pepite,conciliator,none,no,none,no
 [11:44:16 AM], <Fatimah-Victime>, julie la fausse punchline,victim,none,no,none,no
@@ -110,18 +110,18 @@
 [11:45:34 AM], <Pierre-Soutien-Victime>, grave,victim_support,none,no,none,no
 [11:45:39 AM], <Léo-Soutien-Harceleur>, Bah retourne faire ta vie en Algérie stp,bully_support,victim,yes,aggression_other,no
 [11:45:40 AM], <Fatimah-Victime>, dite nous julie et LeoSoutienduharc ,victim,none,no,none,no
-[11:45:43 AM], <Coralie-Soutien-Victime>, eux ils sucent pas des grosses bites a longueur de journee,victim_support,none,no,aggression_other,no
+[11:45:43 AM], <Coralie-Soutien-Victime>, eux ils sucent pas des grosses bites a longueur de journee,victim_support,bully,no,aggression_other,no
 [11:46:00 AM], <Pauline-Conciliateur>, chacun vis comme il a envie t'as pas a te mele de ce quil fait c'est juste nul et puérile en fait,conciliator,none,no,none,no
 [11:46:20 AM], <Julie-Harceleur>, cool,bully,none,no,none,no
-[11:46:41 AM], <Pauline-Conciliateur>, commence pas a souler toi tu sers a rien ,conciliator,bully,yes,denigration,no
+[11:46:41 AM], <Pauline-Conciliateur>, commence pas a souler toi tu sers a rien ,conciliator,bully_support,no,denigration,no
 [11:46:41 AM], <Julie-Harceleur>, (ça devient relou),bully,none,no,none,no
-[11:46:51 AM], <Fatimah-Victime>, ben c'toi qu'a commencé meuf,victim,none,no,blaming,no
-[11:46:54 AM], <Pauline-Conciliateur>, (ouais mdr),conciliator,none,no,none,no
+[11:46:51 AM], <Fatimah-Victime>, ben c'toi qu'a commencé meuf,victim,bully,no,blaming,no
+[11:46:54 AM], <Pauline-Conciliateur>, (ouais mdr),conciliator,none,no,none,yes
 [11:46:59 AM], <Fatimah-Victime>, moi j'avais rien demandé,victim,none,no,none,no
-[11:47:00 AM], <Coralie-Soutien-Victime>, de ouf apres tu te plaint ,victim_support,none,no,blaming,no
+[11:47:00 AM], <Coralie-Soutien-Victime>, de ouf apres tu te plaint ,victim_support,bully,no,blaming,no
 [11:47:01 AM], <Léo-Soutien-Harceleur>, (tkt j'suis d'acc mais ils assument r),bully_support,none,no,none,no
-[11:47:07 AM], <Coralie-Soutien-Victime>, assume enft,victim_support,none,non,none,no
-[11:47:07 AM], <Julie-Harceleur>, ta grosse mere la pute je vais tenculer dans ton berceau tume connaispas moi,bully,victim,no,aggression_other,no
+[11:47:07 AM], <Coralie-Soutien-Victime>, assume enft,victim_support,none,no,none,no
+[11:47:07 AM], <Julie-Harceleur>, ta grosse mere la pute je vais tenculer dans ton berceau tume connaispas moi,bully,victim_support,no,aggression_other,no
 [11:47:20 AM], <Fatimah-Victime>, grosse gamine ouèch,victim,bully,no,name_calling,no
 [11:47:23 AM], <Pauline-Conciliateur>, oublie pas de lui enfoncer le biberon ,conciliator,bully,no,aggression_other,no
 [11:47:24 AM], <Julie-Harceleur>, jsuuis une folle moi,bully,none,no,none,no
@@ -132,10 +132,10 @@
 [11:48:02 AM], <Pauline-Conciliateur>, je m'ennuis ,conciliator,none,no,none,no
 [11:48:05 AM], <Julie-Harceleur>, MOI JVOUS BZ MOI,bully,none,no,aggression_other,no
 [11:48:08 AM], <Pauline-Conciliateur>, j'ai la dalle,conciliator,none,no,none,no
-[11:48:08 AM], <Julie-Harceleur>, JSUIS UBNE FOLLE MOI TA MERE LA PUTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,bully,none,no,name_calling,no
+[11:48:08 AM], <Julie-Harceleur>, JSUIS UBNE FOLLE MOI TA MERE LA PUTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,bully,victim,no,aggression_other,no
 [11:48:18 AM], <Pierre-Soutien-Victime>, tu va rien faire sal;e folle,victim_support,bully,no,name_calling,no
 [11:48:18 AM], <Léo-Soutien-Harceleur>, Bahahaha elle me fume cette meuf xD,bully_support,none,no,none,no
-[11:48:25 AM], <Coralie-Soutien-Victime>, on sais qtes folle sale pute,victim_support,bully,yes,denigration,no
+[11:48:25 AM], <Coralie-Soutien-Victime>, on sais qtes folle sale pute,victim_support,bully,no,denigration,no
 [11:48:31 AM], <Julie-Harceleur>, CE WEEK END JE VOIS TITI oups,bully,none,no,none,no
 [11:48:40 AM], <Pauline-Conciliateur>, cramer,conciliator,none,no,none,no
 [11:48:45 AM], <Julie-Harceleur>, zut alors,bully,none,no,none,no
@@ -144,21 +144,21 @@
 [11:49:28 AM], <Pierre-Soutien-Victime>, aller by,victim_support,none,no,none,no
 [11:49:36 AM], <Julie-Harceleur>, fatima je  la fait cuire en bropchette,bully,victim,no,threat,no
 [11:49:40 AM], <Léo-Soutien-Harceleur>, Et Fatimah-Victime elle retourne dans son harem c'est ça ?,bully_support,victim,yes,denigration,no
-[11:49:46 AM], <Julie-Harceleur>, bisous enh realité je vous aime damour,bully,none,no,none,no
+[11:49:46 AM], <Julie-Harceleur>, bisous enh realité je vous aime damour,bully,none,no,none,yes
 [11:49:52 AM], <Fatimah-Victime>, mais c'est toi,victim,none,no,none,no
 [11:49:52 AM], <Coralie-Soutien-Victime>, non elle reste en france ,victim_support,none,no,none,no
 [11:49:56 AM], <Julie-Harceleur>, fatima excuise moi jame pas ce role,bully,none,no,none,no
 [11:49:56 AM], <Fatimah-Victime>, va tfaire cuire le cul julie,victim,bully,no,aggression_other,no
 [11:50:07 AM], <Pauline-Conciliateur>, fait gaffe je sais comment dissoudre un corps humain et j'ai toujours un sac poubelle sur moi :)),conciliator,bully,no,threat,no
-[11:50:25 AM], <Julie-Harceleur>, fatima tas besoin que je théberge que je fasse tes courses un massage aux pieds,bully,victim,no,none,no
-[11:50:37 AM], <Coralie-Soutien-Victime>, je vais t'aider pauline jsais comment cacher un corps,victim_support,conciliator,no,none,no
-[11:50:50 AM], <Pauline-Conciliateur>, ouais aides moi ! prends de l'acide mdr,conciliator,victim_support,no,none,yes
+[11:50:25 AM], <Julie-Harceleur>, fatima tas besoin que je théberge que je fasse tes courses un massage aux pieds,bully,none,no,none,no
+[11:50:37 AM], <Coralie-Soutien-Victime>, je vais t'aider pauline jsais comment cacher un corps,victim_support,none,no,none,no
+[11:50:50 AM], <Pauline-Conciliateur>, ouais aides moi ! prends de l'acide mdr,conciliator,none,no,none,yes
 [11:51:03 AM], <Coralie-Soutien-Victime>, ouais tkt,victim_support,none,no,none,no
-[11:51:12 AM], <Julie-Harceleur>, beh en réalité tu fais bouffer le corps a un porc ça bouffe tout,bully,conciliator,no,none,no
+[11:51:12 AM], <Julie-Harceleur>, beh en réalité tu fais bouffer le corps a un porc ça bouffe tout,bully,none,no,none,no
 [11:51:27 AM], <Fatimah-Victime>, vous vous etes cru dans un mauvais film americain lol,victim,none,no,none,yes
-[11:51:33 AM], <Pauline-Conciliateur>, donne le a fatimah T-T,conciliator,victim,no,none,no
+[11:51:33 AM], <Pauline-Conciliateur>, donne le a fatimah T-T,conciliator,none,no,none,no
 [11:51:36 AM], <Julie-Harceleur>, du coup la on s'allie tous pour tuer qlqn mlais qui,bully,none,no,none,no
-[11:51:38 AM], <Coralie-Soutien-Victime>, bah va le bouffer alors tu va te regaler julie,victim_support,bully,no,none,no
+[11:51:38 AM], <Coralie-Soutien-Victime>, bah va le bouffer alors tu va te regaler julie,victim_support,none,no,none,no
 [11:51:47 AM], <Julie-Harceleur>, DESCEND,bully,none,no,none,no
 [11:52:26 AM], <Coralie-Soutien-Victime>, QUI VOTE POUR TUER JULIE ,victim_support,none,no,none,no
 [11:52:26 AM], <Fatimah-Victime>, (y) ,victim,none,no,none,no
