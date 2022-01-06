@@ -1,46 +1,46 @@
 ,,,role,target,hate_speech,verbal_abusehumor,
-[11:35:33], <Marjorie-Harceleur>," Salut la grosse,  j'espere que la photo t'as plu",bully,victim,yes,name_calling,no
-[11:36:01], <Natacha-Soutien-Harceleur>, allez vous faure foutre$,bully_support,none,yes,name_calling,no
-[11:36:04], <Zoé-Victime>," Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout",victim,none,no,none,no
-[11:36:08], <Marjorie-Harceleur>, Tu devrais faire un gros régime Zoé Si tu veux je t'aide :),bully,victim,yes,denigration,no
+[11:35:33], <Marjorie-Harceleur>," Salut la grosse,  j'espere que la photo t'as plu",bully,victim,no,name_calling,no
+[11:36:01], <Natacha-Soutien-Harceleur>, allez vous faure foutre$,bully_support,none,no,aggression-other,no
+[11:36:04], <Zoé-Victime>," Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout",victim,none,no,none,yes
+[11:36:08], <Marjorie-Harceleur>, Tu devrais faire un gros régime Zoé Si tu veux je t'aide :),bully,victim,no,denigration,no
 [11:36:25], <Michel-Soutien-Victime>, salut majorie la jalouse tu vas bien,victim_support,none,no,none,no
 [11:36:28], <Julien-Conciliateur>, Marjorie ce n'est pas gentil de faire ca,conciliator,none,no,none,no
-[11:36:29], <Natacha-Soutien-Harceleur>, ohh lala vous etes mechante,bully_support,none,no,none,no
+[11:36:29], <Natacha-Soutien-Harceleur>, ohh lala vous etes mechante,bully_support,none,no,none,yes
 [11:36:31], <Zoé-Victime>, laissez-moi tranquille je vous ai rien demandé,victim,none,no,none,no
-[11:36:33], <Marjorie-Harceleur>, oui moi jalouse mdr jalouse de toi en plus,bully,victim,yes,denigration,no
-[11:36:47], <Lucie-Harceleur>, on vas faire du sport et evite de tous faire sortir,bully,victim,yes,denigration,no
+[11:36:33], <Marjorie-Harceleur>, oui moi jalouse mdr jalouse de toi en plus,bully,victim,no,denigration,yes
+[11:36:47], <Lucie-Harceleur>, on vas faire du sport et evite de tous faire sortir,bully,victim,no,denigration,no
 [11:36:55], <Soan-Soutien-Victime>, zoé fait pas attention à ceux quelle dit,victim_support,none,no,none,no
-[11:36:58], <Marjorie-Harceleur>, fermez vos gueules un peu,bully,victim/victim_support,yes,name_calling,no
+[11:36:58], <Marjorie-Harceleur>, fermez vos gueules un peu,bully,victim/victim_support,no,aggression-other,no
 [11:36:59], <Michel-Soutien-Victime>, evidemment que tu est jalouse de zoé et moi nous somme plus fortes que toi,victim_support,none,no,none,no
-[11:37:14], <Natacha-Soutien-Harceleur>, allez diminue vos grossse bite cest mieux,bully_support,none,yes,denigration,no
+[11:37:14], <Natacha-Soutien-Harceleur>, allez diminue vos grossse bite cest mieux,bully_support,none,no,aggression-other,no
 [11:37:42], <Julien-Conciliateur>, vous etes pas dans sa situation vous savez pas ce qu'elle vie,conciliator,none,no,none,no
 [11:37:43], <Michel-Soutien-Victime>, tu n'a pas le droit de dire ce que les autre doivent faire,victim_support,none,no,none,no
-[11:37:49], <Lucie-Harceleur>, sale boufonne parle mieux,bully,victim,yes,name_calling,no
-[11:37:53], <Marjorie-Harceleur>, michel tg,bully,victim_support,yes,name_calling,no
+[11:37:49], <Lucie-Harceleur>, sale boufonne parle mieux,bully,victim,no,name_calling,no
+[11:37:53], <Marjorie-Harceleur>, michel tg,bully,victim_support,no,aggression-other,no
 [11:37:58], <Michel-Soutien-Victime>, tous a fait d'accord avec julien,victim_support,none,no,none,no
 [11:38:00], <Zoé-Victime>, c'est toi qui insultes là calme-toi un peu,victim,none,no,none,no
-[11:38:19], <Michel-Soutien-Victime>, ta geul toi meme majorie la *****,victim_support,bully,yes,name_calling,no
-[11:38:25], <Natacha-Soutien-Harceleur>, je ne vbais pas me calme vous etes des viperes,bully_support,victim/victim_support,yes,denigration,no
+[11:38:19], <Michel-Soutien-Victime>, ta geul toi meme majorie la *****,victim_support,bully,no,aggression-other,no
+[11:38:25], <Natacha-Soutien-Harceleur>, je ne vbais pas me calme vous etes des viperes,bully_support,victim/victim_support,no,name_calling,no
 [11:38:26], <Marjorie-Harceleur>, lucie on va leur montrez comment perdre du poids ca va etre marrant,bully,none,no,none,no
-[11:38:43], <Lucie-Harceleur>, perdre du poid quelle ironie,bully,none,no,none,yes
-[11:38:46], <Natacha-Soutien-Harceleur>, haha cest pas drole du touyt,bully_support,none,no,none,no
+[11:38:43], <Lucie-Harceleur>, perdre du poid quelle ironie,bully,victim,no,denigration,yes
+[11:38:46], <Natacha-Soutien-Harceleur>, haha cest pas drole du touyt,bully_support,none,no,none,yes
 [11:38:52], <Michel-Soutien-Victime>, hahaha ce qui est marrant c'est de te voir nous envier,victim_support,none,no,none,no
-[11:38:57], <Lucie-Harceleur>, a peine marcher elle a du mal,bully,victim,yes,denigration,no
+[11:38:57], <Lucie-Harceleur>, a peine marcher elle a du mal,bully,victim,no,denigration,no
 [11:39:07], <Zoé-Victime>, mais allez vous faire voir et commencer par essayer d'avoir de meilleures notes que moi et on verra après pour parler,victim,none,no,none,no
-[11:39:13], <Lucie-Harceleur>, il lui faut cess deux béquilles natasha et pauline,bully,victim,yes,denigration,no
-[11:39:20], <Marjorie-Harceleur>, Zoé t'es qu'une merde et  tu resteras toujours une merde une grosse une boulette,bully,victim,yes,denigration,no
+[11:39:13], <Lucie-Harceleur>, il lui faut cess deux béquilles natasha et pauline,bully,victim,no,denigration,no
+[11:39:20], <Marjorie-Harceleur>, Zoé t'es qu'une merde et  tu resteras toujours une merde une grosse une boulette,bully,victim,no,denigration,no
 [11:39:32], <Zoé-Victime>, et toi il te faut tes potes pour avoir de bonnes notes aux controles ????,victim,none,no,none,no
 [11:39:33], <Michel-Soutien-Victime>, peut etre physiquement elle ne vous plaie pas mais moralement vous voulez tous etre comme elles,victim_support,none,no,none,no
-[11:39:35], <Soan-Soutien-Victime>, ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas,victim_support,bully,yes,name_calling,no
-[11:39:37], <Lucie-Harceleur>, un petit porc,bully,victim,yes,name_calling,no
-[11:39:49], <Marjorie-Harceleur>, un petit porc mdrrr bien trouver les deux bouffones elles t'emmerdent,bully,victim_support,yes,name_calling,no
+[11:39:35], <Soan-Soutien-Victime>, ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas,victim_support,bully,no,name_calling,no
+[11:39:37], <Lucie-Harceleur>, un petit porc,bully,victim,no,name_calling,no
+[11:39:49], <Marjorie-Harceleur>, un petit porc mdrrr bien trouver les deux bouffones elles t'emmerdent,bully,victim_support,no,name_calling,yes
 [11:40:07], <Julien-Conciliateur>, les filles soyer  gentille avec elle j'ai etait dasn sa situation est c'est vraiment pas facile,conciliator,none,no,none,no
 [11:40:12], <Marjorie-Harceleur>, On parle juste de ce qu'on voit,bully,none,no,none,no
-[11:40:16], <Zoé-Victime>, Les ptitrs connes on va se calmer parce qu'à part m'insulter sur mon physique vous savez rien faire,victim,bully,yes,name_calling,no
+[11:40:16], <Zoé-Victime>, Les ptitrs connes on va se calmer parce qu'à part m'insulter sur mon physique vous savez rien faire,victim,bully,no,name_calling,no
 [11:40:16], <Marjorie-Harceleur>, on donne notre avis,bully,none,no,none,no
-[11:40:19], <Lucie-Harceleur>, mentalement elle est pas mieux tricher et sucer les profs pour avoir des bonnes notes,bully,victim,yes,denigration,no
+[11:40:19], <Lucie-Harceleur>, mentalement elle est pas mieux tricher et sucer les profs pour avoir des bonnes notes,bully,victim,no,denigration,no
 [11:40:29], <Michel-Soutien-Victime>, je ne comprend pas pourquoi sa vous préocuppe autant sopn physique,victim_support,none,no,none,no
-[11:40:34], <Natacha-Soutien-Harceleur>, mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux,bully_support,none,no,none,no
+[11:40:34], <Natacha-Soutien-Harceleur>, mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux,bully_support,none,no,none,yes
 [11:40:38], <Michel-Soutien-Victime>, en quoi sa vous dérange,victim_support,none,no,none,no
 [11:40:44], <Julien-Conciliateur>, je suis d'acord avec michel,conciliator,none,no,none,no
 [11:40:48], <Marjorie-Harceleur>, ah sayer zoé tu as tes potes pour te defendrent tu te sens fraiche et t'ouvres ta gueule,bully,none,no,none,no
@@ -48,133 +48,133 @@
 [11:41:00], <Natacha-Soutien-Harceleur>, ohhh lala tes mechanty lucvie,bully_support,none,no,none,no
 [11:41:07], <Zoé-Victime>, et toi askip t'as besoin du soutien de ta pote pour m'insulter,victim,none,no,none,no
 [11:41:19], <Michel-Soutien-Victime>, bien dit zoé,victim_support,none,no,none,no
-[11:41:21], <Zoé-Victime>, laisse-moi vivre ou je t'écrase,victim,none,no,threat,no
+[11:41:21], <Zoé-Victime>, laisse-moi vivre ou je t'écrase,victim,none,no,threat,yes
 [11:41:32], <Natacha-Soutien-Harceleur>, XD XD,bully_support,none,no,none,no
-[11:41:35], <Marjorie-Harceleur>, vous êtes des merdes à la défendre tous,bully,victim_support/conciliator,yes,name_calling,no
+[11:41:35], <Marjorie-Harceleur>, vous êtes des merdes à la défendre tous,bully,victim_support/conciliator,no,name_calling,no
 [11:41:37], <Michel-Soutien-Victime>, je te soutien a fooonnnnnnd zoé,victim_support,none,no,none,no
 [11:41:40], <Marjorie-Harceleur>, AHHHHH JPP,bully,none,no,none,no
 [11:41:44], <Michel-Soutien-Victime>, elles ne valent pas bien que toi,victim_support,none,no,none,no
-[11:42:02], <Lucie-Harceleur>, c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne,bully,victim,yes,denigration,no
+[11:42:02], <Lucie-Harceleur>, c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne,bully,victim,no,denigration,yes
 [11:42:04], <Julien-Conciliateur>, moin aussi je la soutien de ouf,conciliator,none,no,none,no
-[11:42:10], <Natacha-Soutien-Harceleur>, on dit que la verite elle na qua faire du sport,bully_support,victim,yes,blaming,no
+[11:42:10], <Natacha-Soutien-Harceleur>, on dit que la verite elle na qua faire du sport,bully_support,victim,no,blaming,no
 [11:42:14], <Michel-Soutien-Victime>, nous au moins on est du coté des gentilles et non des mechant marjorie,victim_support,none,no,none,no
 [11:42:15], <Marjorie-Harceleur>, ta raison Lucie,bully,none,no,none,no
 [11:42:18], <Soan-Soutien-Victime>, comme tout le monde donne son avis je me permet je pense que vous êtes juste complexé par vos propres physique et vous vous sentez tellement dans votre peaux que vous êtes obliger de dénigré les autre,victim_support,none,no,none,no
-[11:42:32], <Natacha-Soutien-Harceleur>, meme dans les bus on narrive pas a respire a cause d’elle,bully_support,none,yes,denigration,no
+[11:42:32], <Natacha-Soutien-Harceleur>, meme dans les bus on narrive pas a respire a cause d’elle,bully_support,none,no,denigration,no
 [11:42:44], <Marjorie-Harceleur>, je me sens tres bien dans ma peau je te rassure,bully,none,no,none,no
 [11:42:48], <Julien-Conciliateur>, je suis completeemnt d'acord c'es juste des gros jaloux,conciliator,none,no,none,no
-[11:42:53], <Lucie-Harceleur>, moi aussi tkt pas on ne fait que dire ce qu'on voit,bully,none,yes,denigration,no
-[11:43:16], <Natacha-Soutien-Harceleur>, non ne serai jamais jaloux d’elle elle est grosse,bully_support,victim,yes,denigration,no
-[11:43:18], <Lucie-Harceleur>, c'est à dire une buche qui roule sur le sol,bully,victim,yes,denigration,no
+[11:42:53], <Lucie-Harceleur>, moi aussi tkt pas on ne fait que dire ce qu'on voit,bully,none,no,none,no
+[11:43:16], <Natacha-Soutien-Harceleur>, non ne serai jamais jaloux d’elle elle est grosse,bully_support,victim,no,denigration,no
+[11:43:18], <Lucie-Harceleur>, c'est à dire une buche qui roule sur le sol,bully,victim,no,denigration,no
 [11:43:21], <Marjorie-Harceleur>, on dénigrent personne on donne juste notre AVIS,bully,none,no,none,yes
-[11:43:22], <Michel-Soutien-Victime>, bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense,victim_support,bully,yes,name_calling,no
-[11:43:40], <Marjorie-Harceleur>, allez casse vous un peu,bully,victim/victim_support,yes,name_calling,no
-[11:43:48], <Natacha-Soutien-Harceleur>, non on arrete pas:') :') :') :') il est grosse,bully_support,victim,yes,denigration,no
+[11:43:22], <Michel-Soutien-Victime>, bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense,victim_support,bully,no,name_calling,no
+[11:43:40], <Marjorie-Harceleur>, allez casse vous un peu,bully,victim/victim_support,no,name_calling,no
+[11:43:48], <Natacha-Soutien-Harceleur>, non on arrete pas:') :') :') :') il est grosse,bully_support,victim,no,denigration,no
 [11:43:57], <Zoé-Victime>," laissez-nous tranquille avec nos problèmes de poids, on est au courant merci !",victim,none,no,none,no
 [11:44:04], <Marjorie-Harceleur>, ça c'est sur on arretera pas,bully,none,no,none,no
 [11:44:05], <Zoé-Victime>, on a pas besoin de vous pour savoir qu'on a un problème parce que t'as rien d'autre à faire d eta vie j'imgaine,victim,none,no,none,no
-[11:44:37], <Michel-Soutien-Victime>, il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre,victim_support,none,no,denigration,no
+[11:44:37], <Michel-Soutien-Victime>, il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre,victim_support,bully_support,no,denigration,no
 [11:44:40], <Zoé-Victime>," tu ferais mieux de réviser tes cours au lieu de passer ton temps à me harceler, tu perds ton temps grave",victim,none,no,none,no
 [11:44:56], <Marjorie-Harceleur>, ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel,bully,victim_support,yes,name_calling,no
 [11:45:07], <Zoé-Victime>, harceler qqun t'apportera pas de métier je te rappelle,victim,none,no,none,no
 [11:45:09], <Julien-Conciliateur>, bh on dirai pas,conciliator,none,no,none,no
 [11:45:09], <Michel-Soutien-Victime>, on dirait pas trop...,victim_support,none,no,none,no
-[11:45:19], <Natacha-Soutien-Harceleur>, non avec toi on perd jamais notre temps sale boufon,bully_support,victim,yes,name_calling,no
-[11:45:38], <Michel-Soutien-Victime>, mais c'est toi la bouffone nn mais je reve,victim_support,bully,yes,name_calling,no
+[11:45:19], <Natacha-Soutien-Harceleur>, non avec toi on perd jamais notre temps sale boufon,bully_support,victim,no,name_calling,no
+[11:45:38], <Michel-Soutien-Victime>, mais c'est toi la bouffone nn mais je reve,victim_support,bully,no,name_calling,no
 [11:45:38], <Zoé-Victime>," ouais à part envoyer des photos des gens et te moquer d'eux je vois pas,  tu dois vraiment avoir une vie à chier pour passer ton temps ici et continuer de m'emmerder",victim,none,no,none,no
-[11:45:40], <Marjorie-Harceleur>, mdrrr c'est sur,bully,none,no,none,no
-[11:45:48], <Lucie-Harceleur>, critiquer le petit porc n'est pas a temps plein,bully,victim,yes,name_calling,no
-[11:45:57], <Natacha-Soutien-Harceleur>, deja on gagne des sous en tarchelant mdrrr tes grose avoue,bully_support,victim,yes,denigration,no
+[11:45:40], <Marjorie-Harceleur>, mdrrr c'est sur,bully,none,no,none,yes
+[11:45:48], <Lucie-Harceleur>, critiquer le petit porc n'est pas a temps plein,bully,victim,no,name_calling,no
+[11:45:57], <Natacha-Soutien-Harceleur>, deja on gagne des sous en tarchelant mdrrr tes grose avoue,bully_support,victim,no,denigration,yes
 [11:46:01], <Lucie-Harceleur>, je peux la denigrer un petit peu puis faire ma vie,bully,none,no,none,no
 [11:46:03], <Soan-Soutien-Victime>," je me permet de vous posez une question, vous imaginez plus tard en train de dire a vos enfants que vous avez harcelé un personne à cause de son surpoids qu'est ce qui vous dit que vos enfants seront pas forcément dans vos critères de beauté donc vous devriez arrêt& de faire ça et consulter pour votre manque de confiance e vous",victim_support,none,no,none,no
 [11:46:04], <Zoé-Victime>, apparemment si puisque tu restes ici,victim,none,no,none,no
-[11:46:06], <Lucie-Harceleur>, donc ftg stp,bully,none,yes,name_calling,no
+[11:46:06], <Lucie-Harceleur>, donc ftg stp,bully,none,no,aggression-other,no
 [11:46:24], <Zoé-Victime>, ecoute ce que soan dis et reviens après stp,victim,none,no,none,no
-[11:46:34], <Marjorie-Harceleur>, ferme ta gueule soan avec tes questions philosophiques à la con,bully,victim_support,yes,name_calling,no
+[11:46:34], <Marjorie-Harceleur>, ferme ta gueule soan avec tes questions philosophiques à la con,bully,victim_support,no,aggression-other,no
 [11:46:49], <Zoé-Victime>," ouah bravo la répartie,  tu t'améliores de jours en jours",victim,none,no,none,yes
 [11:46:51], <Natacha-Soutien-Harceleur>, on a pas besoin de soan pour arreter,bully_support,none,no,none,no
 [11:46:57], <Marjorie-Harceleur>, on s'en fou royalement de votre vie,bully,none,no,none,no
 [11:47:05], <Lucie-Harceleur>, ce que mon gosse sera ne te regarde pas qu'es ce que tu perles av ns la bouge de la,bully,none,no,none,no
 [11:47:11], <Marjorie-Harceleur>, on veut juste défoncer elle de zoé celle de zoé,bully,none,no,none,no
-[11:47:22], <Lucie-Harceleur>, zoe = porc,bully,victim,yes,name_calling,no
-[11:47:27], <Marjorie-Harceleur>, AHAHAH,bully,none,no,none,no
+[11:47:22], <Lucie-Harceleur>, zoe = porc,bully,victim,no,denigration,no
+[11:47:27], <Marjorie-Harceleur>, AHAHAH,bully,none,no,none,yes
 [11:47:30], <Lucie-Harceleur>, on n'y peut rien c comme ca,bully,none,no,none,no
 [11:47:31], <Michel-Soutien-Victime>, non effectivement vous avez pas besoin de soan pour vous arreter il vous faut quelque choses de plus fors tels un psy,victim_support,none,no,none,no
-[11:47:34], <Zoé-Victime>, zoé t'emmerde,victim,bully,yes,name_calling,no
-[11:47:36], <Natacha-Soutien-Harceleur>, elle est groose on le dit ya rien de mechant,bully_support,victim,yes,denigration,no
+[11:47:34], <Zoé-Victime>, zoé t'emmerde,victim,bully,no,name_calling,no
+[11:47:36], <Natacha-Soutien-Harceleur>, elle est groose on le dit ya rien de mechant,bully_support,victim,no,denigration,no
 [11:47:49], <Zoé-Victime>, ouais et je le sais alors fou moi la paix,victim,none,no,none,no
 [11:47:49], <Marjorie-Harceleur>, bah oui on est sincere nous,bully,none,no,none,no
-[11:47:49], <Natacha-Soutien-Harceleur>, elle na qua fait une regime,bully_support,victim,yes,blaming,no
+[11:47:49], <Natacha-Soutien-Harceleur>, elle na qua fait une regime,bully_support,victim,no,blaming,no
 [11:48:04], <Marjorie-Harceleur>, on est c'est aamis nous on dit la vérité,bully,none,no,none,no
 [11:48:10], <Lucie-Harceleur>," on fait pas les focus nous, hein michel",bully,none,no,none,no
-[11:48:17], <Marjorie-Harceleur>, ZOE EST GROSSE,bully,victim,yes,denigration,no
+[11:48:17], <Marjorie-Harceleur>, ZOE EST GROSSE,bully,victim,no,denigration,no
 [11:48:17], <Julien-Conciliateur>, la roue tourne vous finirez par êtres ta situation et tous le monde se foutra de votre gueule a force d'avoir autant de méchanceté,conciliator,none,no,none,no
-[11:48:18], <Michel-Soutien-Victime>, si zoé = port bh lucie = chienne,victim_support,bully,yes,name_calling,no
-[11:48:19], <Soan-Soutien-Victime>, je préfère avoir une philosophie a la con plutôt qu'être une bouffonne sans cervelle qui réfléchie meme pas au conséquence de ces paroles,victim_support,bully,yes,name_calling,no
-[11:48:26], <Lucie-Harceleur>, michel que il est derriere son cula zoe donc ftg,bully,victim_support,yes,name_calling,no
-[11:48:35], <Natacha-Soutien-Harceleur>, oui on ne casse rien on lui dit la verite elle est grosse,bully_support,victim,yes,denigration,no
-[11:48:37], <Marjorie-Harceleur>, c'est ta mere la chienne michel,bully,victim_support,yes,name_calling,no
+[11:48:18], <Michel-Soutien-Victime>, si zoé = port bh lucie = chienne,victim_support,bully,no,denigration,no
+[11:48:19], <Soan-Soutien-Victime>, je préfère avoir une philosophie a la con plutôt qu'être une bouffonne sans cervelle qui réfléchie meme pas au conséquence de ces paroles,victim_support,bully,no,name_calling,no
+[11:48:26], <Lucie-Harceleur>, michel que il est derriere son cula zoe donc ftg,bully,victim_support,no,aggression-other,no
+[11:48:35], <Natacha-Soutien-Harceleur>, oui on ne casse rien on lui dit la verite elle est grosse,bully_support,victim,no,denigration,no
+[11:48:37], <Marjorie-Harceleur>, c'est ta mere la chienne michel,bully,victim_support,no,aggression-other,no
 [11:48:58], <Natacha-Soutien-Harceleur>, :') :') :') :') :') un tour de la ville sa tirais pour que tu maigris,bully_support,none,no,none,yes
-[11:49:06], <Michel-Soutien-Victime>, bh elle a suivi ton pere majorie c'est tout,victim_support,bully,yes,denigration,no
+[11:49:06], <Michel-Soutien-Victime>, bh elle a suivi ton pere majorie c'est tout,victim_support,bully,no,aggression-other,no
 [11:49:10], <Lucie-Harceleur>, michel tu vas finir plus bas que terre toiausssi,bully,none,no,threat,no
 [11:49:26], <Marjorie-Harceleur>, on va vous détruire,bully,none,no,threat,no
-[11:49:27], <Lucie-Harceleur>, av ton petit pors en guise d'animal de compagnie,bully,victim_support,yes,denigration,no
-[11:49:28], <Zoé-Victime>, apprends à parler déjà grosse conne,victim,bully,yes,name_calling,no
+[11:49:27], <Lucie-Harceleur>, av ton petit pors en guise d'animal de compagnie,bully,victim_support,no,denigration,no
+[11:49:28], <Zoé-Victime>, apprends à parler déjà grosse conne,victim,bully,no,denigration,no
 [11:49:30], <Marjorie-Harceleur>, détruire vos vies,bully,victim/victim_support,no,threat,no
 [11:49:43], <Michel-Soutien-Victime>, eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi,victim_support,bully/bully_support,no,none,no
 [11:50:01], <Natacha-Soutien-Harceleur>, ohhh lala sa chauffe,bully_support,none,no,none,no
-[11:50:08], <Marjorie-Harceleur>, zoé si elle a un animal de compagnie elle écrase sayer ya plus d'animal,bully,victim,yes,denigration,no
-[11:50:15], <Michel-Soutien-Victime>, toi ferme là garde t'es propo pr topi,victim_support,bully,yes,name_calling,no
+[11:50:08], <Marjorie-Harceleur>, zoé si elle a un animal de compagnie elle écrase sayer ya plus d'animal,bully,victim,no,denigration,no
+[11:50:15], <Michel-Soutien-Victime>, toi ferme là garde t'es propo pr topi,victim_support,bully,no,aggression-other,no
 [11:50:15], <Marjorie-Harceleur>, on l'enterre,bully,none,no,threat,no
 [11:50:19], <Zoé-Victime>, tu vas faire quoi ? essayer de me pousser avec tes mini muscles ? essaie et je te roule dessus,victim,none,no,denigration,no
-[11:50:24], <Lucie-Harceleur>, c pour ca qu'elle est seule,bully,none,no,none,no
+[11:50:24], <Lucie-Harceleur>, c pour ca qu'elle est seule,bully,victim,no,denigration,no
 [11:50:41], <Michel-Soutien-Victime>, bien dit zoé rouller aplati le,victim_support,none,no,none,no
 [11:50:43], <Julien-Conciliateur>, les gars vous perdez votre temps a vous insulter comme ca vous  vous faite du mal les un avec les autres faite la paix ou vous calculer plus,conciliator,none,no,none,no
-[11:50:46], <Lucie-Harceleur>, oh ptn elle vas me rouler dessus je vais câner,bully,victim,yes,denigration,no
+[11:50:46], <Lucie-Harceleur>, oh ptn elle vas me rouler dessus je vais câner,bully,victim,no,denigration,no
 [11:50:55], <Soan-Soutien-Victime>, bien dit zoé faut savoir mettre en avant ses atouts,victim_support,none,no,none,no
 [11:51:01], <Zoé-Victime>, ouais bah cours si tu veux pas que ça t'arrive,victim,none,no,none,no
-[11:51:04], <Marjorie-Harceleur>, Tu vois je me pose une question Zoé comment tu fais pour t'acceepter accepter d'être aussi grosse,bully,victim,yes,denigration,no
+[11:51:04], <Marjorie-Harceleur>, Tu vois je me pose une question Zoé comment tu fais pour t'acceepter accepter d'être aussi grosse,bully,victim,no,denigration,no
 [11:51:18], <Lucie-Harceleur>, olala j'ai peur,bully,none,no,none,no
-[11:51:21], <Zoé-Victime>, j'écoute pas ce que les connasses comme toi me disent c'est tout,victim,bully,yes,name_calling,no
+[11:51:21], <Zoé-Victime>, j'écoute pas ce que les connasses comme toi me disent c'est tout,victim,bully,no,name_calling,no
 [11:51:27], <Michel-Soutien-Victime>, bh elle est juste mature et elle s'aime tels qu'elle est,victim_support,none,no,none,no
 [11:51:27], <Soan-Soutien-Victime>, elle a confiance en elle pas comme toi,victim_support,none,no,none,no
-[11:51:33], <Marjorie-Harceleur>, ahhh sayer zoe ouvre sa gueuele ahahah,bully,none,no,none,no
+[11:51:33], <Marjorie-Harceleur>, ahhh sayer zoe ouvre sa gueuele ahahah,bully,none,no,none,yes
 [11:51:35], <Lucie-Harceleur>, mais c une réelle questions,bully,none,no,none,no
-[11:51:37], <Zoé-Victime>, et je préfère avoir des formes qu'être plate comme une planche à pain point,victim,none,no,none,no
+[11:51:37], <Zoé-Victime>, et je préfère avoir des formes qu'être plate comme une planche à pain point,victim,bully,no,denigration,no
 [11:51:42], <Lucie-Harceleur>, je ne comprends pas aussi,bully,none,no,none,no
 [11:51:52], <Marjorie-Harceleur>, ah t'inquiete pas j'ai confiance en mi moi,bully,none,no,none,no
 [11:51:59], <Zoé-Victime>, tant mieux pour toi moi aussi,victim,none,no,none,no
 [11:52:09], <Michel-Soutien-Victime>, non sinon tu ne serais pas entrain de t'acharner sur les autres,victim_support,none,no,none,no
 [11:52:09], <Lucie-Harceleur>, on est ravi zoe,bully,none,no,none,no
-[11:52:09], <Natacha-Soutien-Harceleur>, non les formes plste cest mieux que detre gropsse,bully_support,none,no,none,no
-[11:52:09], <Soan-Soutien-Victime>, on est content pour toi mais juste ferme la,victim_support,none,no,none,no
-[11:52:16], <Zoé-Victime>, alors maintenant dégage et va réviser tes cours pétasse,victim,bully,yes,name_calling,no
+[11:52:09], <Natacha-Soutien-Harceleur>, non les formes plste cest mieux que detre gropsse,bully_support,victim,no,denigration,no
+[11:52:09], <Soan-Soutien-Victime>, on est content pour toi mais juste ferme la,victim_support,bully,no,aggression-other,no
+[11:52:16], <Zoé-Victime>, alors maintenant dégage et va réviser tes cours pétasse,victim,bully,no,name_calling,no
 [11:52:31], <Michel-Soutien-Victime>, bien dit zoé,victim_support,none,no,none,no
-[11:52:33], <Marjorie-Harceleur>, mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas,bully,victim,yes,denigration,no
+[11:52:33], <Marjorie-Harceleur>, mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas,bully,victim,no,denigration,yes
 [11:52:38], <Zoé-Victime>, je te signale que TU as commencé alors range-toi,victim,none,no,none,no
 [11:52:44], <Marjorie-Harceleur>, a perdre 3kilos,bully,none,no,none,no
-[11:52:44], <Natacha-Soutien-Harceleur>, :') :') :') :') faut mieux que tu maigrix,bully_support,victim,yes,denigration,no
-[11:52:45], <Lucie-Harceleur>, il faut que tu t'entraine a sucer les profs pour rammener les bonnes notes,bully,victim,yes,denigration,no
+[11:52:44], <Natacha-Soutien-Harceleur>, :') :') :') :') faut mieux que tu maigrix,bully_support,victim,no,denigration,no
+[11:52:45], <Lucie-Harceleur>, il faut que tu t'entraine a sucer les profs pour rammener les bonnes notes,bully,victim,no,denigration,no
 [11:53:05], <Zoé-Victime>, et alors ? au moins j'ai de bonnes notes moi,victim,none,no,none,no
 [11:53:06], <Michel-Soutien-Victime>, c'est quoi qui est drole natacha,victim_support,none,no,none,no
-[11:53:09], <Marjorie-Harceleur>, elle le fait deja ça sucer les profs,bully,victim,yes,denigration,no
+[11:53:09], <Marjorie-Harceleur>, elle le fait deja ça sucer les profs,bully,victim,no,denigration,no
 [11:53:19], <Zoé-Victime>, (natacha t'es supposée me soutenir),victim,none,no,none,no
 [11:53:20], <Marjorie-Harceleur>, passer sous le bureeau,bully,none,no,none,no
-[11:53:40], <Natacha-Soutien-Harceleur>, biensur cest drole ta pas vu son taille,bully_support,victim,yes,denigration,no
+[11:53:40], <Natacha-Soutien-Harceleur>, biensur cest drole ta pas vu son taille,bully_support,victim,no,denigration,no
 [11:53:45], <Lucie-Harceleur>, bah mais elle faut qu'elle s'entraine,bully,none,no,none,no
-[11:54:00], <Marjorie-Harceleur>, mdrr natacha elle me soutient,bully,none,no,none,no
-[11:54:02], <Lucie-Harceleur>, sinon c'est ces notes qui vont maigrir,bully,victim,yes,none,yes
-[11:54:06], <Michel-Soutien-Victime>, bh lucie vue que tu est pros dans le domene montre lui comment faire,victim_support,bully,yes,denigration,yes
+[11:54:00], <Marjorie-Harceleur>, mdrr natacha elle me soutient,bully,none,no,none,yes
+[11:54:02], <Lucie-Harceleur>, sinon c'est ces notes qui vont maigrir,bully,victim,no,none,yes
+[11:54:06], <Michel-Soutien-Victime>, bh lucie vue que tu est pros dans le domene montre lui comment faire,victim_support,bully,no,denigration,yes
 [11:54:07], <Marjorie-Harceleur>, ahhhh de fou,bully,none,no,none,no
 [11:54:09], <Lucie-Harceleur>, elle toujours pas evidemment,bully,none,no,none,no
 [11:54:11], <Natacha-Soutien-Harceleur>, non je soutien harceleur,bully_support,none,no,none,no
-[11:54:20], <Marjorie-Harceleur>, elle a appris grace a ta mere,bully,victim_support,yes,denigration,no
+[11:54:20], <Marjorie-Harceleur>, elle a appris grace a ta mere,bully,victim_support,no,aggression-other,no
 [11:54:32], <Julien-Conciliateur>, et tu en est fier ?,conciliator,none,no,none,no
-[11:54:43], <Michel-Soutien-Victime>, bh me mere tien sa de ton pere,victim_support,none,no,denigration,no
-[11:54:44], <Lucie-Harceleur>, oui la mere de michel est tres experimentee,bully,victim_support,yes,denigration,no
-[11:54:54], <Michel-Soutien-Victime>, tels ton pere,victim_support,bully,yes,denigration,no
-[11:55:10], <Lucie-Harceleur>, ftg gros boufon,bully,victim_support,yes,name_calling,no
-[11:55:19], <Marjorie-Harceleur>, allez fermez la,bully,none,yes,name_calling,no
-[11:55:22], <Michel-Soutien-Victime>, tgl toi meme pute,victim_support,bully,yes,name_calling,no
-[11:55:27], <Marjorie-Harceleur>, bandes de putes,bully,victim/victim_support,yes,name_calling,no
+[11:54:43], <Michel-Soutien-Victime>, bh me mere tien sa de ton pere,victim_support,bully,no,aggression-other,no
+[11:54:44], <Lucie-Harceleur>, oui la mere de michel est tres experimentee,bully,victim_support,no,aggression-other,no
+[11:54:54], <Michel-Soutien-Victime>, tels ton pere,victim_support,bully,no,aggression-other,no
+[11:55:10], <Lucie-Harceleur>, ftg gros boufon,bully,victim_support,no,aggression-other,no
+[11:55:19], <Marjorie-Harceleur>, allez fermez la,bully,none,no,aggression-other,no
+[11:55:22], <Michel-Soutien-Victime>, tgl toi meme pute,victim_support,bully,no,aggression-other,no
+[11:55:27], <Marjorie-Harceleur>, bandes de putes,bully,victim/victim_support,no,name_calling,no
 [11:55:29], <Lucie-Harceleur>, le dernier qui a ose qui un truc comme ca il a finit sur le bord de la route,bully,none,no,threat,no
