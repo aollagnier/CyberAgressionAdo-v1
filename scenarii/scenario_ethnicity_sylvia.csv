@@ -1,267 +1,267 @@
-,,,role,target,hate_speech,verbal_abuse,humor
-[2019-06-13 15:48:59], <Silvia_Victime>, coucou les amis,victim,none,no,none,no
-[2019-06-13 15:55:58], <Sophie_Harceleur>, cc,bully,none,no,none,no
-[2019-06-13 15:56:37], <Silvia_Victime>, ça va Sohpie?,victim,none,no,none,no
-[2019-06-13 15:57:13], <Silvia_Victime>, :),victim,none,no,none,no
-[2019-06-13 15:57:37], <Sophie_Harceleur>, mais t'es sérieuse ou quoi??,bully,none,no,none,no
-[2019-06-13 15:57:43], <Silvia_Victime>, de?,victim,none,no,none,no
-[2019-06-13 15:57:51], <Adrien_soutienh>, ouai srx,bully_support,none,no,none,no
-[2019-06-13 15:58:06], <Silvia_Victime>, mais oui sérieux les gars,victim,none,no,none,no
-[2019-06-13 15:58:12], <Silvia_Victime>, :),victim,none,no,none,no
-[2019-06-13 15:58:29], <Sophie_Harceleur>, mais ptn tu le fais exprès en + ,bully,none,no,none,no
-[2019-06-13 15:58:41], <Silvia_Victime>, mais de quoi Sophie?,victim,none,no,none,no
-[2019-06-13 15:58:58], <Silvia_Victime>, ???,victim,none,no,none,no
-[2019-06-13 15:59:00], <Sophie_Harceleur>, MAIS bordel!,bully,none,no,none,no
-[2019-06-13 15:59:13], <Silvia_Victime>, qu'est ce qu'il t'arrive Sophie?,victim,none,no,none,no
-[2019-06-13 15:59:15], <Silvia_Victime>, :),victim,none,no,none,no
-[2019-06-13 15:59:27], <Silvia_Victime>, tu es guérie?,victim,none,no,none,no
-[2019-06-13 15:59:34], <Sophie_Harceleur>, t'as embrassé Lucas?,bully,none,no,none,no
-[2019-06-13 15:59:36], <Silvia_Victime>, c'est dommage que tu sois pas venue,victim,none,no,none,no
-[2019-06-13 15:59:37], <Adrien_soutienh>, ça ce fait pas Silvia,bully_support,none,no,none,no
-[2019-06-13 15:59:46], <Silvia_Victime>, on s'est super bien amusé :),victim,none,no,none,no
-[2019-06-13 16:00:07], <Herbert_Concilia>, pdt le voyage ?,conciliator,none,no,none,no
-[2019-06-13 16:00:12], <Silvia_Victime>, oui ,victim,none,no,none,no
-[2019-06-13 16:00:18], <Silvia_Victime>, Dommage que Sophie sois pas venue,victim,none,no,none,no
-[2019-06-13 16:00:26], <michel_soutienv>,  yo il se passe quoi la,victim_support,none,no,none,no
-[2019-06-13 16:00:26], <Sophie_Harceleur>, mais cte folle elle a embrassé lucas pdt le voyazge,bully,victim,yes,name_calling,no
-[2019-06-13 16:00:41], <Silvia_Victime>, qui t'a dit ça?,victim,none,no,none,no
-[2019-06-13 16:00:46], <Silvia_Victime>, c'est mm pas vrai,victim,none,no,none,no
-[2019-06-13 16:00:51], <Adrien_soutienh>, a ton avis ,bully_support,none,no,none,no
-[2019-06-13 16:01:02], <Silvia_Victime>, un menteur?,victim,none,no,none,no
-[2019-06-13 16:01:04], <Adrien_soutienh>, je t ai vu en faite ,bully_support,none,no,none,no
-[2019-06-13 16:01:16], <Herbert_Concilia>, c'est pas possible...,conciliator,none,no,none,no
-[2019-06-13 16:01:17], <Sophie_Harceleur>, en ft t'es une grosse pute c'est ça que je dois comprendre,bully,victim,yes,name_calling,no
-[2019-06-13 16:01:18], <Silvia_Victime>, faire quoi?,victim,none,no,none,no
-[2019-06-13 16:01:39], <Silvia_Victime>, à vazi dou tu m'insultes?,victim,none,no,none,no
-[2019-06-13 16:01:41], <Lisa_soutienH>, en faite tes vraiment une sap*lope silvia,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:01:43], <Adrien_soutienh>, embrasser lucas,bully_support,none,no,none,no
-[2019-06-13 16:01:52], <Lisa_soutienH>, ta trompé ton mec ,bully_support,none,no,none,no
-[2019-06-13 16:01:57], <Silvia_Victime>, Mais d'où je l'ai embrassé?,victim,none,no,none,no
-[2019-06-13 16:01:58], <Lisa_soutienH>, ca se fait grave pas,bully_support,none,no,none,no
-[2019-06-13 16:02:01], <Silvia_Victime>, Mais ta race toi putain,victim,bully,yes,name_calling,no
-[2019-06-13 16:02:09], <Adrien_soutienh>, TU TE CALME,bully_support,none,no,none,no
-[2019-06-13 16:02:14], <Lisa_soutienH>, bah tes une salope en faite,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:02:16], <Sophie_Harceleur>, MAIS BORDEL SILVIA *,bully,none,no,none,no
-[2019-06-13 16:02:18], <michel_soutienv>, sophie calmez vous,victim_support,none,no,none,no
-[2019-06-13 16:02:18], <Silvia_Victime>, c'est toi qui insultes abruti va,victim,bully,yes,name_calling,no
-[2019-06-13 16:02:24], <Lisa_soutienH>, ecpece d'usine a bite,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:02:30], <Lisa_soutienH>, tes une autoroute ,bully_support,victim,yes,denigration,no
-[2019-06-13 16:02:35], <Herbert_Concilia>, Calmez vous ! Il doit y avoir une erreur...,conciliator,none,no,none,no
-[2019-06-13 16:02:38], <Lisa_soutienH>, c chiant de payer ,bully_support,none,no,none,no
-[2019-06-13 16:02:39], <michel_soutienv>, calmez vous tous,victim_support,none,no,none,no
-[2019-06-13 16:02:39], <Silvia_Victime>, mais grosse salope d'où tu me parles?,victim,victim,yes,name_calling,no
-[2019-06-13 16:02:50], <Adrien_soutienh>, T EXCITE PAS,bully_support,none,no,none,no
-[2019-06-13 16:02:52], <michel_soutienv>, deux secondes silvia elle ferait pas ca,victim_support,none,no,none,no
-[2019-06-13 16:02:57], <Herbert_Concilia>, Adrien t'as dû mal voir....,conciliator,none,no,none,no
-[2019-06-13 16:03:01], <Silvia_Victime>, Tu pues la merde ,victim,bully,yes,denigration,no
-[2019-06-13 16:03:06], <michel_soutienv>, et sijnon licas il veurt peut etre casser avec toiu,victim_support,none,no,none,no
-[2019-06-13 16:03:15], <Sophie_Harceleur>, mais bordel tg herbert tu vois pas je lui parle,bully,conciliator,yes,name_calling,no
-[2019-06-13 16:03:16], <Silvia_Victime>, Le mec i mytho de ouf pcq il veut foutre sonb cornichon dans la Sophie,victim,none,no,none,no
-[2019-06-13 16:03:18], <Lisa_soutienH>, ah ouais bah faites gaffe a lisa pk c'est un tunnel,bully_support,none,yes,denigration,no
-[2019-06-13 16:03:21], <michel_soutienv>, genre il va te le dire,victim_support,none,no,none,no
-[2019-06-13 16:03:29], <Silvia_Victime>, Mais arrête de mytho stp,victim,none,no,none,no
-[2019-06-13 16:03:33], <Lisa_soutienH>, pour de vrai c'est une salope ,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:03:34], <Silvia_Victime>, tu mfais dla peine,victim,none,no,none,no
-[2019-06-13 16:03:39], <Silvia_Victime>, tg toi,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:03:40], <Sophie_Harceleur>, tu veux que je t'explose ta gueule ou quoi?,bully,none,no,threat,no
-[2019-06-13 16:03:47], <Silvia_Victime>, Mais ferme ta gueule,victim,bully,yes,name_calling,no
-[2019-06-13 16:03:48], <Lisa_soutienH>, vasi essaie ,bully_support,none,no,none,no
-[2019-06-13 16:03:48], <Herbert_Concilia>, Eh on se calme,conciliator,none,no,none,no
-[2019-06-13 16:03:53], <michel_soutienv>, putain mais calmez vous,victim_support,none,no,none,no
-[2019-06-13 16:03:56], <Lisa_soutienH>, jen profiterai pour te baiser,bully_support,none,no,none,no
-[2019-06-13 16:03:58], <michel_soutienv>, ca va pas ou quoi,victim_support,none,no,none,no
-[2019-06-13 16:04:03], <Sophie_Harceleur>, t'es plate comme une planche de surf et tu fais la foplle avec mloi,bully,victim,yes,denigration,no
-[2019-06-13 16:04:03], <Lisa_soutienH>, mais jai peur le l'erpece,bully_support,none,no,none,no
-[2019-06-13 16:04:05], <Silvia_Victime>, Ah en plkus t'es lesbienne?,victim,none,no,none,no
-[2019-06-13 16:04:16], <Lisa_soutienH>, oui t homophobe ?,bully_support,none,no,none,no
-[2019-06-13 16:04:29], <Adrien_soutienh>, Tu veux quoi SALOPE  en faite t es passer sur tout paname donc parle pas,bully_support,victim,yes,denigration,no
-[2019-06-13 16:04:32], <Silvia_Victime>, j'ai juste un pblm avec les putes de ton espèce et les mythos,bully,bully,yes,name_calling,no
-[2019-06-13 16:04:32], <Lisa_soutienH>, t une salope et t homophobe ???,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:04:35], <michel_soutienv>, sophie tetais pas la pendant genre une semaine tu reviens pour foutre la merde,victim_support,none,no,none,no
-[2019-06-13 16:04:40], <Sophie_Harceleur>, la vie de ma mère parle pas comme ça à Lisa ,bully,none,no,none,no
-[2019-06-13 16:04:45], <Silvia_Victime>, On vit sur la côte d'Azur espèce de teubé,victim,bully,yes,name_calling,no
-[2019-06-13 16:04:53], <Silvia_Victime>, tu t cru à st denis ou quoi?,victim,none,no,none,no
-[2019-06-13 16:05:07], <Adrien_soutienh>, non toi  sur les trottoir,bully_support,none,no,none,no
-[2019-06-13 16:05:09], <Lisa_soutienH>, silvia franchement ca se fait pas ce que ta fait,bully_support,none,no,blaming,no
-[2019-06-13 16:05:11], <Silvia_Victime>, La vie de ma mère ferme bien ta gueule au lieu d'écarter les cuisses,victim,bully,yes,denigration,no
-[2019-06-13 16:05:14], <michel_soutienv>,  mais calmez vous ,victim_support,none,no,none,no
-[2019-06-13 16:05:28], <michel_soutienv>, merde parle a lucas avant de hurler sur silvia$,victim_support,none,no,none,no
-[2019-06-13 16:05:33], <Sophie_Harceleur>, mais silvia t'es vraiment une grosse sous race en ft,bully,victim,yes,name_calling,no
-[2019-06-13 16:05:36], <Herbert_Concilia>, On sait tous que Lucas aime que Sophie....,conciliator,none,no,none,no
-[2019-06-13 16:05:44], <Lisa_soutienH>,  bah ecartons les cuisses enseble ! ta l'air d'aimer ca,bully_support,none,no,none,no
-[2019-06-13 16:05:45], <Silvia_Victime>, J'ai rien fait,victim,none,no,none,no
-[2019-06-13 16:05:47], <michel_soutienv>, herbert ta gueule stp,victim_support,conciliator,yes,name_calling,no
-[2019-06-13 16:05:51], <michel_soutienv>, deux secondes,victim_support,none,no,none,no
-[2019-06-13 16:05:51], <Sophie_Harceleur>, mais michel ptn ya rien à savoir de plus,bully,none,no,none,no
-[2019-06-13 16:05:53], <Silvia_Victime>, il mytho de ouf pcq il veut se taper sSophie,victim,none,no,none,no
-[2019-06-13 16:06:11], <Silvia_Victime>, pas vrai Adrien,victim,none,no,none,no
-[2019-06-13 16:06:13], <Adrien_soutienh>, et toi lucas,victim_support,none,no,none,no
-[2019-06-13 16:06:26], <Silvia_Victime>, mais Lucas il pue la merde sérieux,victim,none,yes,name_calling,no
-[2019-06-13 16:06:32], <Silvia_Victime>, c'est quoi cet acharnement,victim,none,no,none,no
-[2019-06-13 16:06:36], <Herbert_Concilia>, Mais c'est vrai ! Y a pas de raison qu'il la trompe,conciliator,none,no,none,no
-[2019-06-13 16:06:38], <Silvia_Victime>, keske je tai fait,victim,none,no,none,no
-[2019-06-13 16:06:44], <Adrien_soutienh>, c est la vérite ,bully_support,none,no,none,no
-[2019-06-13 16:06:58], <Silvia_Victime>, mais arrête ton mytho deux secondes,victim,none,no,none,no
-[2019-06-13 16:07:03], <Lisa_soutienH>, en faite cherchez pas silvia elle veux SE FAIRE BAISER PAR TT LE MONDE,bully_support,victim,yes,denigration,no
-[2019-06-13 16:07:10], <michel_soutienv>, il le saurait si il avait embrasse qqun nan,victim_support,none,no,none,no
-[2019-06-13 16:07:20], <Lisa_soutienH>, ssale pute  tu vend meme pas ton corps taime ca ,bully_support,victim,yes,denigration,no
-[2019-06-13 16:07:21], <Sophie_Harceleur>, Silvia t'es pire qu'une pute,bully,victim,yes,denigration,no
-[2019-06-13 16:07:22], <Silvia_Victime>, mais ta gueule putain tu boites tellement tu te fais défoncer,victim,bully,yes,denigration,no
-[2019-06-13 16:07:27], <michel_soutienv>, demandez a lucas,victim_support,none,no,none,no
-[2019-06-13 16:07:31], <Sophie_Harceleur>, tu suis le chemin de ta mère là,bully,victim,yes,denigration,no
-[2019-06-13 16:07:40], <Silvia_Victime>, Et toi Sohpie tu es bien conne de croire tout ce qu'on te raconte,victim,bully,yes,name_calling,no
-[2019-06-13 16:07:49], <Herbert_Concilia>, Calmez-vous,conciliator,none,no,none,no
-[2019-06-13 16:07:54], <Adrien_soutienh>, Tu veux voir la photo,bully_support,none,no,none,no
-[2019-06-13 16:07:55], <Silvia_Victime>, Lucas il te le dira,victim,none,no,none,no
-[2019-06-13 16:08:00], <Herbert_Concilia>, C'est normal qu'elle s'enerve,conciliator,none,no,none,no
-[2019-06-13 16:08:04], <Silvia_Victime>, putain tu fais plus confiance à Adrien qu'à ton mec,victim,none,no,none,no
-[2019-06-13 16:08:11], <michel_soutienv>, alors parle lui avant de croire adrien ce con,victim_support,bully,yes,name_calling,no
-[2019-06-13 16:08:11], <Sophie_Harceleur>, déjà m'interpelle même pas on est pas pote,bully,victim,yes,threat,no
-[2019-06-13 16:08:12], <Lisa_soutienH>, mdr  tu ma bien tuer mais ca va comment les séances de réducation ? tarrive a remarcher ??,bully_support,victim,yes,none,yes
-[2019-06-13 16:08:14], <Silvia_Victime>, quelle photo povr merde,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:08:23], <Adrien_soutienh>, Logique je suis exceptionnel,bully_support,none,no,none,no
-[2019-06-13 16:08:25], <Silvia_Victime>, tu piques mes répliques Lisa?,victim,none,no,none,no
-[2019-06-13 16:08:28], <Silvia_Victime>, teubé va,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:08:34], <michel_soutienv>, mais quelle merde,victim_support,bully_support,yes,name_calling,no
-[2019-06-13 16:08:40], <Sophie_Harceleur>, laisse Lisa trql ,bully,none,no,none,no
-[2019-06-13 16:08:45], <Adrien_soutienh>, La triz qui traite les autres de teube,victim_support,victim,yes,denigration,no
-[2019-06-13 16:08:49], <Silvia_Victime>, Donc tu es plus exceptionnel que son mec?,victim,none,no,none,no
-[2019-06-13 16:08:52], <Sophie_Harceleur>, t'as rien à dire sous merde,bully,victim,yes,name_calling,no
-[2019-06-13 16:08:54], <Silvia_Victime>, t'avoues du coup?,victim,none,no,none,no
-[2019-06-13 16:08:58], <Silvia_Victime>, tu veux la pécho,victim,none,no,none,no
-[2019-06-13 16:09:08], <Silvia_Victime>, je suis en train de te parler débile,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:09:30], <Adrien_soutienh>, C estpas moi le sujet,bully_support,none,no,none,no
-[2019-06-13 16:09:43], <Silvia_Victime>, c'est bon tu viens de comprendre qu'Adrien veut ju_ste te baiser Sophie?,victim,none,no,none,no
-[2019-06-13 16:09:43], <michel_soutienv>, fait chier de parler de lucas alors quil est pas la faites pas chier appelez le,victim_support,none,no,none,no
-[2019-06-13 16:09:48], <Silvia_Victime>, Il mytho de ouf,victim,none,no,none,no
-[2019-06-13 16:09:52], <Herbert_Concilia>, Bon Adrien si c'est un prank c'est pas drole,conciliator,none,no,none,no
-[2019-06-13 16:09:57], <Sophie_Harceleur>, je vaisme ramener chez moi devant ta famille tu vas voir,bully,none,no,threat,no
-[2019-06-13 16:10:08], <Silvia_Victime>, Appelle le Adrien vazi,victim,none,no,none,no
-[2019-06-13 16:10:10], <Adrien_soutienh>, Mais herbert tu t es cru sur youtube,bully_support,none,no,none,no
-[2019-06-13 16:10:12], <Sophie_Harceleur>, au lycée t'auras même plus de pote ,bully,none,no,threat,no
-[2019-06-13 16:10:14], <michel_soutienv>, bah allez sophie,victim_support,none,no,none,no
-[2019-06-13 16:10:19], <michel_soutienv>, appelle le pour voir,victim_support,none,no,none,no
-[2019-06-13 16:10:23], <Sophie_Harceleur>, tu vas voir quand tu sortiras des vestiaires ,bully,none,no,threat,no
-[2019-06-13 16:10:27], <Silvia_Victime>, Mais putain tu fais plus confiance à Adri qu'à ton mec?,victim,none,no,none,no
-[2019-06-13 16:10:32], <Silvia_Victime>, tu fais pitié sérieux,victim,bully,yes,denigration,no
-[2019-06-13 16:10:33], <Sophie_Harceleur>, habille toi vite grosse p***,bully,victim,yes,name_calling,no
-[2019-06-13 16:10:43], <Silvia_Victime>, moi j'en ai rien à foutre de ton débile de gros laid,victim,bully,yes,denigration,no
-[2019-06-13 16:10:51], <Sophie_Harceleur>, ah mais nan c'est vrai t'aimes te faire péter le cul j'avais oublié,bully,victim,yes,denigration,no
-[2019-06-13 16:10:55], <Silvia_Victime>, putain je peux me faire dix mille fois mieux que lui,victim,none,no,none,no
-[2019-06-13 16:10:56], <Lisa_soutienH>, ouais mais cherche pas a comprendre pk ca se fait pas,bully_support,none,no,none,no
-[2019-06-13 16:10:57], <Adrien_soutienh>, Alors pk tu le suce tous les soir,bully_support,none,no,none,no
-[2019-06-13 16:10:57], <Herbert_Concilia>, nan mais c'est vous là... Adrien dit un truc et tout le monde se met dessus,conciliator,none,no,none,no
-[2019-06-13 16:11:17], <Silvia_Victime>, Mais putain Adrien mythonne,victim,none,no,none,no
-[2019-06-13 16:11:21], <Silvia_Victime>, 🤣,victim,none,no,none,no
-[2019-06-13 16:11:28], <Silvia_Victime>, Sophie tu me fais pitié,victim,none,no,denigration,no
-[2019-06-13 16:11:29], <Sophie_Harceleur>, mdrr tu l'aurais pas embrassé si c'était qu'un débile ,bully,none,no,none,no
-[2019-06-13 16:11:33], <michel_soutienv>,   taimerai biezn etre suce hein adri tes bien seul ,victim_support,bully_support,yes,denigration,no
-[2019-06-13 16:11:35], <Lisa_soutienH>, tres long a taper,bully_support,none,no,none,no
-[2019-06-13 16:11:37], <Adrien_soutienh>, Tu trouve ca drole en plus,bully_support,none,no,none,no
-[2019-06-13 16:11:58], <Silvia_Victime>, Je l'ai pas embrassé,victim,none,no,none,no
-[2019-06-13 16:12:01], <Silvia_Victime>, putain t vmt conne,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:12:04], <Lisa_soutienH>, mais oui biensur,bully_support,none,no,none,no
-[2019-06-13 16:12:04], <Adrien_soutienh>, t es un vrai sac  à foutre,bully_support,victim,yes,denigration,no
-[2019-06-13 16:12:07], <Sophie_Harceleur>, silvia tg on a des preuvesx et destémoins,bully,none,no,name_calling,no
-[2019-06-13 16:12:13], <Silvia_Victime>, olalala insulte volée à ta mère,victim,bully_support,yes,denigration,no
-[2019-06-13 16:12:16], <michel_soutienv>, adiren comme preuve lol,victim_support,none,no,none,no
-[2019-06-13 16:12:22], <Silvia_Victime>, mais quelles preuves putain?!,victim,none,no,none,no
-[2019-06-13 16:12:24], <Herbert_Concilia>, On a UN temoin,conciliator,none,no,none,no
-[2019-06-13 16:12:28], <Silvia_Victime>, Adrien qui veut te tringler,victim,none,no,none,no
-[2019-06-13 16:12:28], <Herbert_Concilia>, pas tres fiable,conciliator,none,no,none,no
-[2019-06-13 16:12:32], <Silvia_Victime>, c'est lui la preuve?,victim,none,no,none,no
-[2019-06-13 16:12:43], <Sophie_Harceleur>, ptn mais t'es né d'un gangbang ou quoi,bully,victim,yes,denigration,no
-[2019-06-13 16:12:46], <Sophie_Harceleur>, ptn de triso,bully,victim,yes,denigration,no
-[2019-06-13 16:12:48], <michel_soutienv>, tu fais pitie sophie  si ton mec te veux plus bah tu degage ,victim_support,bully,yes,denigration,no
-[2019-06-13 16:12:50], <Silvia_Victime>, putain heureusement que t'es pas jury d'un procès pour meurtre,victim,none,no,none,no
-[2019-06-13 16:12:50], <Axelle_Defenseur>, Une personne c'est archi pas une preuve,victim_support,none,no,none,no
-[2019-06-13 16:12:59], <Silvia_Victime>, vu ton esprit de déduction merdique Sophie,victim,bully,yes,denigration,no
-[2019-06-13 16:13:00], <Adrien_soutienh>, On est deux en ft,bully_support,none,no,none,no
-[2019-06-13 16:13:02], <Sophie_Harceleur>, mais michel frere tas vu ton prénom pour commenc&é,bully,victim_support,yes,denigration,no
-[2019-06-13 16:13:05], <Adrien_soutienh>, Hein lisa,bully_support,none,no,none,no
-[2019-06-13 16:13:08], <Silvia_Victime>, Deux qui pauivre merde?,victim,bully_support,yes,name_calling,no
-[2019-06-13 16:13:09], <Lisa_soutienH>, jai la preuvve !!!,bully_support,none,no,none,no
-[2019-06-13 16:13:18], <Silvia_Victime>, Mais Lisa t'étais mm pas au voyage,victim,none,no,none,no
-[2019-06-13 16:13:21], <michel_soutienv>, sophie saute des fiilees ,victim_support,none,no,none,no
-[2019-06-13 16:13:25], <Silvia_Victime>, de où tu as la preuve?,victim,none,no,none,no
-[2019-06-13 16:13:28], <Lisa_soutienH>, voila !!!,bully_support,none,no,none,no
-[2019-06-13 16:13:36], <Lisa_soutienH>, tu comprends sale pute ,bully_support,victim,yes,name_calling,no
-[2019-06-13 16:13:40], <Silvia_Victime>, Je suis mm pas rousse putain,victim,none,no,none,no
-[2019-06-13 16:13:44], <Silvia_Victime>, tu ml'as photoshopée,victim,none,no,none,no
-[2019-06-13 16:13:46], <Lisa_soutienH>, on ta pris en photo,bully_support,none,no,none,no
-[2019-06-13 16:13:53], <Sophie_Harceleur>, ftg sophia ,bully,none,yes,name_calling,no
-[2019-06-13 16:13:56], <Sophie_Harceleur>, jvais te faire la guerre,bully,none,yes,threat,no
-[2019-06-13 16:14:11], <Silvia_Victime>, Mais c'est qui Sophia stp?,victim,none,no,none,no
-[2019-06-13 16:14:16], <michel_soutienv>, la guerre elle est deja la ,victim_support,none,no,none,no
-[2019-06-13 16:14:18], <Silvia_Victime>, 😂,victim,none,no,none,no
-[2019-06-13 16:14:35], <Sophie_Harceleur>, antipolis ,bully,none,no,none,no
-[2019-06-13 16:14:36], <Lisa_soutienH>, cest pas une guerre c'est une execution,bully_support,none,no,none,no
-[2019-06-13 16:14:38], <Silvia_Victime>, Et ton mec il dit quoi de ça?,victim,none,no,none,no
-[2019-06-13 16:14:39], <Sophie_Harceleur>, (allez salut),bully,none,no,none,no
-[2019-06-13 16:14:40], <michel_soutienv>, quel photoshop de fou,victim_support,none,no,none,yes
-[2019-06-13 16:14:50], <Silvia_Victime>, il a de l'avenir,victim,none,no,none,yes
-[2019-06-13 16:15:08], <Adrien_soutienh>, plus que toi en tant que pute,bully_support,victim,yes,denigration,no
-[2019-06-13 16:15:13], <Sophie_Harceleur>, jvais te soulever,bully,victim,yes,threat,no
-[2019-06-13 16:15:16], <Silvia_Victime>, plus que toi en tant que chien de Sophie,victim,bully_support,yes,denigration,no
-[2019-06-13 16:15:17], <Sophie_Harceleur>, continue comme ça,bully,none,no,threat,no
-[2019-06-13 16:15:20], <michel_soutienv>, javoue lisa ty a pense cest meiux que sucer nempeche ca paye pas bien,victim_support,none,no,none,no
-[2019-06-13 16:15:23], <Sophie_Harceleur>, ça se voit tu me connais pas,bully,none,no,none,no
-[2019-06-13 16:15:33], <Silvia_Victime>, Sophie tu devrais t'occuper d'Adrien il en peut plus d'agiter la queue$,victim,none,no,none,no
-[2019-06-13 16:15:35], <Sophie_Harceleur>, des filles comme toi j'en ai connu plus d'une,bully,none,no,none,no
-[2019-06-13 16:15:43], <Silvia_Victime>, et tu les a mangées?,victim,none,no,none,no
-[2019-06-13 16:15:47], <michel_soutienv>, dans le loit ou?,victim_support,none,no,none,no
-[2019-06-13 16:15:49], <Sophie_Harceleur>, elles sont toutes dans un cercueil mtn on sdemande pq,bully,none,no,threat,no
-[2019-06-13 16:15:51], <Silvia_Victime>, 🐕,victim,none,no,none,no
-[2019-06-13 16:15:56], <Lisa_soutienH>, bah taime ca non silvia ?,bully_support,none,no,none,no
-[2019-06-13 16:15:58], <Adrien_soutienh>, Sylvia demain je te balaye en au  des marches,bully_support,none,no,threat,no
-[2019-06-13 16:16:16], <michel_soutienv>, demain lucas va peter un cable ,victim_support,none,no,none,no
-[2019-06-13 16:16:19], <Silvia_Victime>, Sohpie fais qqch là,victim,none,no,none,no
-[2019-06-13 16:16:21], <Lisa_soutienH>, nempeche ca se fait pas  digne d'une pute,bully_support,victim,yes,denigration,no
-[2019-06-13 16:16:27], <Silvia_Victime>, il devient agressif tellement il est en manque,victim,none,no,none,no
-[2019-06-13 16:16:28], <Sophie_Harceleur>, silvia t'es morte.,bully,victim,yes,threat,no
-[2019-06-13 16:16:40], <Silvia_Victime>, Mais d'où je suis morte stp,victim,none,no,none,no
-[2019-06-13 16:16:48], <Silvia_Victime>, déjà faudrait que tu roules jusqu'à moi,victim,bully,yes,denigration,no
-[2019-06-13 16:16:55], <Sophie_Harceleur>, regarde par la fenêtre ya adrien ,bully,none,no,none,no
-[2019-06-13 16:16:55], <Silvia_Victime>, que tu arrives à m'attraper,victim,none,no,none,no
-[2019-06-13 16:17:01], <Silvia_Victime>, et qu'ensuite tu me tues,victim,none,no,none,no
-[2019-06-13 16:17:11], <Silvia_Victime>, il y a pas de fenêtre là où je suis,victim,none,no,none,no
-[2019-06-13 16:17:12], <Adrien_soutienh>, JE VAIS TE BRISER TES OS BOIRE TON SANG SALOPE,bully_support,victim,yes,threat,no
-[2019-06-13 16:17:21], <michel_soutienv>, adrien c est pas grave on est tous passe par la maiis si tu mytho cest un vrai coup de  pute,victim_support,none,no,none,no
-[2019-06-13 16:17:24], <Silvia_Victime>, en plus d'être en manque tu es un vampire?,victim,none,no,none,no
-[2019-06-13 16:17:27], <Lisa_soutienH>, bah avec le sida c sur tu va crever vite silvia ??,bully_support,victim,yes,denigration,no
-[2019-06-13 16:17:32], <Sophie_Harceleur>, qestu parles grosse folle c'est toi l'obèse donc c'est toi qui roule,bully,victim,yes,denigration,no
-[2019-06-13 16:17:35], <Silvia_Victime>, Faut arrêter mon vieux Twilight c'est has been,victim,none,no,none,no
-[2019-06-13 16:17:41], <Lisa_soutienH>, bah avec le sida c sur tu va crever vite silvia ??,bully_support,victim,yes,denigration,no
-[2019-06-13 16:17:55], <Lisa_soutienH>, woow tu fait meme beuger la co ,bully_support,victim,yes,denigration,no
-[2019-06-13 16:17:59], <Silvia_Victime>, Techniquement le sac à MST c'est pas moi...,victim,none,yes,denigration,no
-[2019-06-13 16:18:00], <Lisa_soutienH>, t douer toi ,bully_support,none,no,none,no
-[2019-06-13 16:18:07], <Sophie_Harceleur>, mais lisa laisse tomber la meuf c'est SIDA ebola tétanos tt ce que tu veux,bully,victim,yes,denigration,no
-[2019-06-13 16:18:09], <Silvia_Victime>, 🤣,victim,none,no,none,no
-[2019-06-13 16:18:16], <Lisa_soutienH>, carement ,bully_support,none,no,none,no
-[2019-06-13 16:18:18], <Silvia_Victime>, tu vas faire médecine toi pas vrai?,victim,none,no,none,yes
-[2019-06-13 16:18:23], <Silvia_Victime>, tu en connais des maladies...,victim,none,no,none,yes
-[2019-06-13 16:18:24], <Adrien_soutienh>, Rigole demain tu pourras plius,bully_support,none,no,threat,no
-[2019-06-13 16:18:28], <Sophie_Harceleur>, dans ta chatte ya 3-4 gangs de mst questu parles,bully,victim,yes,denigration,no
-[2019-06-13 16:18:36], <Lisa_soutienH>, pas besoin pour savoir que ta tt les mst de la tere,bully_support,victim,yes,denigration,no
-[2019-06-13 16:18:37], <Silvia_Victime>, toi tu peux déjà plus vu l'état de tes vieilles dents,victim,bully,yes,denigration,no
-[2019-06-13 16:18:40], <Adrien_soutienh>, Je vais te defigurer ,bully_support,victim,yes,threat,no
-[2019-06-13 16:18:53], <Silvia_Victime>, hahahaha Mais sérieux Sophie tu as pas mieux?,victim,none,no,none,yes
-[2019-06-13 16:18:54], <Lisa_soutienH>, c deja fait ,bully_support,none,no,none,no
-[2019-06-13 16:18:56], <Silvia_Victime>, C'est du vu et revu,victim,none,no,none,no
-[2019-06-13 16:18:59], <Herbert_Concilia>, Arretez de vous insulter la... vous dites tellement d'insultes debiles par minute qu'on n'arrive meme pas a suivre et en plus ca nous fait pas avancer... on tourne en rond depuis tout a l'heure srx...,conciliator,none,no,none,no
-[2019-06-13 16:19:05], <Silvia_Victime>, tu es pas capable d'inventer tes propres trucs?,victim,none,no,none,no
-[2019-06-13 16:19:12], <Sophie_Harceleur>, jvais te peter les fchevilles t'entends,bully,victim,yes,threat,no
-[2019-06-13 16:19:14], <Silvia_Victime>, Je résume:,victim,none,no,none,no
-[2019-06-13 16:19:19], <Silvia_Victime>, Adrien veut se taper Sophiue,victim,none,no,none,no
-[2019-06-13 16:19:25], <Silvia_Victime>, Il raconte des mytho,victim,none,no,none,no
-[2019-06-13 16:19:26], <Sophie_Harceleur>, JE RESUME,bully,none,no,none,no
-[2019-06-13 16:19:32], <Silvia_Victime>, Sophie doit aller s'acheter un cerveau,victim,bully,yes,denigration,no
-[2019-06-13 16:19:35], <michel_soutienv>, ca on sait pas il est ptet gay ,victim_support,none,no,none,no
-[2019-06-13 16:19:37], <Silvia_Victime>, elle est pas très maligne,victim,none,no,denigration,no
-[2019-06-13 16:19:48], <Silvia_Victime>, la grosse c'est toi,victim,bully,yes,denigration,no
-[2019-06-13 16:19:54], <Lisa_soutienH>, att ya tout le mode qui resume ce quils ont dans leur tete mdr cherche pa,bully_support,none,no,none,yes
-[2019-06-13 16:19:55], <michel_soutienv>, sophie tes toujours malade ca se voit,victim_support,none,no,none,no
-[2019-06-13 16:19:56], <Adrien_soutienh>, Et toi Lucas tu as oublié,bully_support,none,no,none,no
-[2019-06-13 16:19:57], <Silvia_Victime>, ensuite tu es juste trop conne de croire ce teubé ,victim,bully,yes,name_calling,no
-[2019-06-13 16:20:10], <Silvia_Victime>, Mais de où Lucas putain,victim,none,no,none,no
-[2019-06-13 16:20:17], <Silvia_Victime>, Arrête tes conneries tu es fatiguant,victim,none,no,none,no
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+0,[2019-06-13 15:48:59], <Silvia_Victime>, coucou les amis,victim,none,no,none,no
+1,[2019-06-13 15:55:58], <Sophie_Harceleur>, cc,bully,none,no,none,no
+2,[2019-06-13 15:56:37], <Silvia_Victime>, ça va Sohpie?,victim,none,no,none,no
+3,[2019-06-13 15:57:13], <Silvia_Victime>, :),victim,none,no,none,no
+4,[2019-06-13 15:57:37], <Sophie_Harceleur>, mais t'es sérieuse ou quoi??,bully,none,no,none,no
+5,[2019-06-13 15:57:43], <Silvia_Victime>, de?,victim,none,no,none,no
+6,[2019-06-13 15:57:51], <Adrien_soutienh>, ouai srx,bully_support,none,no,none,no
+7,[2019-06-13 15:58:06], <Silvia_Victime>, mais oui sérieux les gars,victim,none,no,none,no
+8,[2019-06-13 15:58:12], <Silvia_Victime>, :),victim,none,no,none,no
+9,[2019-06-13 15:58:29], <Sophie_Harceleur>, mais ptn tu le fais exprès en + ,bully,none,no,none,no
+10,[2019-06-13 15:58:41], <Silvia_Victime>, mais de quoi Sophie?,victim,none,no,none,no
+11,[2019-06-13 15:58:58], <Silvia_Victime>, ???,victim,none,no,none,no
+12,[2019-06-13 15:59:00], <Sophie_Harceleur>, MAIS bordel!,bully,none,no,none,no
+13,[2019-06-13 15:59:13], <Silvia_Victime>, qu'est ce qu'il t'arrive Sophie?,victim,none,no,none,no
+14,[2019-06-13 15:59:15], <Silvia_Victime>, :),victim,none,no,none,no
+15,[2019-06-13 15:59:27], <Silvia_Victime>, tu es guérie?,victim,none,no,none,no
+16,[2019-06-13 15:59:34], <Sophie_Harceleur>, t'as embrassé Lucas?,bully,none,no,none,no
+17,[2019-06-13 15:59:36], <Silvia_Victime>, c'est dommage que tu sois pas venue,victim,none,no,none,no
+18,[2019-06-13 15:59:37], <Adrien_soutienh>, ça ce fait pas Silvia,bully_support,none,no,none,no
+19,[2019-06-13 15:59:46], <Silvia_Victime>, on s'est super bien amusé :),victim,none,no,none,no
+20,[2019-06-13 16:00:07], <Herbert_Concilia>, pdt le voyage ?,conciliator,none,no,none,no
+21,[2019-06-13 16:00:12], <Silvia_Victime>, oui ,victim,none,no,none,no
+22,[2019-06-13 16:00:18], <Silvia_Victime>, Dommage que Sophie sois pas venue,victim,none,no,none,no
+23,[2019-06-13 16:00:26], <michel_soutienv>,  yo il se passe quoi la,victim_support,none,no,none,no
+24,[2019-06-13 16:00:26], <Sophie_Harceleur>, mais cte folle elle a embrassé lucas pdt le voyazge,bully,victim,yes,name_calling,no
+25,[2019-06-13 16:00:41], <Silvia_Victime>, qui t'a dit ça?,victim,none,no,none,no
+26,[2019-06-13 16:00:46], <Silvia_Victime>, c'est mm pas vrai,victim,none,no,none,no
+27,[2019-06-13 16:00:51], <Adrien_soutienh>, a ton avis ,bully_support,none,no,none,no
+28,[2019-06-13 16:01:02], <Silvia_Victime>, un menteur?,victim,none,no,none,no
+29,[2019-06-13 16:01:04], <Adrien_soutienh>, je t ai vu en faite ,bully_support,none,no,none,no
+30,[2019-06-13 16:01:16], <Herbert_Concilia>, c'est pas possible...,conciliator,none,no,none,no
+31,[2019-06-13 16:01:17], <Sophie_Harceleur>, en ft t'es une grosse pute c'est ça que je dois comprendre,bully,victim,yes,name_calling,no
+32,[2019-06-13 16:01:18], <Silvia_Victime>, faire quoi?,victim,none,no,none,no
+33,[2019-06-13 16:01:39], <Silvia_Victime>, à vazi dou tu m'insultes?,victim,none,no,none,no
+34,[2019-06-13 16:01:41], <Lisa_soutienH>, en faite tes vraiment une sap*lope silvia,bully_support,victim,yes,name_calling,no
+35,[2019-06-13 16:01:43], <Adrien_soutienh>, embrasser lucas,bully_support,none,no,none,no
+36,[2019-06-13 16:01:52], <Lisa_soutienH>, ta trompé ton mec ,bully_support,none,no,none,no
+37,[2019-06-13 16:01:57], <Silvia_Victime>, Mais d'où je l'ai embrassé?,victim,none,no,none,no
+38,[2019-06-13 16:01:58], <Lisa_soutienH>, ca se fait grave pas,bully_support,none,no,none,no
+39,[2019-06-13 16:02:01], <Silvia_Victime>, Mais ta race toi putain,victim,bully,yes,name_calling,no
+40,[2019-06-13 16:02:09], <Adrien_soutienh>, TU TE CALME,bully_support,none,no,none,no
+41,[2019-06-13 16:02:14], <Lisa_soutienH>, bah tes une salope en faite,bully_support,victim,yes,name_calling,no
+42,[2019-06-13 16:02:16], <Sophie_Harceleur>, MAIS BORDEL SILVIA *,bully,none,no,none,no
+43,[2019-06-13 16:02:18], <michel_soutienv>, sophie calmez vous,victim_support,none,no,none,no
+44,[2019-06-13 16:02:18], <Silvia_Victime>, c'est toi qui insultes abruti va,victim,bully,yes,name_calling,no
+45,[2019-06-13 16:02:24], <Lisa_soutienH>, ecpece d'usine a bite,bully_support,victim,yes,name_calling,no
+46,[2019-06-13 16:02:30], <Lisa_soutienH>, tes une autoroute ,bully_support,victim,yes,denigration,no
+47,[2019-06-13 16:02:35], <Herbert_Concilia>, Calmez vous ! Il doit y avoir une erreur...,conciliator,none,no,none,no
+48,[2019-06-13 16:02:38], <Lisa_soutienH>, c chiant de payer ,bully_support,none,no,none,no
+49,[2019-06-13 16:02:39], <michel_soutienv>, calmez vous tous,victim_support,none,no,none,no
+50,[2019-06-13 16:02:39], <Silvia_Victime>, mais grosse salope d'où tu me parles?,victim,victim,yes,name_calling,no
+51,[2019-06-13 16:02:50], <Adrien_soutienh>, T EXCITE PAS,bully_support,none,no,none,no
+52,[2019-06-13 16:02:52], <michel_soutienv>, deux secondes silvia elle ferait pas ca,victim_support,none,no,none,no
+53,[2019-06-13 16:02:57], <Herbert_Concilia>, Adrien t'as dû mal voir....,conciliator,none,no,none,no
+54,[2019-06-13 16:03:01], <Silvia_Victime>, Tu pues la merde ,victim,bully,yes,denigration,no
+55,[2019-06-13 16:03:06], <michel_soutienv>, et sijnon licas il veurt peut etre casser avec toiu,victim_support,none,no,none,no
+56,[2019-06-13 16:03:15], <Sophie_Harceleur>, mais bordel tg herbert tu vois pas je lui parle,bully,conciliator,yes,name_calling,no
+57,[2019-06-13 16:03:16], <Silvia_Victime>, Le mec i mytho de ouf pcq il veut foutre sonb cornichon dans la Sophie,victim,none,no,none,no
+58,[2019-06-13 16:03:18], <Lisa_soutienH>, ah ouais bah faites gaffe a lisa pk c'est un tunnel,bully_support,none,yes,denigration,no
+59,[2019-06-13 16:03:21], <michel_soutienv>, genre il va te le dire,victim_support,none,no,none,no
+60,[2019-06-13 16:03:29], <Silvia_Victime>, Mais arrête de mytho stp,victim,none,no,none,no
+61,[2019-06-13 16:03:33], <Lisa_soutienH>, pour de vrai c'est une salope ,bully_support,victim,yes,name_calling,no
+62,[2019-06-13 16:03:34], <Silvia_Victime>, tu mfais dla peine,victim,none,no,none,no
+63,[2019-06-13 16:03:39], <Silvia_Victime>, tg toi,victim,bully_support,yes,name_calling,no
+64,[2019-06-13 16:03:40], <Sophie_Harceleur>, tu veux que je t'explose ta gueule ou quoi?,bully,none,no,threat,no
+65,[2019-06-13 16:03:47], <Silvia_Victime>, Mais ferme ta gueule,victim,bully,yes,name_calling,no
+66,[2019-06-13 16:03:48], <Lisa_soutienH>, vasi essaie ,bully_support,none,no,none,no
+67,[2019-06-13 16:03:48], <Herbert_Concilia>, Eh on se calme,conciliator,none,no,none,no
+68,[2019-06-13 16:03:53], <michel_soutienv>, putain mais calmez vous,victim_support,none,no,none,no
+69,[2019-06-13 16:03:56], <Lisa_soutienH>, jen profiterai pour te baiser,bully_support,none,no,none,no
+70,[2019-06-13 16:03:58], <michel_soutienv>, ca va pas ou quoi,victim_support,none,no,none,no
+71,[2019-06-13 16:04:03], <Sophie_Harceleur>, t'es plate comme une planche de surf et tu fais la foplle avec mloi,bully,victim,yes,denigration,no
+72,[2019-06-13 16:04:03], <Lisa_soutienH>, mais jai peur le l'erpece,bully_support,none,no,none,no
+73,[2019-06-13 16:04:05], <Silvia_Victime>, Ah en plkus t'es lesbienne?,victim,none,no,none,no
+74,[2019-06-13 16:04:16], <Lisa_soutienH>, oui t homophobe ?,bully_support,none,no,none,no
+75,[2019-06-13 16:04:29], <Adrien_soutienh>, Tu veux quoi SALOPE  en faite t es passer sur tout paname donc parle pas,bully_support,victim,yes,denigration,no
+76,[2019-06-13 16:04:32], <Silvia_Victime>, j'ai juste un pblm avec les putes de ton espèce et les mythos,victim,bully,yes,name_calling,no
+77,[2019-06-13 16:04:32], <Lisa_soutienH>, t une salope et t homophobe ???,bully_support,victim,yes,name_calling,no
+78,[2019-06-13 16:04:35], <michel_soutienv>, sophie tetais pas la pendant genre une semaine tu reviens pour foutre la merde,victim_support,none,no,none,no
+79,[2019-06-13 16:04:40], <Sophie_Harceleur>, la vie de ma mère parle pas comme ça à Lisa ,bully,none,no,none,no
+80,[2019-06-13 16:04:45], <Silvia_Victime>, On vit sur la côte d'Azur espèce de teubé,victim,bully,yes,name_calling,no
+81,[2019-06-13 16:04:53], <Silvia_Victime>, tu t cru à st denis ou quoi?,victim,none,no,none,no
+82,[2019-06-13 16:05:07], <Adrien_soutienh>, non toi  sur les trottoir,bully_support,none,no,none,no
+83,[2019-06-13 16:05:09], <Lisa_soutienH>, silvia franchement ca se fait pas ce que ta fait,bully_support,none,no,blaming,no
+84,[2019-06-13 16:05:11], <Silvia_Victime>, La vie de ma mère ferme bien ta gueule au lieu d'écarter les cuisses,victim,bully,yes,denigration,no
+85,[2019-06-13 16:05:14], <michel_soutienv>,  mais calmez vous ,victim_support,none,no,none,no
+86,[2019-06-13 16:05:28], <michel_soutienv>, merde parle a lucas avant de hurler sur silvia$,victim_support,none,no,none,no
+87,[2019-06-13 16:05:33], <Sophie_Harceleur>, mais silvia t'es vraiment une grosse sous race en ft,bully,victim,yes,name_calling,no
+88,[2019-06-13 16:05:36], <Herbert_Concilia>, On sait tous que Lucas aime que Sophie....,conciliator,none,no,none,no
+89,[2019-06-13 16:05:44], <Lisa_soutienH>,  bah ecartons les cuisses enseble ! ta l'air d'aimer ca,bully_support,none,no,none,no
+90,[2019-06-13 16:05:45], <Silvia_Victime>, J'ai rien fait,victim,none,no,none,no
+91,[2019-06-13 16:05:47], <michel_soutienv>, herbert ta gueule stp,victim_support,conciliator,yes,name_calling,no
+92,[2019-06-13 16:05:51], <michel_soutienv>, deux secondes,victim_support,none,no,none,no
+93,[2019-06-13 16:05:51], <Sophie_Harceleur>, mais michel ptn ya rien à savoir de plus,bully,none,no,none,no
+94,[2019-06-13 16:05:53], <Silvia_Victime>, il mytho de ouf pcq il veut se taper sSophie,victim,none,no,none,no
+95,[2019-06-13 16:06:11], <Silvia_Victime>, pas vrai Adrien,victim,none,no,none,no
+96,[2019-06-13 16:06:13], <Adrien_soutienh>, et toi lucas,bully_support,none,no,none,no
+97,[2019-06-13 16:06:26], <Silvia_Victime>, mais Lucas il pue la merde sérieux,victim,none,yes,name_calling,no
+98,[2019-06-13 16:06:32], <Silvia_Victime>, c'est quoi cet acharnement,victim,none,no,none,no
+99,[2019-06-13 16:06:36], <Herbert_Concilia>, Mais c'est vrai ! Y a pas de raison qu'il la trompe,conciliator,none,no,none,no
+100,[2019-06-13 16:06:38], <Silvia_Victime>, keske je tai fait,victim,none,no,none,no
+101,[2019-06-13 16:06:44], <Adrien_soutienh>, c est la vérite ,bully_support,none,no,none,no
+102,[2019-06-13 16:06:58], <Silvia_Victime>, mais arrête ton mytho deux secondes,victim,none,no,none,no
+103,[2019-06-13 16:07:03], <Lisa_soutienH>, en faite cherchez pas silvia elle veux SE FAIRE BAISER PAR TT LE MONDE,bully_support,victim,yes,denigration,no
+104,[2019-06-13 16:07:10], <michel_soutienv>, il le saurait si il avait embrasse qqun nan,victim_support,none,no,none,no
+105,[2019-06-13 16:07:20], <Lisa_soutienH>, ssale pute  tu vend meme pas ton corps taime ca ,bully_support,victim,yes,denigration,no
+106,[2019-06-13 16:07:21], <Sophie_Harceleur>, Silvia t'es pire qu'une pute,bully,victim,yes,denigration,no
+107,[2019-06-13 16:07:22], <Silvia_Victime>, mais ta gueule putain tu boites tellement tu te fais défoncer,victim,bully,yes,denigration,no
+108,[2019-06-13 16:07:27], <michel_soutienv>, demandez a lucas,victim_support,none,no,none,no
+109,[2019-06-13 16:07:31], <Sophie_Harceleur>, tu suis le chemin de ta mère là,bully,victim,yes,denigration,no
+110,[2019-06-13 16:07:40], <Silvia_Victime>, Et toi Sohpie tu es bien conne de croire tout ce qu'on te raconte,victim,bully,yes,name_calling,no
+111,[2019-06-13 16:07:49], <Herbert_Concilia>, Calmez-vous,conciliator,none,no,none,no
+112,[2019-06-13 16:07:54], <Adrien_soutienh>, Tu veux voir la photo,bully_support,none,no,none,no
+113,[2019-06-13 16:07:55], <Silvia_Victime>, Lucas il te le dira,victim,none,no,none,no
+114,[2019-06-13 16:08:00], <Herbert_Concilia>, C'est normal qu'elle s'enerve,conciliator,none,no,none,no
+115,[2019-06-13 16:08:04], <Silvia_Victime>, putain tu fais plus confiance à Adrien qu'à ton mec,victim,none,no,none,no
+116,[2019-06-13 16:08:11], <michel_soutienv>, alors parle lui avant de croire adrien ce con,victim_support,bully,yes,name_calling,no
+117,[2019-06-13 16:08:11], <Sophie_Harceleur>, déjà m'interpelle même pas on est pas pote,bully,victim,yes,threat,no
+118,[2019-06-13 16:08:12], <Lisa_soutienH>, mdr  tu ma bien tuer mais ca va comment les séances de réducation ? tarrive a remarcher ??,bully_support,victim,yes,none,yes
+119,[2019-06-13 16:08:14], <Silvia_Victime>, quelle photo povr merde,victim,bully_support,yes,name_calling,no
+120,[2019-06-13 16:08:23], <Adrien_soutienh>, Logique je suis exceptionnel,bully_support,none,no,none,no
+121,[2019-06-13 16:08:25], <Silvia_Victime>, tu piques mes répliques Lisa?,victim,none,no,none,no
+122,[2019-06-13 16:08:28], <Silvia_Victime>, teubé va,victim,bully_support,yes,name_calling,no
+123,[2019-06-13 16:08:34], <michel_soutienv>, mais quelle merde,victim_support,bully_support,yes,name_calling,no
+124,[2019-06-13 16:08:40], <Sophie_Harceleur>, laisse Lisa trql ,bully,none,no,none,no
+125,[2019-06-13 16:08:45], <Adrien_soutienh>, La triz qui traite les autres de teube,bully_support,victim,yes,denigration,no
+126,[2019-06-13 16:08:49], <Silvia_Victime>, Donc tu es plus exceptionnel que son mec?,victim,none,no,none,no
+127,[2019-06-13 16:08:52], <Sophie_Harceleur>, t'as rien à dire sous merde,bully,victim,yes,name_calling,no
+128,[2019-06-13 16:08:54], <Silvia_Victime>, t'avoues du coup?,victim,none,no,none,no
+129,[2019-06-13 16:08:58], <Silvia_Victime>, tu veux la pécho,victim,none,no,none,no
+130,[2019-06-13 16:09:08], <Silvia_Victime>, je suis en train de te parler débile,victim,bully_support,yes,name_calling,no
+131,[2019-06-13 16:09:30], <Adrien_soutienh>, C estpas moi le sujet,bully_support,none,no,none,no
+132,[2019-06-13 16:09:43], <Silvia_Victime>, c'est bon tu viens de comprendre qu'Adrien veut ju_ste te baiser Sophie?,victim,none,no,none,no
+133,[2019-06-13 16:09:43], <michel_soutienv>, fait chier de parler de lucas alors quil est pas la faites pas chier appelez le,victim_support,none,no,none,no
+134,[2019-06-13 16:09:48], <Silvia_Victime>, Il mytho de ouf,victim,none,no,none,no
+135,[2019-06-13 16:09:52], <Herbert_Concilia>, Bon Adrien si c'est un prank c'est pas drole,conciliator,none,no,none,no
+136,[2019-06-13 16:09:57], <Sophie_Harceleur>, je vaisme ramener chez moi devant ta famille tu vas voir,bully,none,no,threat,no
+137,[2019-06-13 16:10:08], <Silvia_Victime>, Appelle le Adrien vazi,victim,none,no,none,no
+138,[2019-06-13 16:10:10], <Adrien_soutienh>, Mais herbert tu t es cru sur youtube,bully_support,none,no,none,no
+139,[2019-06-13 16:10:12], <Sophie_Harceleur>, au lycée t'auras même plus de pote ,bully,none,no,threat,no
+140,[2019-06-13 16:10:14], <michel_soutienv>, bah allez sophie,victim_support,none,no,none,no
+141,[2019-06-13 16:10:19], <michel_soutienv>, appelle le pour voir,victim_support,none,no,none,no
+142,[2019-06-13 16:10:23], <Sophie_Harceleur>, tu vas voir quand tu sortiras des vestiaires ,bully,none,no,threat,no
+143,[2019-06-13 16:10:27], <Silvia_Victime>, Mais putain tu fais plus confiance à Adri qu'à ton mec?,victim,none,no,none,no
+144,[2019-06-13 16:10:32], <Silvia_Victime>, tu fais pitié sérieux,victim,bully,yes,denigration,no
+145,[2019-06-13 16:10:33], <Sophie_Harceleur>, habille toi vite grosse p***,bully,victim,yes,name_calling,no
+146,[2019-06-13 16:10:43], <Silvia_Victime>, moi j'en ai rien à foutre de ton débile de gros laid,victim,bully,yes,denigration,no
+147,[2019-06-13 16:10:51], <Sophie_Harceleur>, ah mais nan c'est vrai t'aimes te faire péter le cul j'avais oublié,bully,victim,yes,denigration,no
+148,[2019-06-13 16:10:55], <Silvia_Victime>, putain je peux me faire dix mille fois mieux que lui,victim,none,no,none,no
+149,[2019-06-13 16:10:56], <Lisa_soutienH>, ouais mais cherche pas a comprendre pk ca se fait pas,bully_support,none,no,none,no
+150,[2019-06-13 16:10:57], <Adrien_soutienh>, Alors pk tu le suce tous les soir,bully_support,none,no,none,no
+151,[2019-06-13 16:10:57], <Herbert_Concilia>, nan mais c'est vous là... Adrien dit un truc et tout le monde se met dessus,conciliator,none,no,none,no
+152,[2019-06-13 16:11:17], <Silvia_Victime>, Mais putain Adrien mythonne,victim,none,no,none,no
+153,[2019-06-13 16:11:21], <Silvia_Victime>, 🤣,victim,none,no,none,no
+154,[2019-06-13 16:11:28], <Silvia_Victime>, Sophie tu me fais pitié,victim,none,no,denigration,no
+155,[2019-06-13 16:11:29], <Sophie_Harceleur>, mdrr tu l'aurais pas embrassé si c'était qu'un débile ,bully,none,no,none,no
+156,[2019-06-13 16:11:33], <michel_soutienv>,   taimerai biezn etre suce hein adri tes bien seul ,victim_support,bully_support,yes,denigration,no
+157,[2019-06-13 16:11:35], <Lisa_soutienH>, tres long a taper,bully_support,none,no,none,no
+158,[2019-06-13 16:11:37], <Adrien_soutienh>, Tu trouve ca drole en plus,bully_support,none,no,none,no
+159,[2019-06-13 16:11:58], <Silvia_Victime>, Je l'ai pas embrassé,victim,none,no,none,no
+160,[2019-06-13 16:12:01], <Silvia_Victime>, putain t vmt conne,victim,bully_support,yes,name_calling,no
+161,[2019-06-13 16:12:04], <Lisa_soutienH>, mais oui biensur,bully_support,none,no,none,no
+162,[2019-06-13 16:12:04], <Adrien_soutienh>, t es un vrai sac  à foutre,bully_support,victim,yes,denigration,no
+163,[2019-06-13 16:12:07], <Sophie_Harceleur>, silvia tg on a des preuvesx et destémoins,bully,none,no,name_calling,no
+164,[2019-06-13 16:12:13], <Silvia_Victime>, olalala insulte volée à ta mère,victim,bully_support,yes,denigration,no
+165,[2019-06-13 16:12:16], <michel_soutienv>, adiren comme preuve lol,victim_support,none,no,none,no
+166,[2019-06-13 16:12:22], <Silvia_Victime>, mais quelles preuves putain?!,victim,none,no,none,no
+167,[2019-06-13 16:12:24], <Herbert_Concilia>, On a UN temoin,conciliator,none,no,none,no
+168,[2019-06-13 16:12:28], <Silvia_Victime>, Adrien qui veut te tringler,victim,none,no,none,no
+169,[2019-06-13 16:12:28], <Herbert_Concilia>, pas tres fiable,conciliator,none,no,none,no
+170,[2019-06-13 16:12:32], <Silvia_Victime>, c'est lui la preuve?,victim,none,no,none,no
+171,[2019-06-13 16:12:43], <Sophie_Harceleur>, ptn mais t'es né d'un gangbang ou quoi,bully,victim,yes,denigration,no
+172,[2019-06-13 16:12:46], <Sophie_Harceleur>, ptn de triso,bully,victim,yes,denigration,no
+173,[2019-06-13 16:12:48], <michel_soutienv>, tu fais pitie sophie  si ton mec te veux plus bah tu degage ,victim_support,bully,yes,denigration,no
+174,[2019-06-13 16:12:50], <Silvia_Victime>, putain heureusement que t'es pas jury d'un procès pour meurtre,victim,none,no,none,no
+175,[2019-06-13 16:12:50], <Axelle_Defenseur>, Une personne c'est archi pas une preuve,victim_support,none,no,none,no
+176,[2019-06-13 16:12:59], <Silvia_Victime>, vu ton esprit de déduction merdique Sophie,victim,bully,yes,denigration,no
+177,[2019-06-13 16:13:00], <Adrien_soutienh>, On est deux en ft,bully_support,none,no,none,no
+178,[2019-06-13 16:13:02], <Sophie_Harceleur>, mais michel frere tas vu ton prénom pour commenc&é,bully,victim_support,yes,denigration,no
+179,[2019-06-13 16:13:05], <Adrien_soutienh>, Hein lisa,bully_support,none,no,none,no
+180,[2019-06-13 16:13:08], <Silvia_Victime>, Deux qui pauivre merde?,victim,bully_support,yes,name_calling,no
+181,[2019-06-13 16:13:09], <Lisa_soutienH>, jai la preuvve !!!,bully_support,none,no,none,no
+182,[2019-06-13 16:13:18], <Silvia_Victime>, Mais Lisa t'étais mm pas au voyage,victim,none,no,none,no
+183,[2019-06-13 16:13:21], <michel_soutienv>, sophie saute des fiilees ,victim_support,none,no,none,no
+184,[2019-06-13 16:13:25], <Silvia_Victime>, de où tu as la preuve?,victim,none,no,none,no
+185,[2019-06-13 16:13:28], <Lisa_soutienH>, voila !!!,bully_support,none,no,none,no
+186,[2019-06-13 16:13:36], <Lisa_soutienH>, tu comprends sale pute ,bully_support,victim,yes,name_calling,no
+187,[2019-06-13 16:13:40], <Silvia_Victime>, Je suis mm pas rousse putain,victim,none,no,none,no
+188,[2019-06-13 16:13:44], <Silvia_Victime>, tu ml'as photoshopée,victim,none,no,none,no
+189,[2019-06-13 16:13:46], <Lisa_soutienH>, on ta pris en photo,bully_support,none,no,none,no
+190,[2019-06-13 16:13:53], <Sophie_Harceleur>, ftg sophia ,bully,none,yes,name_calling,no
+191,[2019-06-13 16:13:56], <Sophie_Harceleur>, jvais te faire la guerre,bully,none,yes,threat,no
+192,[2019-06-13 16:14:11], <Silvia_Victime>, Mais c'est qui Sophia stp?,victim,none,no,none,no
+193,[2019-06-13 16:14:16], <michel_soutienv>, la guerre elle est deja la ,victim_support,none,no,none,no
+194,[2019-06-13 16:14:18], <Silvia_Victime>, 😂,victim,none,no,none,no
+195,[2019-06-13 16:14:35], <Sophie_Harceleur>, antipolis ,bully,none,no,none,no
+196,[2019-06-13 16:14:36], <Lisa_soutienH>, cest pas une guerre c'est une execution,bully_support,none,no,none,no
+197,[2019-06-13 16:14:38], <Silvia_Victime>, Et ton mec il dit quoi de ça?,victim,none,no,none,no
+198,[2019-06-13 16:14:39], <Sophie_Harceleur>, (allez salut),bully,none,no,none,no
+199,[2019-06-13 16:14:40], <michel_soutienv>, quel photoshop de fou,victim_support,none,no,none,yes
+200,[2019-06-13 16:14:50], <Silvia_Victime>, il a de l'avenir,victim,none,no,none,yes
+201,[2019-06-13 16:15:08], <Adrien_soutienh>, plus que toi en tant que pute,bully_support,victim,yes,denigration,no
+202,[2019-06-13 16:15:13], <Sophie_Harceleur>, jvais te soulever,bully,victim,yes,threat,no
+203,[2019-06-13 16:15:16], <Silvia_Victime>, plus que toi en tant que chien de Sophie,victim,bully_support,yes,denigration,no
+204,[2019-06-13 16:15:17], <Sophie_Harceleur>, continue comme ça,bully,none,no,threat,no
+205,[2019-06-13 16:15:20], <michel_soutienv>, javoue lisa ty a pense cest meiux que sucer nempeche ca paye pas bien,victim_support,none,no,none,no
+206,[2019-06-13 16:15:23], <Sophie_Harceleur>, ça se voit tu me connais pas,bully,none,no,none,no
+207,[2019-06-13 16:15:33], <Silvia_Victime>, Sophie tu devrais t'occuper d'Adrien il en peut plus d'agiter la queue$,victim,none,no,none,no
+208,[2019-06-13 16:15:35], <Sophie_Harceleur>, des filles comme toi j'en ai connu plus d'une,bully,none,no,none,no
+209,[2019-06-13 16:15:43], <Silvia_Victime>, et tu les a mangées?,victim,none,no,none,no
+210,[2019-06-13 16:15:47], <michel_soutienv>, dans le loit ou?,victim_support,none,no,none,no
+211,[2019-06-13 16:15:49], <Sophie_Harceleur>, elles sont toutes dans un cercueil mtn on sdemande pq,bully,none,no,threat,no
+212,[2019-06-13 16:15:51], <Silvia_Victime>, 🐕,victim,none,no,none,no
+213,[2019-06-13 16:15:56], <Lisa_soutienH>, bah taime ca non silvia ?,bully_support,none,no,none,no
+214,[2019-06-13 16:15:58], <Adrien_soutienh>, Sylvia demain je te balaye en au  des marches,bully_support,none,no,threat,no
+215,[2019-06-13 16:16:16], <michel_soutienv>, demain lucas va peter un cable ,victim_support,none,no,none,no
+216,[2019-06-13 16:16:19], <Silvia_Victime>, Sohpie fais qqch là,victim,none,no,none,no
+217,[2019-06-13 16:16:21], <Lisa_soutienH>, nempeche ca se fait pas  digne d'une pute,bully_support,victim,yes,denigration,no
+218,[2019-06-13 16:16:27], <Silvia_Victime>, il devient agressif tellement il est en manque,victim,none,no,none,no
+219,[2019-06-13 16:16:28], <Sophie_Harceleur>, silvia t'es morte.,bully,victim,yes,threat,no
+220,[2019-06-13 16:16:40], <Silvia_Victime>, Mais d'où je suis morte stp,victim,none,no,none,no
+221,[2019-06-13 16:16:48], <Silvia_Victime>, déjà faudrait que tu roules jusqu'à moi,victim,bully,yes,denigration,no
+222,[2019-06-13 16:16:55], <Sophie_Harceleur>, regarde par la fenêtre ya adrien ,bully,none,no,none,no
+223,[2019-06-13 16:16:55], <Silvia_Victime>, que tu arrives à m'attraper,victim,none,no,none,no
+224,[2019-06-13 16:17:01], <Silvia_Victime>, et qu'ensuite tu me tues,victim,none,no,none,no
+225,[2019-06-13 16:17:11], <Silvia_Victime>, il y a pas de fenêtre là où je suis,victim,none,no,none,no
+226,[2019-06-13 16:17:12], <Adrien_soutienh>, JE VAIS TE BRISER TES OS BOIRE TON SANG SALOPE,bully_support,victim,yes,threat,no
+227,[2019-06-13 16:17:21], <michel_soutienv>, adrien c est pas grave on est tous passe par la maiis si tu mytho cest un vrai coup de  pute,victim_support,none,no,none,no
+228,[2019-06-13 16:17:24], <Silvia_Victime>, en plus d'être en manque tu es un vampire?,victim,none,no,none,no
+229,[2019-06-13 16:17:27], <Lisa_soutienH>, bah avec le sida c sur tu va crever vite silvia ??,bully_support,victim,yes,denigration,no
+230,[2019-06-13 16:17:32], <Sophie_Harceleur>, qestu parles grosse folle c'est toi l'obèse donc c'est toi qui roule,bully,victim,yes,denigration,no
+231,[2019-06-13 16:17:35], <Silvia_Victime>, Faut arrêter mon vieux Twilight c'est has been,victim,none,no,none,no
+232,[2019-06-13 16:17:41], <Lisa_soutienH>, bah avec le sida c sur tu va crever vite silvia ??,bully_support,victim,yes,denigration,no
+233,[2019-06-13 16:17:55], <Lisa_soutienH>, woow tu fait meme beuger la co ,bully_support,victim,yes,denigration,no
+234,[2019-06-13 16:17:59], <Silvia_Victime>, Techniquement le sac à MST c'est pas moi...,victim,none,yes,denigration,no
+235,[2019-06-13 16:18:00], <Lisa_soutienH>, t douer toi ,bully_support,none,no,none,no
+236,[2019-06-13 16:18:07], <Sophie_Harceleur>, mais lisa laisse tomber la meuf c'est SIDA ebola tétanos tt ce que tu veux,bully,victim,yes,denigration,no
+237,[2019-06-13 16:18:09], <Silvia_Victime>, 🤣,victim,none,no,none,no
+238,[2019-06-13 16:18:16], <Lisa_soutienH>, carement ,bully_support,none,no,none,no
+239,[2019-06-13 16:18:18], <Silvia_Victime>, tu vas faire médecine toi pas vrai?,victim,none,no,none,yes
+240,[2019-06-13 16:18:23], <Silvia_Victime>, tu en connais des maladies...,victim,none,no,none,yes
+241,[2019-06-13 16:18:24], <Adrien_soutienh>, Rigole demain tu pourras plius,bully_support,none,no,threat,no
+242,[2019-06-13 16:18:28], <Sophie_Harceleur>, dans ta chatte ya 3-4 gangs de mst questu parles,bully,victim,yes,denigration,no
+243,[2019-06-13 16:18:36], <Lisa_soutienH>, pas besoin pour savoir que ta tt les mst de la tere,bully_support,victim,yes,denigration,no
+244,[2019-06-13 16:18:37], <Silvia_Victime>, toi tu peux déjà plus vu l'état de tes vieilles dents,victim,bully,yes,denigration,no
+245,[2019-06-13 16:18:40], <Adrien_soutienh>, Je vais te defigurer ,bully_support,victim,yes,threat,no
+246,[2019-06-13 16:18:53], <Silvia_Victime>, hahahaha Mais sérieux Sophie tu as pas mieux?,victim,none,no,none,yes
+247,[2019-06-13 16:18:54], <Lisa_soutienH>, c deja fait ,bully_support,none,no,none,no
+248,[2019-06-13 16:18:56], <Silvia_Victime>, C'est du vu et revu,victim,none,no,none,no
+249,[2019-06-13 16:18:59], <Herbert_Concilia>, Arretez de vous insulter la... vous dites tellement d'insultes debiles par minute qu'on n'arrive meme pas a suivre et en plus ca nous fait pas avancer... on tourne en rond depuis tout a l'heure srx...,conciliator,none,no,none,no
+250,[2019-06-13 16:19:05], <Silvia_Victime>, tu es pas capable d'inventer tes propres trucs?,victim,none,no,none,no
+251,[2019-06-13 16:19:12], <Sophie_Harceleur>, jvais te peter les fchevilles t'entends,bully,victim,yes,threat,no
+252,[2019-06-13 16:19:14], <Silvia_Victime>, Je résume:,victim,none,no,none,no
+253,[2019-06-13 16:19:19], <Silvia_Victime>, Adrien veut se taper Sophiue,victim,none,no,none,no
+254,[2019-06-13 16:19:25], <Silvia_Victime>, Il raconte des mytho,victim,none,no,none,no
+255,[2019-06-13 16:19:26], <Sophie_Harceleur>, JE RESUME,bully,none,no,none,no
+256,[2019-06-13 16:19:32], <Silvia_Victime>, Sophie doit aller s'acheter un cerveau,victim,bully,yes,denigration,no
+257,[2019-06-13 16:19:35], <michel_soutienv>, ca on sait pas il est ptet gay ,victim_support,none,no,none,no
+258,[2019-06-13 16:19:37], <Silvia_Victime>, elle est pas très maligne,victim,none,no,denigration,no
+259,[2019-06-13 16:19:48], <Silvia_Victime>, la grosse c'est toi,victim,bully,yes,denigration,no
+260,[2019-06-13 16:19:54], <Lisa_soutienH>, att ya tout le mode qui resume ce quils ont dans leur tete mdr cherche pa,bully_support,none,no,none,yes
+261,[2019-06-13 16:19:55], <michel_soutienv>, sophie tes toujours malade ca se voit,victim_support,none,no,none,no
+262,[2019-06-13 16:19:56], <Adrien_soutienh>, Et toi Lucas tu as oublié,bully_support,none,no,none,no
+263,[2019-06-13 16:19:57], <Silvia_Victime>, ensuite tu es juste trop conne de croire ce teubé ,victim,bully,yes,name_calling,no
+264,[2019-06-13 16:20:10], <Silvia_Victime>, Mais de où Lucas putain,victim,none,no,none,no
+265,[2019-06-13 16:20:17], <Silvia_Victime>, Arrête tes conneries tu es fatiguant,victim,none,no,none,no
