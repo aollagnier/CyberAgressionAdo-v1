@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
 0,[2:39:30 PM], <Zoé-Victime>, pourquoi vous avez diffusé des photos de moi ?,victim,none,no,none,no
 1,[2:39:33 PM], <Natacha-Soutien-Harceleur>, bande de conne,bully_support,victim/victim_support,no,name_calling,no
 2,[2:39:59 PM], <Marjorie-Harceleur>, salope ! tu t vu ?,bully,victim,no,denigration,no

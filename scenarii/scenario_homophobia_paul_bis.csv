@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
 0,Ellian,11:05:23 AM, rentre chez toi malade,bully,none,no,aggression-other,no
 1,Ellian,11:06:10 AM, tu vas contaminer tout le monde paul !!!!!!!,bully,victim,yes,aggression-other,no
 2,Paul,11:06:37 AM, Comment ça ?? ,victim,none,no,none,no

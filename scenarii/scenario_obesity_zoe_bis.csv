@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
 0,[11:35:33], <Marjorie-Harceleur>," Salut la grosse,  j'espere que la photo t'as plu",bully,victim,no,name_calling,no
 1,[11:36:01], <Natacha-Soutien-Harceleur>, allez vous faure foutre$,bully_support,none,no,aggression-other,no
 2,[11:36:04], <Zoé-Victime>," Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout",victim,none,no,none,yes

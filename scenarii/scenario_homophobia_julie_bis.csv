@@ -1,134 +1,134 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
 0,JulieVictime,11:00:05 AM, Franchement ça se fait pas ce que vous avez fait !,victim,none,no,none,no
-1,Emilie,11:01:44 AM, nikez vos darons bande de pdJ,bully,none,no,aggression-other,no
-2,JulieVictime,11:00:05 AM, Franchement ça se fait pas ce que vous avez fait !E,victim,none,no,none,no
+1,Emilie,11:01:44 AM, nikez vos darons bande de pd,bully,none,no,aggression-other,no
+2,JulieVictime,11:00:05 AM, Franchement ça se fait pas ce que vous avez fait !,victim,none,no,none,no
 3,Emilie,11:02:24 AM, retourne sucer des bite,bully,victim,no,aggression-other,no
 4,Marie36,11:02:36 AM, Cherrrr,victim_support,none,no,none,no
-5,Anna35,11:02:51 AM, allez suce emJ,bully_support,victim,no,aggression-other,no
+5,Anna35,11:02:51 AM, allez suce em,bully_support,victim,no,aggression-other,no
 6,JulieVictime,11:02:58 AM, rien à voir Emilie tu es vraiment pas intelligente,victim,bully,no,denigration,no
 7,Anna35,11:03:21 AM, suck ur mum,bully_support,victim,no,aggression-other,no
-8,Marie36,11:03:35 AM, Et ça gazJ,victim_support,none,no,none,no
+8,Marie36,11:03:35 AM, Et ça gaz,victim_support,none,no,none,no
 9,JulieVictime,11:03:37 AM, Snapchat c'est fait pour délirer pas pour harceler,victim,none,no,none,no
-10,Arthur,11:03:41 AM, t'inquète pas il sont saléE,conciliator,none,no,none,no
-11,elodie65,11:04:04 AM, mettez vous aux hommes c'est mieuxJ,bully_support,victim,yes,denigration,no
+10,Arthur,11:03:41 AM, t'inquète pas il sont salé,conciliator,none,no,none,no
+11,elodie65,11:04:04 AM, mettez vous aux hommes c'est mieux,bully_support,victim,yes,denigration,no
 12,JulieVictime,11:04:12 AM, Avec Léa on comprend vraiment pas votre démarche,victim,none,no,none,no
-13,Marie36,11:04:31 AM, J’ai la démarche d’umtiti pour çaE,victim_support,none,no,none,no
+13,Marie36,11:04:31 AM, J’ai la démarche d’umtiti pour ça,victim_support,none,no,none,no
 14,Emilie,11:04:33 AM, elodie et anna vous etes vraiment gay a faire des baille dans la salle de classe quand ya personne,bully,none,no,none,no
-15,Marie36,11:04:53 AM, Oue vous fêtes le ciseauxJ,victim_support,none,no,none,no
+15,Marie36,11:04:53 AM, Oue vous fêtes le ciseaux,victim_support,none,no,none,no
 16,JulieVictime,11:05:30 AM, C'est pas parce que vous êtes en avance sur votre age que tout le monde doit faire des trucs avec les zizi des garçon,victim,none,no,none,no
-17,Arthur,11:05:34 AM, vous devrait être plus ouvert a ce que les autre fondJ,conciliator,none,no,none,no
-18,JulieVictime,11:05:36 AM, chaque chose en son temps et vous êtes juste jalouse parce que vous avez pas de relation amicale aussi cool que la notreE,victim,none,no,none,no
-19,elodie65,11:06:06 AM, elles ont cas pas s'afficher devant tout le monde c'est deguelasseE,bully_support,victim,yes,denigration,no
+17,Arthur,11:05:34 AM, vous devrait être plus ouvert a ce que les autre fond,conciliator,none,no,none,no
+18,JulieVictime,11:05:36 AM, chaque chose en son temps et vous êtes juste jalouse parce que vous avez pas de relation amicale aussi cool que la notre,victim,none,no,none,no
+19,elodie65,11:06:06 AM, elles ont cas pas s'afficher devant tout le monde c'est deguelasse,bully_support,victim,yes,denigration,no
 20,Emilie,11:06:15 AM, askip Anna elle fait des baille avec son pere,bully,victim,no,denigration,no
 21,Marie36,11:06:19 AM, Sa se fait pas Je suce son père donc stop,victim_support,none,no,none,no
-22,Arthur,11:06:40 AM, Emilie just parce que t'a jamais des queue tu doit pas être jalouseJ,conciliator,bully,no,denigration,no
+22,Arthur,11:06:40 AM, Emilie just parce que t'a jamais des queue tu doit pas être jalouse,conciliator,bully,no,denigration,no
 23,JulieVictime,11:07:08 AM, et puis Marie tu n'as jamais de vue sur tes snap c'est la première fois que tout le monde share ton truc,victim,none,no,none,no
-24,Marie36,11:07:21 AM, Et alors elle fait ce qu’elle veutJ,victim_support,none,no,none,no
+24,Marie36,11:07:21 AM, Et alors elle fait ce qu’elle veut,victim_support,none,no,none,no
 25,JulieVictime,11:07:28 AM, tout ça pour devenir populaire,victim,none,no,none,no
 26,Arthur,11:07:38 AM, Juile et Léa sa serve a rien de les écoutés il sont trop con,conciliator,victim,no,denigration,no
-27,Marie36,11:07:51 AM, Si le savoir est une arme et bas bz ta mèreE,victim_support,bully,no,aggression-other,no
-28,Emilie,11:07:53 AM, qui veut les nudes de ElodieJ,bully,none,no,none,no
+27,Marie36,11:07:51 AM, Si le savoir est une arme et bas bz ta mère,victim_support,bully,no,aggression-other,no
+28,Emilie,11:07:53 AM, qui veut les nudes de Elodie,bully,none,no,none,no
 29,JulieVictime,11:08:03 AM, mais arretez ! c'est pas comme ça qu'on se fait des followers on peux aussi être vertueux,victim,none,no,none,no
-30,Marie36,11:08:49 AM, C’est pas comme ça qu’on imagine la vieJ,victim_support,none,no,none,no
+30,Marie36,11:08:49 AM, C’est pas comme ça qu’on imagine la vie,victim_support,none,no,none,no
 31,JulieVictime,11:08:52 AM, pas dans la haine tout le temps,victim,none,no,none,no
 32,Marie36,11:09:07 AM, Va baiser ta mère sale fils de pute,victim_support,bully,no,aggression-other,no
-33,Anna35,11:09:11 AM, on leur commence un only fansJ,bully_support,none,no,none,no
-34,JulieVictime,11:09:17 AM, c'est pas comme ça qu'on se fait des vraiment amisE,victim,none,no,none,no
-35,elodie65,11:09:23 AM, mdrrrr adam et eve vous connaissez ?J,bully_support,none,no,none,yes
-36,JulieVictime,11:09:31 AM, c'est quoi only fan ?E,victim,none,no,none,no
+33,Anna35,11:09:11 AM, on leur commence un only fans,bully_support,none,no,none,no
+34,JulieVictime,11:09:17 AM, c'est pas comme ça qu'on se fait des vraiment amis,victim,none,no,none,no
+35,elodie65,11:09:23 AM, mdrrrr adam et eve vous connaissez ?,bully_support,none,no,none,yes
+36,JulieVictime,11:09:31 AM, c'est quoi only fan ?,victim,none,no,none,no
 37,Emilie,11:09:33 AM, la daronne a anna je lui fait un boulot,bully,none,no,none,no
-38,JulieVictime,11:10:07 AM, Quel rapport avec la maman de AnnaE,victim,none,no,none,no
-39,elodie65,11:10:29 AM, pas mal l'education en mode ciseauxJ,bully_support,none,yes,denigration,yes
-40,JulieVictime,11:10:32 AM, franchement vous êtes trop des hatersE,victim,none,no,none,no
+38,JulieVictime,11:10:07 AM, Quel rapport avec la maman de Anna,victim,none,no,none,no
+39,elodie65,11:10:29 AM, pas mal l'education en mode ciseaux,bully_support,none,yes,denigration,yes
+40,JulieVictime,11:10:32 AM, franchement vous êtes trop des haters,victim,none,no,none,no
 41,elodie65,11:10:57 AM, quesque haters,bully_support,none,no,none,no
 42,Arthur,11:10:57 AM, vous n'avez rien d'autre a faire?,conciliator,none,no,none,no
-43,Anna35,11:11:32 AM, Arthur sur ces genoux pour le plan a 3; E,bully_support,none,no,none,no
-44,elodie65,11:11:35 AM, allez faire des manifestations ca va faire avancer la scienceJ,bully_support,none,no,none,no
-45,JulieVictime,11:11:50 AM, les haters c'est les gens qui sont frustré qui subissent leurs vies et qui du coup essaie de s'en faire une en se défoulant sur internet désolé si vous êtes déjà plus animé par la vieE,victim,none,no,none,no
+43,Anna35,11:11:32 AM, Arthur sur ces genoux pour le plan a 3,bully_support,none,no,none,no
+44,elodie65,11:11:35 AM, allez faire des manifestations ca va faire avancer la science,bully_support,none,no,none,no
+45,JulieVictime,11:11:50 AM, les haters c'est les gens qui sont frustré qui subissent leurs vies et qui du coup essaie de s'en faire une en se défoulant sur internet désolé si vous êtes déjà plus animé par la vie,victim,none,no,none,no
 46,elodie65,11:13:19 AM, on est tellement triste qu'on est normal donc ferme la,bully_support,victim,no,aggression-other,no
-47,Arthur,11:13:23 AM, Julie perd pas ton temps a les répondreJ,conciliator,none,no,none,no
-48,JulieVictime,11:13:46 AM, en vrai je suis sur qu'on pourrait être pote c'est juste que vous êtes jalousesE,victim,none,no,none,no
-49,elodie65,11:14:13 AM, nn je suis pas pote avec les lesbiennesJ,bully_support,victim,yes,aggression-other,no
-50,JulieVictime,11:14:34 AM, t'es vraiment dans le péjugéE,victim,none,no,none,no
-51,Emilie,11:15:14 AM, bon toutes les meuf qui se suce entre eux vivement la peine de mort pour vousJ,bully,victim,yes,aggression-other,no
-52,JulieVictime,11:15:23 AM, on est pas lesbienne et même si on l'était je crois pas que se soit une maladieE,victim,none,no,none,no
-53,elodie65,11:15:29 AM, grave je suis d'accord direction les camps de concentrationJ,bully_support,victim,yes,aggression-other,no
-54,JulieVictime,11:15:42 AM, ah oui vraiment ? tu sais que Hitler il a fait çaE,victim,none,no,none,no
-55,elodie65,11:15:56 AM, hitler c'est trompé de communautéJ,bully_support,victim,yes,aggression-other,no
+47,Arthur,11:13:23 AM, Julie perd pas ton temps a les répondre,conciliator,none,no,none,no
+48,JulieVictime,11:13:46 AM, en vrai je suis sur qu'on pourrait être pote c'est juste que vous êtes jalouses,victim,none,no,none,no
+49,elodie65,11:14:13 AM, nn je suis pas pote avec les lesbiennes,bully_support,victim,yes,aggression-other,no
+50,JulieVictime,11:14:34 AM, t'es vraiment dans le péjugé,victim,none,no,none,no
+51,Emilie,11:15:14 AM, bon toutes les meuf qui se suce entre eux vivement la peine de mort pour vous,bully,victim,yes,aggression-other,no
+52,JulieVictime,11:15:23 AM, on est pas lesbienne et même si on l'était je crois pas que se soit une maladie,victim,none,no,none,no
+53,elodie65,11:15:29 AM, grave je suis d'accord direction les camps de concentration,bully_support,victim,yes,aggression-other,no
+54,JulieVictime,11:15:42 AM, ah oui vraiment ? tu sais que Hitler il a fait ça,victim,none,no,none,no
+55,elodie65,11:15:56 AM, hitler c'est trompé de communauté,bully_support,victim,yes,aggression-other,no
 56,JulieVictime,11:16:01 AM, tu trouve ça cool toi les nazi ?,victim,none,no,none,no
 57,Anna35,11:16:22 AM, oe,bully_support,none,no,none,no
-58,Arthur,11:16:46 AM, ton père était pas juif AnnaE,conciliator,none,no,none,no
+58,Arthur,11:16:46 AM, ton père était pas juif Anna,conciliator,none,no,none,no
 59,Emilie,11:16:50 AM, oue oue ca va les pds,bully,victim,no,name_calling,no
-60,Anna35,11:17:03 AM, si polognaisJ,bully_support,none,no,none,no
-61,JulieVictime,11:17:07 AM, waaa mais franchement j'allucine vous vous rende compte de ce que vous dites ?E,victim,none,no,none,no
-62,elodie65,11:17:31 AM, vraiment vous degoutez les 2 personnes vous a appris la normalitéJ,bully_support,victim,no,denigration,no
-63,JulieVictime,11:17:36 AM, la en fait je crois pas qu'on pourai devenir ami vous êtes en fait homophobes et naziE,victim,none,no,none,no
-64,elodie65,11:17:59 AM, personne veut etre ami avec toi tqt elle va vouloir nous pecho la collgJ,bully_support,none,no,none,no
-65,JulieVictime,11:18:12 AM, je trouve que c'est vachement plus la honte que d'être lesbienneE,victim,none,no,none,no
+60,Anna35,11:17:03 AM, si polognais,bully_support,none,no,none,no
+61,JulieVictime,11:17:07 AM, waaa mais franchement j'allucine vous vous rende compte de ce que vous dites ?,victim,none,no,none,no
+62,elodie65,11:17:31 AM, vraiment vous degoutez les 2 personnes vous a appris la normalité,bully_support,victim,no,denigration,no
+63,JulieVictime,11:17:36 AM, la en fait je crois pas qu'on pourai devenir ami vous êtes en fait homophobes et nazi,victim,none,no,none,no
+64,elodie65,11:17:59 AM, personne veut etre ami avec toi tqt elle va vouloir nous pecho la collg,bully_support,none,no,none,no
+65,JulieVictime,11:18:12 AM, je trouve que c'est vachement plus la honte que d'être lesbienne,victim,none,no,none,no
 66,elodie65,11:18:17 AM, collegue,bully_support,none,no,none,no
-67,Arthur,11:18:23 AM, alors ton père était le premier a se doucher avec des hommesJ,conciliator,none,no,none,no
+67,Arthur,11:18:23 AM, alors ton père était le premier a se doucher avec des hommes,conciliator,none,no,none,no
 68,JulieVictime,11:18:32 AM, Arthur ? toi aussi ? tu es nazi ?,victim,none,no,none,no
-69,Arthur,11:18:40 AM, après son vacance en train$J,conciliator,none,no,none,no
+69,Arthur,11:18:40 AM, après son vacance en train,conciliator,none,no,none,no
 70,JulieVictime,11:18:41 AM, :à,victim,none,no,none,no
-71,Anna35,11:18:50 AM, oe en auschwitz et il suce hitlerE,bully_support,none,no,aggression-other,no
-72,Emilie,11:18:58 AM, ecrivez les boubouJ,bully,none,no,none,no
+71,Anna35,11:18:50 AM, oe en auschwitz et il suce hitler,bully_support,none,no,aggression-other,no
+72,Emilie,11:18:58 AM, ecrivez les boubou,bully,none,no,none,no
 73,JulieVictime,11:19:05 AM, les boubou ?,victim,none,no,none,no
-74,Arthur,11:19:16 AM, nan je suis pas naziJ,conciliator,none,no,none,no
-75,JulieVictime,11:19:21 AM," ça veux dire quelque chose en allemand nazi ""les boubou"" ?J",victim,none,no,none,no
-76,JulieVictime,11:19:32 AM, ba alors pourquoi tu fais des blagues nazies ?E,victim,none,no,none,no
-77,Emilie,11:19:37 AM, bougnoulJ,bully,none,no,name_calling,no
+74,Arthur,11:19:16 AM, nan je suis pas nazi,conciliator,none,no,none,no
+75,JulieVictime,11:19:21 AM," ça veux dire quelque chose en allemand nazi ""les boubou"" ?",victim,none,no,none,no
+76,JulieVictime,11:19:32 AM, ba alors pourquoi tu fais des blagues nazies ?,victim,none,no,none,no
+77,Emilie,11:19:37 AM, bougnoul,bully,none,no,name_calling,no
 78,JulieVictime,11:19:42 AM, ah ok,victim,none,no,none,no
-79,Anna35,11:19:56 AM, cuntJ,bully_support,none,no,none,no
+79,Anna35,11:19:56 AM, cunt,bully_support,none,no,none,no
 80,JulieVictime,11:20:03 AM," tu réuni en fait tous les vices du monde c'est ça Emilie N? nazi, xénophoque et homophobe ,? tu aurais pas inventé la pizza à l'ananas aussi ?",victim,bully,no,denigration,no
-81,Arthur,11:20:28 AM, je pence que Emilie a plus rien a direE,conciliator,none,no,none,no
-82,elodie65,11:20:31 AM, mdrrrr prenez rdv avec votre donneur de sperm avant de venir nous faire chierE,bully_support,victim,no,aggression-other,no
-83,Emilie,11:20:37 AM, schmutzig schwul ca veut dire sale gay en allemendJ,bully,none,no,none,no
+81,Arthur,11:20:28 AM, je pence que Emilie a plus rien a dire,conciliator,none,no,none,no
+82,elodie65,11:20:31 AM, mdrrrr prenez rdv avec votre donneur de sperm avant de venir nous faire chier,bully_support,victim,no,aggression-other,no
+83,Emilie,11:20:37 AM, schmutzig schwul ca veut dire sale gay en allemend,bully,none,no,none,no
 84,JulieVictime,11:21:06 AM, ok moi je pense qu'en fait Emilie tu devrais trouver une passion,victim,none,no,none,no
-85,Arthur,11:21:26 AM, elle a rien d'autre a faireJ,conciliator,none,no,none,no
+85,Arthur,11:21:26 AM, elle a rien d'autre a faire,conciliator,none,no,none,no
 86,JulieVictime,11:21:35 AM, Stéphane lui aussi était raciste et depuis qu'il fait du skate et bien il est pu raciste,victim,none,no,none,no
-87,Anna35,11:21:45 AM, pas les bites ca c surE,bully_support,none,no,none,no
-88,elodie65,11:22:01 AM, passion des fiottes aller twerker dans une église et pleurer pendant les magnifestations gayJ,bully_support,none,no,aggression-other,no
+87,Anna35,11:21:45 AM, pas les bites ca c sur,bully_support,none,no,none,no
+88,elodie65,11:22:01 AM, passion des fiottes aller twerker dans une église et pleurer pendant les magnifestations gay,bully_support,none,no,aggression-other,no
 89,JulieVictime,11:22:33 AM, c'est sur qu'à l'entré de l'église il doit pas te faire rentrer le videur,victim,none,no,none,no
 90,Arthur,11:22:41 AM, au moine il support ce qu'il croie,conciliator,none,no,none,no
-91,Anna35,11:23:19 AM, thusq uèd dew<dJ,bully_support,none,no,none,no
-92,JulieVictime,11:23:32 AM," ça sert à quoi de faire ça sur les réseaux en plus ,?E",victim,none,no,none,no
-93,Emilie,11:23:51 AM, vient on se voit en vrai je te tabasse toi et tout tes potes gaysE,bully,victim,yes,aggression-other,no
+91,Anna35,11:23:19 AM, thusq uèd dew<d,bully_support,none,no,none,no
+92,JulieVictime,11:23:32 AM," ça sert à quoi de faire ça sur les réseaux en plus ,?",victim,none,no,none,no
+93,Emilie,11:23:51 AM, vient on se voit en vrai je te tabasse toi et tout tes potes gays,bully,victim,yes,aggression-other,no
 94,elodie65,11:24:11 AM, fais pas des blagues sur l'eglise dieu il a cree adam et eve tu leches des filles t'as pas honte,bully_support,victim,yes,denigration,no
-95,Arthur,11:24:22 AM," on vas les voir Julie et Léa, je vous dis ils viendrons même pasE",conciliator,none,no,none,no
+95,Arthur,11:24:22 AM," on vas les voir Julie et Léa, je vous dis ils viendrons même pas",conciliator,none,no,none,no
 96,elodie65,11:24:29 AM, jss d'accord avec Emilie,bully_support,none,no,none,no
-97,Anna35,11:24:29 AM, on se bas avec des gods ceinturesJ,bully_support,none,no,none,no
-98,JulieVictime,11:24:45 AM, Dieu je crois pas qu'il été d'accord avec les naziJ,victim,none,no,none,no
-99,JulieVictime,11:25:46 AM, franchement tu viens du siècle dernier EmilieE,victim,none,no,none,no
-100,Emilie,11:25:56 AM, dieu il a nous a permit de nous reproduire mais pas entre meme sexE,bully,victim,yes,aggression-other,no
-101,elodie65,11:25:58 AM, il etait pas d'accord avec les pédales non plusJ,bully_support,victim,yes,name_calling,no
+97,Anna35,11:24:29 AM, on se bas avec des gods ceintures,bully_support,none,no,none,no
+98,JulieVictime,11:24:45 AM, Dieu je crois pas qu'il été d'accord avec les nazi,victim,none,no,none,no
+99,JulieVictime,11:25:46 AM, franchement tu viens du siècle dernier Emilie,victim,none,no,none,no
+100,Emilie,11:25:56 AM, dieu il a nous a permit de nous reproduire mais pas entre meme sexe,bully,victim,yes,aggression-other,no
+101,elodie65,11:25:58 AM, il etait pas d'accord avec les pédales non plus,bully_support,victim,yes,name_calling,no
 102,JulieVictime,11:26:03 AM, même les allemands ils étaient pas aussi raciste que toi et xénophobe,victim,none,no,none,no
-103,Anna35,11:26:21 AM, un genocide c pire que ca?J,bully_support,none,no,none,no
-104,JulieVictime,11:26:23 AM, il l'a dit ça ?E,victim,none,no,none,no
-105,elodie65,11:26:35 AM, t'as cas pas t'afficher sur les réseaux si t pas contenteJ,bully_support,none,no,none,no
-106,JulieVictime,11:26:40 AM," genre ""interdit d'être homosexuelle"" ? c'est écrit dans la bible ou dans le coran ? je me suis pas affiché ! c'est toi qui a pris la photo ! et c'est toi qui a demandé qu'on se tienne la main tu as tout montéE",victim,none,no,none,no
-107,elodie65,11:27:30 AM, je m'appelle elodie pas Emilie mais elle a eu raisonJ,bully_support,none,no,none,no
+103,Anna35,11:26:21 AM, un genocide c pire que ca?,bully_support,none,no,none,no
+104,JulieVictime,11:26:23 AM, il l'a dit ça ?,victim,none,no,none,no
+105,elodie65,11:26:35 AM, t'as cas pas t'afficher sur les réseaux si t pas contente,bully_support,none,no,none,no
+106,JulieVictime,11:26:40 AM," genre ""interdit d'être homosexuelle"" ? c'est écrit dans la bible ou dans le coran ? je me suis pas affiché ! c'est toi qui a pris la photo ! et c'est toi qui a demandé qu'on se tienne la main tu as tout monté",victim,none,no,none,no
+107,elodie65,11:27:30 AM, je m'appelle elodie pas Emilie mais elle a eu raison,bully_support,none,no,none,no
 108,JulieVictime,11:27:30 AM, de toute piece pour créer une fake news,victim,none,no,none,no
-109,Anna35,11:27:44 AM, et un only fansE,bully_support,none,no,none,no
-110,Emilie,11:27:57 AM, des que vous sortez dans la rue tt le monde vous regarde bizzar allez sauter nonE,bully,victim,no,aggression-other,no
-111,elodie65,11:28:09 AM, graveJ,bully_support,none,no,none,no
-112,JulieVictime,11:28:26 AM, juste vous êtes jalouse parce que personne vous regarde et puis juste on rigole bienE,victim,none,no,none,no
+109,Anna35,11:27:44 AM, et un only fans,bully_support,none,no,none,no
+110,Emilie,11:27:57 AM, des que vous sortez dans la rue tt le monde vous regarde bizzar allez sauter non,bully,victim,no,aggression-other,no
+111,elodie65,11:28:09 AM, grave,bully_support,none,no,none,no
+112,JulieVictime,11:28:26 AM, juste vous êtes jalouse parce que personne vous regarde et puis juste on rigole bien,victim,none,no,none,no
 113,elodie65,11:28:38 AM, vous etes les regetté de ce monde et vous continuez vous comprenez pas que vous etes bizzard,bully_support,victim,no,denigration,no
-114,Anna35,11:28:44 AM, allez faire une anne frank et cachez vous de notre existence dans une cave stpJ,bully_support,victim,no,aggression-other,no
-115,JulieVictime,11:29:28 AM, non on assume d'être nousE,victim,none,no,none,no
-116,elodie65,11:29:34 AM, les gens qui soutiennent les gays vous etes bizzareJ,bully_support,none,yes,denigration,no
-117,JulieVictime,11:29:41 AM, et juste faut accepter que les gens soit différentE,victim,none,no,none,no
-118,elodie65,11:29:46 AM, pk nous on assume pas ?J,bully_support,none,no,none,no
+114,Anna35,11:28:44 AM, allez faire une anne frank et cachez vous de notre existence dans une cave stp,bully_support,victim,no,aggression-other,no
+115,JulieVictime,11:29:28 AM, non on assume d'être nous,victim,none,no,none,no
+116,elodie65,11:29:34 AM, les gens qui soutiennent les gays vous etes bizzare,bully_support,none,yes,denigration,no
+117,JulieVictime,11:29:41 AM, et juste faut accepter que les gens soit différent,victim,none,no,none,no
+118,elodie65,11:29:46 AM, pk nous on assume pas ?,bully_support,none,no,none,no
 119,JulieVictime,11:29:46 AM, sinon ba on vi dans sa famille pis on vois personne d'autre ba oui j'ai l'impression parce que generalement les gens qui ont problème avec ce genre de chose c'est qu'il aimerait mais qu'ils peuvent pas,victim,none,no,none,no
-120,Arthur,11:30:39 AM, vous cherchez vraiment la merdE,conciliator,none,no,none,no
-121,elodie65,11:30:43 AM, juste que vous vous sentez obligé de revandiquer le fait que vous etes lesbiennes cest genantJ,bully_support,victim,yes,denigration,no
-122,JulieVictime,11:30:45 AM, alors CQFD c'est vous les gays et puis si vous l'étiez ça me dérangerai pas parce que je suis une nazi tu va voir quand la maitresse apprendra que vous êtes nazi et la policeE,victim,bully,no,threat,no
-123,elodie65,11:31:35 AM, aller tgE,bully_support,victim,no,aggression-other,no
-124,Emilie,11:31:44 AM, baiser vous bande de putesJ,bully,victim,no,aggression-other,no
+120,Arthur,11:30:39 AM, vous cherchez vraiment la merde,conciliator,none,no,none,no
+121,elodie65,11:30:43 AM, juste que vous vous sentez obligé de revandiquer le fait que vous etes lesbiennes cest genant,bully_support,victim,yes,denigration,no
+122,JulieVictime,11:30:45 AM, alors CQFD c'est vous les gays et puis si vous l'étiez ça me dérangerai pas parce que je suis une nazi tu va voir quand la maitresse apprendra que vous êtes nazi et la police,victim,bully,no,threat,no
+123,elodie65,11:31:35 AM, aller tg,bully_support,victim,no,aggression-other,no
+124,Emilie,11:31:44 AM, baiser vous bande de putes,bully,victim,no,aggression-other,no
 125,JulieVictime,11:31:50 AM, super cool,victim,none,no,none,no
-126,Arthur,11:31:54 AM, tout le monde est nazi maintenantE,conciliator,none,no,none,no
-127,elodie65,11:31:56 AM, salope *J,bully_support,victim,no,name_calling,no
-128,JulieVictime,11:32:01 AM, vous êtes des filles cachés d'Eric ZemmourE,victim,none,no,none,no
-129,elodie65,11:32:10 AM, trop bien au moins plus de pedale d'ici 1 mois vive zemmour!!!J,bully_support,none,no,aggression-other,no
-130,JulieVictime,11:32:50 AM, super ton modèle de franceJ,victim,none,no,none,no
-131,JulieVictime,11:32:54 AM, que des gens pareils et que des naziJ,victim,none,no,none,no
+126,Arthur,11:31:54 AM, tout le monde est nazi maintenant,conciliator,none,no,none,no
+127,elodie65,11:31:56 AM, salope,bully_support,victim,no,name_calling,no
+128,JulieVictime,11:32:01 AM, vous êtes des filles cachés d'Eric Zemmour,victim,none,no,none,no
+129,elodie65,11:32:10 AM, trop bien au moins plus de pedale d'ici 1 mois vive zemmour!!!,bully_support,none,no,aggression-other,no
+130,JulieVictime,11:32:50 AM, super ton modèle de france,victim,none,no,none,no
+131,JulieVictime,11:32:54 AM, que des gens pareils et que des nazi,victim,none,no,none,no
 132,JulieVictime,11:33:03 AM, bravo,victim,none,no,none,no

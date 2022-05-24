@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,role,target,hate_speech,verbal_abuse,humor
+,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
 0,[11:30:03 AM], <Coralie-Soutien-Victime>, bon julie t'arrete avec fatimah la cest toi la cochonne,victim_support,bully,no,name_calling,no
 1,[11:30:28 AM], <Léo-Soutien-Harceleur>, Il se passe quoi ici ?,bully_support,none,no,none,no
 2,[11:30:55 AM], <Julie-Harceleur>, alors jvous bz tous,bully,none,no,aggression-other,no
