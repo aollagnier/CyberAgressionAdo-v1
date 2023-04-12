@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CyberAgressionAdo-v1
+message: Dataset of Teen Cyber aggression scenarios in French
+type: dataset
+authors:
+  - given-names: Anaïs
+    family-names: Ollagnier
+    email: ollagnier@i3s.unice.fr
+    affiliation: 'Université Côte d’Azur, Inria, CNRS, I3S'
+    orcid: 'https://orcid.org/0000-0003-4117-1191'
+  - given-names: Elena
+    family-names: Cabrio
+    email: elena.cabrio@univ-cotedazur.fr
+    affiliation: 'Université Côte d’Azur, Inria, CNRS, I3S'
+    orcid: 'https://orcid.org/0000-0001-9374-7872'
+  - given-names: Serena
+    family-names: Villata
+    email: serena.villata@inria.fr
+    affiliation: 'Université Côte d’Azur, Inria, CNRS, I3S'
+    orcid: 'https://orcid.org/0000-0003-3495-493X'
+identifiers:
+  - type: url
+    value: 'https://github.com/aollagnier/CyberAgressionAdo-v1'
+    description: Link to the dataset
+abstract: >-
+  The CyberAgressionAdo-v1 dataset contains aggressive
+  multiparty chats in French collected through a
+  role-playing game in high-schools. This dataset relies on
+  scenarios mimicking cyber aggression situations that may
+  occur among teens, involving topics such as the ethnic
+  origin, the religion or the color of skin. The collected
+  conversations have been annotated considering several
+  layers, as the participant roles, the presence of hate
+  speech, the type of verbal abuse present in the message,
+  and whether utterances use different humor figurative
+  devices such as sarcasm or irony.

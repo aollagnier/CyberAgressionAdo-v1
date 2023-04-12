@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
+ID,TIME,NAME,TEXT,ROLE,TARGET,HATE_SPEECH,VERBAL_ABUSE,HUMOR
 0,[2:34:16 PM], <Emilie-Harceleur>, Alors julie t'ai dégeulasse de sortir avec une gadji bande de salopes,bully,victim,no,denigration,no
 1,[2:35:10 PM], <Julie-Victime>, allo mme est homophobe,victim,none,no,none,no
 2,[2:36:50 PM], <Emilie-Harceleur>, mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous étent lesbiennes sa dégouteeee,bully,victim,yes,denigration,no

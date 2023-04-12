@@ -1,4 +1,4 @@
-,Unnamed: 0,Unnamed: 1,text,role,target,hate_speech,verbal_abuse,humor
+ID,TIME,NAME,TEXT,ROLE,TARGET,HATE_SPEECH,VERBAL_ABUSE,HUMOR
 0,[2019-06-13 15:48:59], <Silvia_Victime>, coucou les amis,victim,none,no,none,no
 1,[2019-06-13 15:55:58], <Sophie_Harceleur>, cc,bully,none,no,none,no
 2,[2019-06-13 15:56:37], <Silvia_Victime>, ça va Sohpie?,victim,none,no,none,no
